@@ -48,7 +48,7 @@ def getDataInfo(article: str, id):
     for item in ['<m>', "</m>", "<hint>", "</hint>"]:
         clean_article = clean_article.replace(item, "")
         
-    return mistake, hint, clean_article, answer 
+    return mistake[0], hint[0], clean_article, answer 
     
 def getDataset(rawdata: list[dict]):
     for data in rawdata:
@@ -64,7 +64,7 @@ def main():
     infile = sys.argv[1]
     state = infile[infile.find("_")+1 : infile.find(".md")]
     raw = getRaw(infile)
-    dataset = getDataset(raw)
+    dataset = getDataset(raw[63:])
     
     json_object = json.dumps(dataset, indent=2)
 
