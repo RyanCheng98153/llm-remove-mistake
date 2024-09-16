@@ -15,9 +15,9 @@ device = "cpu" # "cuda" for GPU usage or "cpu" for CPU usage
 
 checkpoint = "HuggingFaceTB/SmolLM-360M-Instruct"
 
-tokenizer = AutoTokenizer.from_pretrained(checkpoint, cache_dir="./model/cache")
+tokenizer = AutoTokenizer.from_pretrained(checkpoint, cache_dir="./.cache")
 # for multiple GPUs install accelerate and do `model = AutoModelForCausalLM.from_pretrained(checkpoint, device_map="auto")`
-model = AutoModelForCausalLM.from_pretrained(checkpoint, cache_dir="./model/cache").to(device)
+model = AutoModelForCausalLM.from_pretrained(checkpoint, cache_dir="./.cache").to(device)
 
 prompt = "What is the capital of France."
 
