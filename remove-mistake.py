@@ -5,8 +5,9 @@ import time
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 device = "cpu" # "cuda" for GPU usage or "cpu" for CPU usage
-# checkpoint = "HuggingFaceTB/SmolLM-360M-Instruct"
-checkpoint = "HuggingFaceTB/SmolLM-1.7B-Instruct"
+checkpoint = "HuggingFaceTB/SmolLM-360M-Instruct"
+# checkpoint = "HuggingFaceTB/SmolLM-1.7B-Instruct"
+# checkpoint = "microsoft/Phi-3-mini-4k-instruct"
 # for multiple GPUs install accelerate and do `model = AutoModelForCausalLM.from_pretrained(checkpoint, device_map="auto")`
 tokenizer = AutoTokenizer.from_pretrained(checkpoint, cache_dir="./.cache")
 model = AutoModelForCausalLM.from_pretrained(checkpoint, cache_dir="./.cache").to(device)
@@ -23,8 +24,8 @@ def calculate_time(func):
     return inner1
 
 def getDataset():
-    statelist = ['mistake', 'unrelevant', 'hestitate']
-    state = statelist[0]
+    statelist = ['mistake', 'mistake_short', 'unrelevant', 'hestitate']
+    state = statelist[1]
 
     dsfile = f"./datasets/dataset_{state}.json"
 
@@ -42,7 +43,8 @@ def getResponse(prompt: str, max_new_tokens: int = 50):
     attention_mask = torch.ones(input_ids.shape,dtype=torch.long,device=device)
     outputs = model.generate(
         input_ids, 
-        # max_new_tokens=max_new_tokens, 
+        max_new_tokens=max_new_tokens, 
+        # max_length=max_new_tokens,
         attention_mask=attention_mask,
         pad_token_id=tokenizer.eos_token_id,
         temperature=0.2, 
@@ -54,26 +56,19 @@ def getResponse(prompt: str, max_new_tokens: int = 50):
 def main():
     # instruction = "In the article, help me eliminate the only mistake sentences and only hint sentences that indicates the mistake sentences. "
     # instruction = "In the article, identify the mistake sentence containing factual error and provide the hint sentence that points to this mistake."
-    instruction =  "In the article, identify the sentence labeled as 'mistake sentence' that contains a factual error and provide the sentence labeled as 'hint sentences' that indicates this mistake."
+    # instruction =  "Find the only mistake sentences and hint sentences. The mistake sentence contains a factual error and the hint sentence points to the mistake sentences."
+    instruction = "Find the only mistake sentences and the corresponding hint sentences in the article. The mistake sentence introduces a factual error, while the hint sentence clarifies or corrects that error by directly addressing the information provided in the mistake sentence."
     
     ds = getDataset()
-    # article = ds[11]['clean_article']
     
-    """
-    article = 
-    Cancer is a complex and multifaceted disease characterized by the uncontrolled growth and spread of abnormal cells. It can affect various parts of the body and is caused by a combination of genetic and environmental factors. <m> One of the most common causes of cancer is a deficiency in Vitamin C, which weakens the immune system and makes it susceptible to cancerous cells.</m> Early detection and treatment are crucial for improving survival rates and quality of life for cancer patients. 
-
-    There are various types of cancer, each with its own unique characteristics and treatment options. For instance, lung cancer is often associated with smoking, while skin cancer is linked to excessive sun exposure. Breast cancer, on the other hand, can be influenced by genetics and lifestyle factors. <hint> The information about Vitamin C deficiency causing cancer is not entirely accurate. While Vitamin C plays a vital role in maintaining a healthy immune system, it does not directly cause cancer. Cancer is a complex disease with multiple contributing factors.</hint>
-    """
+    article = ds[0]['marked_article']
     
-    article = "Cancer is a complex and multifaceted disease characterized by the uncontrolled growth and spread of abnormal cells. It can affect various parts of the body and is caused by a combination of genetic and environmental factors.  One of the most common causes of cancer is a deficiency in Vitamin C, which weakens the immune system and makes it susceptible to cancerous cells. Early detection and treatment are crucial for improving survival rates and quality of life for cancer patients. \n\nThere are various types of cancer, each with its own unique characteristics and treatment options. For instance, lung cancer is often associated with smoking, while skin cancer is linked to excessive sun exposure. Breast cancer, on the other hand, can be influenced by genetics and lifestyle factors.  The information about Vitamin C deficiency causing cancer is not entirely accurate. While Vitamin C plays a vital role in maintaining a healthy immune system, it does not directly cause cancer. Cancer is a complex disease with multiple contributing factors.\n\nTreatment options for cancer range from surgery and radiation therapy to chemotherapy and immunotherapy. The specific approach depends on the type, stage, and location of the cancer. Ongoing research is constantly exploring new and innovative treatments aimed at improving patient outcomes and minimizing side effects. With advancements in medical technology, the outlook for cancer patients is becoming increasingly optimistic, offering hope and potential for long-term survival. "
-    
-    prompt = instruction + article
+    prompt = instruction + "\nArticle:\n" + article
     # prompt = "Where is the capital city of France."
     
     # print(prompt)
     
-    response = getResponse(prompt, max_new_tokens=200)
+    response = getResponse(prompt, max_new_tokens=100)
     print(response)
     
 if __name__ == "__main__":
