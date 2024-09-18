@@ -23,14 +23,14 @@ def getRaw(filename: str):
                 topic = title[topic_start+7 : title_end-1]
                 article = article[title_end+2:-1]
                 
-                data = {"id": x, "topic": topic, "article": article }
+                data = {"id": x, "topic": topic, "marked_article": article }
                 rawdata.append(data)
     return rawdata
 
-def getDataInfo(article: str, id):
+def getDataInfo(marked_article: str, id):
     print(id)
-    clean_article = article
-    answer = article
+    article = marked_article
+    answer = marked_article
     mistake = []
     hint = []
     
@@ -46,29 +46,33 @@ def getDataInfo(article: str, id):
         answer = answer[:m_start] + answer[m_end + 5 : hint_start] + answer[hint_end + 9:-1]
         
     for item in ['<m>', "</m>", "<hint>", "</hint>"]:
-        clean_article = clean_article.replace(item, "")
+        article = article.replace(item, "")
         
-    return mistake[0], hint[0], clean_article, answer 
+    return mistake[0], hint[0], article, answer 
     
 def getDataset(rawdata: list[dict]):
-    for data in rawdata:
-        mistake, hint, clean_article, answer = getDataInfo(data['article'], data['id'])
-        data['mistake'] = mistake
-        data['hint'] = hint
-        data['clean_article'] = clean_article
-        data['answer'] = answer
+    for i in range(0, len(rawdata)):
+        mistake, hint, article, answer = getDataInfo(rawdata[i]['marked_article'], rawdata[i]['id'])
+        rawdata[i]['mistake'] = mistake
+        rawdata[i]['hint'] = hint
+        rawdata[i]['article'] = article
+        rawdata[i]['answer'] = answer
         
+        # Desired order of keys
+        desired_order = ['id', 'topic', 'article', 'answer', 'mistake', 'hint', 'marked_article']
+        # Reorder by custom order
+        rawdata[i] = {key: rawdata[i][key] for key in desired_order}
     return rawdata
     
 def main():
     infile = sys.argv[1]
     state = infile[infile.find("_")+1 : infile.find(".md")]
     raw = getRaw(infile)
-    dataset = getDataset(raw[63:])
+    dataset = getDataset(raw[:])
     
     json_object = json.dumps(dataset, indent=2)
 
-    with open (f"./datasets/dataset_{state}.json", "w") as f:
+    with open (f"../datasets/dataset_{state}.json", "w") as f:
         f.write(json_object)
     
 if __name__ == "__main__":
