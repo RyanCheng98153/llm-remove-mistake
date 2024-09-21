@@ -2,6 +2,7 @@ from tqdm import tqdm
 import google.generativeai as genai
 import random
 import time
+import json
 
 env_vars = dict()
 with open("./.env") as f:
@@ -40,20 +41,8 @@ model_list = [
 model = model_list[13]
 model = genai.GenerativeModel(model)
 
-topic_list = ['technology', 'science', 'nature', 'climate', 'business', 'marketing', 'Politics', 'Culture', 'language', 
-              'history', 'music', 'famous person', 'lifestyle', 'communication', 'biology', 'sociology', 'travel', 'computer science', 
-              'engineering', 'food and cuisine', 'chemistry', 'fashion', 'physics', 'hobbies', 'social contact', 'sports', 'Political', 'education', 
-              'social media', 'current events', 'country', 'geography', 'habits', 'life lessons', 'leadership', 'trends', 'economic',
-              'ecosystem', 'renewable energy', 'global issue', 'design', 'advertising', 'journalism', 'philosophy', 'psychology',
-              'Humanities', 'Mathematics', 'Accounting', 'Biotechnology', 'brain', 'nursing', 'mental health', 'wildlife', 'endanger species',
-              'forest', 'animal', 'plants', 'cosmetic', 'investing', 'social responsibility', 'business ethics', 'ethics', 'gaming',
-              'goverment', 'furniture', 'literature ', 'heritage', 'online learning', 'gender', 'nutrition', 'work-life balance', 'stress management',
-              'family', 'cooking', 'pets', 'fashion', 'dogs', 'cat', 'Blockchain', 'Virtual Reality', 'internet of things', 'renewable energy', 'ocean',
-              'novel', 'movie', 'urban', 'pop music', 'fake news', 'product design', 'allergies', 'sick', 'disaster', 'flu', 'disease', 'bacteria', 'sleep',
-              'diabetes', 'cancer', 'quantum computing', 'quantum', 'medicine', 'religion', 'hygiene', 'pollution', 'environment', 'yoga', 'facebook', 'online streaming',
-              'blog', 'art', 'software', 'artificial intelligence', 'affection', 'internet', 'nobility', 'marketing', 
-              'any subject or field you like'
-              ]
+with open ("./archieve/topic.json", "r") as f:
+    topic_list = json.load(f)['topic']
 
 # print(topic_list)
 
