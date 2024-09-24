@@ -38,11 +38,11 @@ model_list = [
     "gemini-1.5-flash-8b-exp-0827"   #17
 ]
 
-model = model_list[13]
+model = model_list[12]
 model = genai.GenerativeModel(model)
 
 with open ("./archieve/topic.json", "r") as f:
-    topic_list = json.load(f)['topic']
+    topic_list = json.load(f)['topic1000']
 
 # print(topic_list)
 
