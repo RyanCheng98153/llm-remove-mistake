@@ -44,7 +44,7 @@ def split_marked_article(marked_article, id):
     answer = re.sub(mistake_pattern, "", marked_article)
     answer = re.sub(hint_pattern, "", answer).strip()
     
-    return mistakes, hints, clean_article, answer
+    return mistakes[0], hints[0], clean_article, answer
 
 def getDataset(rawdata: list[dict]):
     for i in range(0, len(rawdata)):
