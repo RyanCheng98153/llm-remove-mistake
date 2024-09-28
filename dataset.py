@@ -69,7 +69,7 @@ def sortDataset(dataset):
         article = data.get('article', '')
 
         # Check if both 'marked_article' or 'article' have more than 170 words
-        if len(marked_article.split()) > 170 or len(article.split()) > 170:
+        if len(marked_article.split()) > 150 or len(article.split()) > 150:
             long_articles.append(data)  # Add to long articles list
         else:
             short_articles.append(data)  # Add to short articles list
