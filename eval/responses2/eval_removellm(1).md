@@ -21,7 +21,8 @@ hint: {' The statement about "Deep Blue" is incorrect. Deep Blue is actually a c
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.11	 
 	Artificial intelligence is increasingly being used to enhance and explore creative endeavors.
@@ -33,6 +34,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.09
 	This allows for the exploration of new artistic possibilities and pushes the boundaries of creative expression.
 clean: 0.96	, mistake: 0.14, 	 hint: 0.05	 
 	urthermore, AI can assist human artists by providing tools and insights, allowing them to focus on their vision and refine their artistic skills.
+
+[Total: 1, Correct: 1, Wrong: 0]
 
 ===[ 1 ]===
 [topic]: Baking Bread
@@ -57,7 +60,8 @@ hint: {" Adding too much sugar to bread dough can actually hinder the yeast's ac
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.1, 	 hint: 0.12	 
 	Baking bread is a rewarding process that allows you to create delicious, homemade loaves.
@@ -67,6 +71,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.1
 	The amount of water you use also plays a crucial role, as it determines the texture of the bread.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.14	 
 	 a good balance of flour, water, yeast, and salt is essential for creating a well-risen bread with a delicious taste and texture.
+
+[Total: 2, Correct: 2, Wrong: 0]
 
 ===[ 2 ]===
 [topic]: Yoga for Flexibility
@@ -91,7 +97,8 @@ hint: {' Pushing beyond your limits can lead to injury and is not recommended fo
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.12	 
 	Yoga is a fantastic way to improve flexibility and increase range of motion in the body.
@@ -101,6 +108,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.11
 	Certain poses, like the downward-facing dog, lengthen the hamstrings and calves, improving flexibility in the legs.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.11	 
 	 egular practice of yoga poses should be tailored to your individual capabilities and gradually progressed with practice.
+
+[Total: 3, Correct: 3, Wrong: 0]
 
 ===[ 3 ]===
 [topic]: Influenza
@@ -125,7 +134,8 @@ hint: {" While influenza vaccines provide significant protection, they are not e
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.19	 
 	Influenza, commonly known as the flu, is a highly contagious respiratory illness caused by influenza viruses.
@@ -137,6 +147,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.21
 	Staying hydrated, getting enough rest, and avoiding close contact with sick individuals are essential steps for preventing the spread of influenza.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.12	 
 	 Furthermore, frequent handwashing with soap and water is highly recommended to reduce the risk of transmission.
+
+[Total: 4, Correct: 4, Wrong: 0]
 
 ===[ 4 ]===
 [topic]: Content Marketing
@@ -161,7 +173,8 @@ hint: {' This statement is incorrect. While promoting products is important, suc
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.31, 	 hint: 0.27	 
 	Content marketing is a powerful tool for businesses to engage their audience and build brand loyalty.
@@ -171,6 +184,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.16
 	 Consistency is key, and regularly publishing content across various platforms can help reach a wider audience.
 clean: 0.96	, mistake: 0.2, 	 hint: 0.18	 
 	t's also crucial to analyze the performance of your content to identify what resonates with your target audience and adjust your strategy accordingly.
+
+[Total: 5, Correct: 5, Wrong: 0]
 
 ===[ 5 ]===
 [topic]: Traditional Japanese Architecture
@@ -195,7 +210,8 @@ hint: {' The Torii gates are not made of stone, but rather of lacquered wood, us
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0	 
 	Traditional Japanese architecture is renowned for its unique aesthetic and harmony with nature.
@@ -207,6 +223,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.06
 	Shoji screens, with their translucent paper panels, create a beautiful interplay of light and shadow.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.17	 
 	The overall design emphasizes the importance of space and simplicity, reflecting a deep connection to the natural world.
+
+[Total: 6, Correct: 6, Wrong: 0]
 
 ===[ 6 ]===
 [topic]: The Impact of Globalization
@@ -231,7 +249,8 @@ hint: {" The statement about decreasing global poverty is inaccurate. While glob
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.29, 	 hint: 0.17	 
 	Globalization has had a profound impact on economies worldwide, leading to increased interconnectedness and interdependence.
@@ -243,6 +262,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.14
 	 However, globalization has also come with its share of challenges, such as income inequality and the exploitation of workers in developing countries.
 clean: 1.0	, mistake: 0.13, 	 hint: 0.31	 
 	 The impact of globalization on poverty is complex and multifaceted, requiring a nuanced understanding of its various effects.
+
+[Total: 7, Correct: 7, Wrong: 0]
 
 ===[ 7 ]===
 [topic]: Geothermal Energy
@@ -267,7 +288,8 @@ hint: {" Geothermal power plants actually utilize the heat from the Earth's inte
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.42	 
 	Geothermal energy is a clean and sustainable source of power that harnesses the heat from the Earth's core.
@@ -277,6 +299,8 @@ clean: 1.0	, mistake: 0.25, 	 hint: 0.29
 	 Geothermal energy can be utilized for heating and cooling buildings, as well as generating electricity.
 clean: 1.0	, mistake: 0.16, 	 hint: 0.1	 
 	 While geothermal energy is a promising source, further development is needed to expand its reach and address potential environmental concerns.
+
+[Total: 8, Correct: 8, Wrong: 0]
 
 ===[ 8 ]===
 [topic]: Smart Homes
@@ -301,7 +325,8 @@ hint: {' Facial recognition technology is not yet widely used for door unlocking
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.17	 
 	Smart homes are becoming increasingly popular, offering convenience and efficiency through connected devices.
@@ -311,6 +336,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.14
 	Smart homes are also integrating with other technologies like voice assistants and smart appliances, creating a truly connected living experience.
 clean: 0.95	, mistake: 0.17, 	 hint: 0.19	 
 	owever, it's important to remember that smart home security is still under development and requires careful consideration of potential risks.
+
+[Total: 9, Correct: 9, Wrong: 0]
 
 ===[ 9 ]===
 [topic]: Family Traditions
@@ -335,7 +362,8 @@ hint: {' While grandparents can definitely influence family traditions, they are
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.16	 
 	Family traditions are an integral part of our lives, weaving together generations and creating a sense of belonging.
@@ -345,6 +373,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.06
 	 These shared experiences create lasting memories, strengthen family bonds, and provide a sense of stability and continuity.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.17	 
 	It is important to recognize that each family's unique history contributes to the traditions they uphold.
+
+[Total: 10, Correct: 10, Wrong: 0]
 
 ===[ 10 ]===
 [topic]: Influencer Marketing
@@ -369,7 +399,8 @@ hint: {' This statement about the origin of influencer marketing is inaccurate. 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.17	 
 	Influencer marketing has become a powerful tool for businesses to reach their target audience.
@@ -379,6 +410,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.19
 	By leveraging the trust and credibility of influencers, businesses can connect with potential customers in a more authentic and relatable way.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.09	 
 	Influencer campaigns require careful planning and execution to ensure they are successful.
+
+[Total: 11, Correct: 11, Wrong: 0]
 
 ===[ 11 ]===
 [topic]: The Great Gatsby
@@ -403,7 +436,8 @@ hint: {" Gatsby's wealth is actually a result of his bootlegging operations duri
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.11	 
 	The Roaring Twenties were a time of extravagant parties and flaunting wealth, as depicted in F.
@@ -413,6 +447,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.13
 	 The novel explores the complexities of love, social class, and the American Dream, highlighting the disillusionment and longing for a past that cannot be recaptured.
 clean: 0.95	, mistake: 0.1, 	 hint: 0.19	 
 	 he tragic end of the story serves as a reminder of the unattainable nature of dreams and the destructive power of obsession.
+
+[Total: 12, Correct: 12, Wrong: 0]
 
 ===[ 12 ]===
 [topic]: Wound Care
@@ -437,7 +473,8 @@ hint: {' Applying ice directly to a wound is not recommended as it can damage th
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.17	 
 	Wound care is a crucial aspect of nursing, aimed at promoting healing and preventing complications.
@@ -447,6 +484,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.26
 	Using sterile dressings to cover the wound helps protect it from further contamination and allows for proper healing.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.11	 
 	Regular wound assessments are also critical to monitor progress and identify any signs of infection.
+
+[Total: 13, Correct: 13, Wrong: 0]
 
 ===[ 13 ]===
 [topic]: MOOCs
@@ -471,7 +510,8 @@ hint: {" While MOOCs can be valuable, they don't automatically grant college cre
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.08	 
 	MOOCs, or Massive Open Online Courses, have revolutionized the way people access education.
@@ -481,6 +521,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.13
 	Many MOOCs are offered by prestigious universities, providing access to high-quality learning materials and expert instructors.
 clean: 0.95	, mistake: 0.1, 	 hint: 0.12	 
 	 oOCs can also be a great way to explore new interests, enhance skills, and stay up-to-date in your field.
+
+[Total: 14, Correct: 14, Wrong: 0]
 
 ===[ 14 ]===
 [topic]: The Evolution of the English Language
@@ -505,7 +547,8 @@ hint: {' While the Renaissance did see a flourishing of English literature and t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.18	 
 	The English language has a rich and fascinating history, shaped by various influences throughout the centuries.
@@ -517,6 +560,8 @@ clean: 1.0	, mistake: 0.29, 	 hint: 0.21
 	  Shakespeare, who wrote during the Renaissance, helped shape the language with his innovative use of words and poetic language.
 clean: 0.94	, mistake: 0.24, 	 hint: 0.22	 
 	 his period also saw the development of the printing press, which greatly contributed to the standardization of English.
+
+[Total: 15, Correct: 15, Wrong: 0]
 
 ===[ 15 ]===
 [topic]: Skin Care for Sensitive Skin
@@ -541,7 +586,8 @@ hint: {' This statement is incorrect; frequent exfoliation can actually irritate
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.31, 	 hint: 0.21	 
 	Sensitive skin often requires special attention and gentle products.
@@ -551,6 +597,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.11
 	Opting for fragrance-free and hypoallergenic products is crucial to minimize the chances of allergic reactions.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.18	 
 	 A gentle hydrating moisturizer can also help maintain skin's natural barrier and prevent dryness.
+
+[Total: 16, Correct: 16, Wrong: 0]
 
 ===[ 16 ]===
 [topic]: Eye Makeup
@@ -575,7 +623,8 @@ hint: {' Applying black eyeliner on the waterline can actually make the eyes app
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.13	 
 	Eye makeup can enhance your natural features and create stunning looks.
@@ -587,6 +636,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.06
 	 You can experiment with different colors and styles to find what suits you best.
 clean: 0.93	, mistake: 0.33, 	 hint: 0.12	 
 	emember, the key is to choose products that complement your eye shape and skin tone.
+
+[Total: 17, Correct: 17, Wrong: 0]
 
 ===[ 17 ]===
 [topic]: Coral Reef Ecosystems
@@ -611,7 +662,8 @@ hint: {'  Coral reefs are actually built by tiny animals called coral polyps, no
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.26	 
 	Coral reefs are incredibly diverse underwater ecosystems teeming with life.
@@ -621,6 +673,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.11
 	 This intricate structure provides shelter and food for a vast network of organisms, making coral reefs crucial for the health of the ocean.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.12	 
 	 However, climate change and pollution pose significant threats to these delicate ecosystems, leading to coral bleaching and ultimately reef degradation.
+
+[Total: 18, Correct: 18, Wrong: 0]
 
 ===[ 18 ]===
 [topic]: The Human Brain
@@ -645,7 +699,8 @@ hint: {' The speed of nerve signals is actually much slower than 1,000 miles per
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.1	 
 	The human brain is an incredibly complex organ responsible for everything we think, feel, and do.
@@ -657,6 +712,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.1
 	The brain is constantly learning and adapting, forming new connections and pathways throughout our lives.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.1	 
 	Understanding the brain's functions is crucial for understanding human behavior and developing treatments for neurological conditions.
+
+[Total: 19, Correct: 19, Wrong: 0]
 
 ===[ 19 ]===
 [topic]: Urban Farming
@@ -681,7 +738,8 @@ hint: {' While urban farms often use abandoned land, they also utilize a variety
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.14	 
 	Urban farming is gaining popularity as a way to grow fresh food in cities.
@@ -691,6 +749,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.09
 	With creative solutions like rooftop gardens, vertical farming, and community plots, urban farming transforms underutilized spaces into productive landscapes.
 clean: 0.94	, mistake: 0.06, 	 hint: 0.09	 
 	his innovative approach brings the benefits of fresh food and sustainable practices directly into urban environments.
+
+[Total: 20, Correct: 20, Wrong: 0]
 
 ===[ 20 ]===
 [topic]: Sustainable Fashion
@@ -715,7 +775,8 @@ hint: {' The information about synthetic fabrics is incorrect. While they may be
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.1	 
 	Sustainable fashion focuses on ethical and environmentally conscious practices throughout the clothing production process.
@@ -725,6 +786,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.14
 	 Furthermore, buying secondhand clothes, repairing damaged garments, and reducing overall consumption are key aspects of sustainable fashion.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.12	 
 	 By making informed choices and supporting brands committed to sustainable practices, we can contribute to a more ethical and environmentally responsible fashion industry.
+
+[Total: 21, Correct: 21, Wrong: 0]
 
 ===[ 21 ]===
 [topic]: The Solar System
@@ -749,7 +812,8 @@ hint: {' The statement about Mars having oceans is incorrect. Mars has a very th
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.17	 
 	Our solar system is a fascinating collection of planets, moons, and other celestial bodies orbiting the sun.
@@ -761,6 +825,8 @@ clean: 1.0	, mistake: 0.2, 	 hint: 0.14
 	Jupiter, the largest planet in our solar system, boasts a massive red spot, which is a giant storm that has been raging for centuries.
 clean: 0.97	, mistake: 0.06, 	 hint: 0.12	 
 	he Saturn, with its iconic rings, is another remarkable celestial body in our solar system.
+
+[Total: 22, Correct: 22, Wrong: 0]
 
 ===[ 22 ]===
 [topic]: Nonverbal Communication
@@ -785,7 +851,8 @@ hint: {' The idea that avoiding eye contact always suggests dishonesty is not ac
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.5	 
 	Nonverbal communication plays a significant role in how we convey our messages.
@@ -795,6 +862,8 @@ clean: 1.0	, mistake: 0.41, 	 hint: 0.26
 	 While eye contact is essential, it's important to remember that different cultures have different norms regarding eye contact.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.09	 
 	 Understanding these nuances is vital for effective communication across cultures.
+
+[Total: 23, Correct: 23, Wrong: 0]
 
 ===[ 23 ]===
 [topic]: Early Childhood Education
@@ -819,7 +888,8 @@ hint: {" This is incorrect! Starting formal schooling at age two is not recommen
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.21	 
 	Early childhood education plays a crucial role in a child's development, laying the foundation for their future learning.
@@ -829,6 +899,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.11
 	 These early experiences also foster a love of learning, which can be invaluable as they progress through school.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.17	 
 	By creating a supportive and stimulating environment, we can empower young children to reach their full potential.
+
+[Total: 24, Correct: 24, Wrong: 0]
 
 ===[ 24 ]===
 [topic]: Bioluminescence in the Ocean
@@ -853,7 +925,8 @@ hint: {" While diatoms are important photosynthetic organisms, they don't produc
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.15	 
 	The ocean is a vast and mysterious place, teeming with life and wonder.
@@ -865,6 +938,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0
 	This light show can be a captivating sight for divers and scientists alike.
 clean: 1.0	, mistake: 0.16, 	 hint: 0.15	 
 	 Other bioluminescent creatures include squid, shrimp, and even some types of fish, showcasing the diverse ways in which this phenomenon plays a role in the marine ecosystem.
+
+[Total: 25, Correct: 25, Wrong: 0]
 
 ===[ 25 ]===
 [topic]: Urban Planning
@@ -889,7 +964,8 @@ hint: {' Pedestrian-only zones are actually designed to prioritize walking and r
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.06	 
 	Urban planning plays a crucial role in creating sustainable and livable cities.
@@ -899,6 +975,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.15
 	  Well-designed public spaces also contribute to a city's quality of life, offering residents opportunities for recreation and social interaction.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.1	 
 	 Green spaces within urban areas, such as parks and gardens, are essential for improving air quality and providing areas for relaxation and recreation.
+
+[Total: 26, Correct: 26, Wrong: 0]
 
 ===[ 26 ]===
 [topic]: Earthquake Preparedness
@@ -923,7 +1001,8 @@ hint: {' It is incorrect to stay in the middle of the room during an earthquake.
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.07	 
 	Earthquakes are unpredictable natural disasters that can cause significant damage and loss of life.
@@ -935,6 +1014,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.24
 	 It's also important to have a designated meeting place for your family and neighbors to gather after the earthquake.
 clean: 0.94	, mistake: 0.1, 	 hint: 0.12	 
 	kening how to turn off gas and water lines is also crucial to prevent further damage and hazards.
+
+[Total: 27, Correct: 27, Wrong: 0]
 
 ===[ 27 ]===
 [topic]: Elephant Social Structure
@@ -959,7 +1040,8 @@ hint: {" While males do leave their family groups, they don't form bachelor herd
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.14	 
 	Elephants are highly social animals, known for their complex family structures.
@@ -971,6 +1053,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.05
 	Elephants communicate through a variety of vocalizations, including rumbles, trumpets, and even infrasonic sounds that humans can't hear.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.06	 
 	Their intricate social bonds and complex communication abilities contribute to their fascinating social dynamics.
+
+[Total: 28, Correct: 28, Wrong: 0]
 
 ===[ 28 ]===
 [topic]: Artificial Intelligence in Healthcare
@@ -995,7 +1079,8 @@ hint: {" AI is not yet capable of performing complex surgeries independently. Wh
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.14	 
 	Artificial intelligence (AI) is transforming the healthcare industry with its potential to improve diagnosis, treatment, and patient care.
@@ -1005,6 +1090,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0.14
 	AI-powered tools are also assisting in drug discovery, helping to identify new therapies and accelerate research.
 clean: 0.95	, mistake: 0.05, 	 hint: 0.13	 
 	 he application of AI in healthcare is expected to continue evolving, leading to more personalized and efficient healthcare services in the future.
+
+[Total: 29, Correct: 29, Wrong: 0]
 
 ===[ 29 ]===
 [topic]: The History of the Internet
@@ -1029,7 +1116,8 @@ hint: {'  The "World Wide Web" was actually a later development, conceived by Ti
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.18	 
 	The internet has revolutionized communication and information sharing, but its origins can be traced back to the early 1960s.
@@ -1039,6 +1127,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.42
 	 The "World Wide Web" later evolved into the internet we know today, with the invention of the hypertext transfer protocol (HTTP) by Tim Berners-Lee in the late 1980s.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.06	 
 	 The internet has continued to evolve and expand, connecting billions of people worldwide and transforming various aspects of our lives.
+
+[Total: 30, Correct: 30, Wrong: 0]
 
 ===[ 30 ]===
 [topic]: Dog Breeds
@@ -1063,7 +1153,8 @@ hint: {' While the Australian Shepherd is incredibly intelligent, the concept of
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 3, mistake 1, hint 0
+[Complete Right]
+Total: 4, clean 3, mistake 1, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.11	 
 	Dogs come in all shapes and sizes, each with their own unique personality and characteristics.
@@ -1073,6 +1164,8 @@ clean: 0.22	, mistake: 1.0, 	 hint: 0.19
 	 One breed known for its intelligence and ability to perform complex tasks is the Australian Shepherd, which is known for its excellent herding skills and its ability to communicate with humans through telepathy.
 clean: 1.0	, mistake: 0.22, 	 hint: 0.29	 
 	 No matter the breed, choosing the right dog for your needs and lifestyle is crucial for a happy and fulfilling relationship.
+
+[Total: 31, Correct: 30, Wrong: 1]
 
 ===[ 31 ]===
 [topic]: Sustainable Fashion
@@ -1097,7 +1190,8 @@ hint: {'  Plastic, while recyclable, is not a sustainable material for clothing 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.17	 
 	Sustainable fashion is a growing movement that emphasizes environmentally friendly practices throughout the fashion industry.
@@ -1107,6 +1201,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.1
 	  This shift towards eco-conscious practices not only benefits the environment but also empowers consumers to make more ethical choices.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.19	 
 	 By opting for sustainable clothing options, individuals can contribute to a more responsible fashion industry that prioritizes the health of our planet.
+
+[Total: 32, Correct: 31, Wrong: 1]
 
 ===[ 32 ]===
 [topic]: The Great Barrier Reef
@@ -1131,7 +1227,8 @@ hint: {' The Great Barrier Reef is not a single continuous structure, but rather
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.33, 	 hint: 0.28	 
 	The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system.
@@ -1143,6 +1240,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0.06
 	Its unique beauty and ecological importance attract millions of visitors annually.
 clean: 0.96	, mistake: 0.1, 	 hint: 0.2	 
 	 his natural wonder is a testament to the resilience of marine ecosystems and serves as a critical reminder of the importance of protecting our oceans.
+
+[Total: 33, Correct: 32, Wrong: 1]
 
 ===[ 33 ]===
 [topic]: Hand Hygiene
@@ -1167,7 +1266,8 @@ hint: {" It's actually the soap, not the water temperature, that effectively rem
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.06	 
 	Washing our hands is a crucial part of maintaining good hygiene.
@@ -1179,6 +1279,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.16
 	 However, the key to effective hand washing is using soap and scrubbing for at least 20 seconds.
 clean: 1.0	, mistake: 0.18, 	 hint: 0.11	 
 	 Another important step is to dry your hands thoroughly, as wet hands can easily pick up germs again.
+
+[Total: 34, Correct: 33, Wrong: 1]
 
 ===[ 34 ]===
 [topic]: The Beatles
@@ -1203,7 +1305,8 @@ hint: {'  The information about "Let It Be" being the Beatles\' final album is i
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.23, 	 hint: 0.15	 
 	The Beatles, a band from Liverpool, England, revolutionized popular music in the 1960s.
@@ -1217,6 +1320,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.08
 	The band's legacy continues to inspire and resonate with people worldwide.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.13	 
 	 The Beatles' music remains a timeless treasure, a testament to their creative genius and lasting impact on culture.
+
+[Total: 35, Correct: 34, Wrong: 1]
 
 ===[ 35 ]===
 [topic]: Sustainable Fashion
@@ -1241,7 +1346,8 @@ hint: {' This statement about animal-based materials is incorrect. While biodegr
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.11	 
 	Sustainable fashion is gaining traction as consumers become more aware of the environmental impact of clothing production.
@@ -1251,6 +1357,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.12
 	Supporting brands that prioritize fair labor practices and ethical production methods is crucial.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.05	 
 	 By making informed choices and supporting sustainable practices, we can collectively make a positive impact on the fashion industry.
+
+[Total: 36, Correct: 35, Wrong: 1]
 
 ===[ 36 ]===
 [topic]: Sleep Disorders
@@ -1275,7 +1383,8 @@ hint: {'  Actually, short naps can be beneficial for those with insomnia, as lon
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.15	 
 	Sleep disorders can significantly impact our overall well-being, affecting our mood, focus, and physical health.
@@ -1285,6 +1394,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.04
 	 It's crucial to maintain a regular sleep schedule, creating a relaxing bedtime routine and avoiding caffeine or alcohol before bed.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.09	 
 	Seeking professional help from a sleep specialist can provide tailored advice and treatment options for specific sleep disorders.
+
+[Total: 37, Correct: 36, Wrong: 1]
 
 ===[ 37 ]===
 [topic]: The History of the Internet
@@ -1309,7 +1420,8 @@ hint: {' While ARPANET was indeed a precursor to the internet, it was not design
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 3, mistake 0, hint 0
+[Complete Right]
+Total: 3, clean 3, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.12	 
 	The internet, as we know it, has its roots in the 1960s with the creation of ARPANET, a network developed by the United States Department of Defense.
@@ -1317,6 +1429,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.15
 	 However, the internet's true potential was realized in the 1990s with the rise of the World Wide Web, a graphical interface that made it accessible to the general public.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.1	 
 	he internet revolutionized communication, commerce, and countless aspects of modern life, connecting people and information across the globe.
+
+[Total: 38, Correct: 37, Wrong: 1]
 
 ===[ 38 ]===
 [topic]: Bioluminescence in the Ocean
@@ -1341,7 +1455,8 @@ hint: {' The giant squid does not have bioluminescent ink. '}
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.13	 
 	The ocean teems with incredible creatures, some of which possess the remarkable ability to produce their own light, a phenomenon called bioluminescence.
@@ -1353,6 +1468,8 @@ clean: 1.0	, mistake: 0.28, 	 hint: 0.31
 	 However, the giant squid's ink is not bioluminescent, but instead a dark, dense cloud that obscures its vision and allows it to flee.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.08	 
 	 luminescence is a mesmerizing display of nature's ingenuity and contributes significantly to the ocean's complex ecosystem.
+
+[Total: 39, Correct: 38, Wrong: 1]
 
 ===[ 39 ]===
 [topic]: Robotics
@@ -1380,7 +1497,8 @@ hint: {' The information about robots acting independently is incorrect. While r
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.18	 
 	Robotics is a rapidly growing field that involves designing, constructing, operating, and applying robots.
@@ -1393,6 +1511,8 @@ clean: 1.0	, mistake: 0.25, 	 hint: 0.16
 clean: 1.0	, mistake: 0.27, 	 hint: 0.13	 
 	
 By incorporating artificial intelligence, robots are becoming even more sophisticated, allowing them to learn and adapt to new situations.
+
+[Total: 40, Correct: 39, Wrong: 1]
 
 ===[ 40 ]===
 [topic]: Diabetes and Exercise
@@ -1417,7 +1537,8 @@ hint: {"  While HIIT can be beneficial, it's crucial to consult with a healthcar
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.13	 
 	Living with diabetes requires careful management of blood sugar levels, and exercise plays a crucial role in this process.
@@ -1429,6 +1550,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.14
 	  Walking, swimming, and cycling are other excellent forms of exercise that can benefit individuals with diabetes.
 clean: 0.95	, mistake: 0.21, 	 hint: 0.09	 
 	 t's essential to choose activities that suit your individual needs and capabilities, and always listen to your body.
+
+[Total: 41, Correct: 40, Wrong: 1]
 
 ===[ 41 ]===
 [topic]: Social Media Etiquette
@@ -1453,7 +1576,8 @@ hint: {"  It's important to always ask for consent before tagging someone in a p
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0	 
 	Social media has become an integral part of our lives, connecting us with friends, family, and the world.
@@ -1465,6 +1589,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.1
 	Remember to be mindful of others' feelings and avoid posting anything that could be considered offensive or hurtful.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.06	 
 	 Additionally, refrain from posting excessively or engaging in overly promotional content.
+
+[Total: 42, Correct: 41, Wrong: 1]
 
 ===[ 42 ]===
 [topic]: Nonverbal Communication
@@ -1489,7 +1615,8 @@ hint: {" Maintaining close proximity without considering the other person's comf
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.06	 
 	Nonverbal communication plays a crucial role in how we interact with others.
@@ -1501,6 +1628,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.05
 	 Understanding these nonverbal cues helps us navigate social situations effectively and build stronger connections.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.17	 
 	It's essential to be mindful of our own nonverbal signals as well as those of others to ensure clear and appropriate communication.
+
+[Total: 43, Correct: 42, Wrong: 1]
 
 ===[ 43 ]===
 [topic]: Stress Management & Sleep
@@ -1525,7 +1654,8 @@ hint: {'  The information about eating a large meal before bed is incorrect. Eat
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.19	 
 	Sleep is crucial for managing stress, as it allows our body and mind to rest and rejuvenate.
@@ -1539,6 +1669,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.13
 	This could include taking a warm bath, reading a book, or listening to calming music.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.17	 
 	Additionally, avoiding caffeine and alcohol before bed can further improve sleep quality.
+
+[Total: 44, Correct: 43, Wrong: 1]
 
 ===[ 44 ]===
 [topic]: Sleep Positions
@@ -1563,7 +1695,8 @@ hint: {'  Sleeping on your stomach might seem like it opens airways, but it actu
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.14	 
 	Sleep positions can significantly impact sleep quality and comfort.
@@ -1575,6 +1708,8 @@ clean: 1.0	, mistake: 0.28, 	 hint: 0.32
 	 However, sleeping on your stomach can strain your neck and back.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.1	 
 	 If you're a side sleeper, consider using a pillow to support your neck and align your spine for optimal comfort.
+
+[Total: 45, Correct: 44, Wrong: 1]
 
 ===[ 45 ]===
 [topic]: Sleep Stages
@@ -1599,7 +1734,8 @@ hint: {'  The information about REM sleep being the deepest is incorrect. Deep s
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.15	 
 	Our bodies cycle through different stages of sleep throughout the night, each with its own unique characteristics.
@@ -1611,6 +1747,8 @@ clean: 1.0	, mistake: 0.2, 	 hint: 0.17
 	This stage is characterized by slow brain waves and reduced muscle activity.
 clean: 0.96	, mistake: 0.19, 	 hint: 0.18	 
 	 he amount of time spent in each sleep stage varies throughout the night, and adequate sleep duration is essential for our overall well-being.
+
+[Total: 46, Correct: 45, Wrong: 1]
 
 ===[ 46 ]===
 [topic]:  Wound Care
@@ -1635,7 +1773,8 @@ hint: {' Hydrogen peroxide can actually damage healthy tissue and slow down the 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.08	 
 	Wound care is an essential part of nursing practice, focusing on promoting healing and preventing complications.
@@ -1645,6 +1784,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.24
 	 Antiseptics like iodine can also be used for disinfection, but it's important to note that overuse can damage healthy tissue.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.18	 
 	Keeping the wound moist with appropriate dressings can facilitate healing, and nurses monitor for signs of infection or delayed healing.
+
+[Total: 47, Correct: 46, Wrong: 1]
 
 ===[ 47 ]===
 [topic]: Flu Symptoms
@@ -1669,7 +1810,8 @@ hint: {' This information is incorrect. The flu is primarily spread through drop
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.3, 	 hint: 0.21	 
 	The flu, or influenza, is a common respiratory illness caused by a virus.
@@ -1683,6 +1825,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.12
 	Fatigue is another common symptom, often leaving individuals feeling drained and weak.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.1	 
 	 Staying hydrated is crucial for recovery, as it helps to thin mucus and aid in symptom relief.
+
+[Total: 48, Correct: 47, Wrong: 1]
 
 ===[ 48 ]===
 [topic]: Climate Change Solutions
@@ -1707,7 +1851,8 @@ hint: {' The statement about planting trees is incorrect. While planting trees c
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.15	 
 	Climate change is a pressing global issue, and finding effective solutions is crucial.
@@ -1719,6 +1864,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.35
 	However, it is important to consider the long-term impacts of deforestation, as it can have a negative effect on biodiversity and ecosystem health.
 clean: 0.94	, mistake: 0.05, 	 hint: 0.09	 
 	dditionally, promoting energy efficiency and sustainable practices in various sectors can significantly reduce our carbon footprint.
+
+[Total: 49, Correct: 48, Wrong: 1]
 
 ===[ 49 ]===
 [topic]: Dog Training
@@ -1743,7 +1890,8 @@ hint: {"  Dogs don't inherently understand human language.  Training involves te
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.12	 
 	Training a dog can be a rewarding experience, building a strong bond between you and your furry friend.
@@ -1753,6 +1901,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0.15
 	 Positive reinforcement techniques, such as treats and praise, can encourage desirable behaviors.
 clean: 1.0	, mistake: 0.24, 	 hint: 0.06	 
 	 It's also beneficial to enroll in obedience classes or work with a professional trainer to ensure proper training methods.
+
+[Total: 50, Correct: 49, Wrong: 1]
 
 ===[ 50 ]===
 [topic]: Sustainable Fashion
@@ -1777,7 +1927,8 @@ hint: {' While leather is natural, its production often involves harmful environ
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.25	 
 	Sustainable fashion is a growing movement aiming to minimize environmental impact and promote ethical labor practices.
@@ -1787,6 +1938,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.05
 	It's crucial to be mindful of where our clothes come from, supporting brands that prioritize responsible manufacturing and fair wages.
 clean: 0.94	, mistake: 0.07, 	 hint: 0.12	 
 	nother way to support sustainable fashion is by embracing second-hand clothing, reducing the need for new production.
+
+[Total: 51, Correct: 50, Wrong: 1]
 
 ===[ 51 ]===
 [topic]: Coral Reefs
@@ -1811,7 +1964,8 @@ hint: {' Coral reefs are actually found in warm, shallow waters with plenty of s
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.36	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -1823,6 +1977,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.11
 	These colorful ecosystems are also essential for the health of our oceans, providing food and shelter for countless fish, invertebrates, and other marine life.
 clean: 0.96	, mistake: 0.1, 	 hint: 0.05	 
 	heir unique structure and the organisms they host make them a crucial part of the global ecosystem, playing a vital role in coastal protection and fisheries.
+
+[Total: 52, Correct: 51, Wrong: 1]
 
 ===[ 52 ]===
 [topic]: Online Course Platforms
@@ -1847,7 +2003,8 @@ hint: {' The statement that all online learning platforms are free is incorrect.
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.23	 
 	Online learning platforms offer a flexible and accessible way to acquire new skills and knowledge.
@@ -1859,6 +2016,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.11
 	It's also possible to earn certifications and even college credits through some online courses.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.19	 
 	 The convenience and affordability of online learning have made it an increasingly popular option for people of all ages and backgrounds.
+
+[Total: 53, Correct: 52, Wrong: 1]
 
 ===[ 53 ]===
 [topic]: Time Management for Remote Workers
@@ -1883,7 +2042,8 @@ hint: {' Working late into the night can lead to sleep deprivation and negativel
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.18	 
 	Working remotely offers flexibility, but it can also blur the lines between work and personal life.
@@ -1893,6 +2053,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.19
 	 Scheduling regular breaks throughout the day helps to prevent burnout and maintain focus.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.15	 
 	 It's crucial to prioritize self-care and allocate time for activities outside of work to avoid feeling overwhelmed and burned out.
+
+[Total: 54, Correct: 53, Wrong: 1]
 
 ===[ 54 ]===
 [topic]: Memory and Retrieval
@@ -1917,7 +2079,8 @@ hint: {" Studying in complete silence isn't always ideal.  Some background noise
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.06	 
 	Our brains are incredibly complex systems, capable of storing and retrieving vast amounts of information.
@@ -1929,6 +2092,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.17
 	 Additionally, recalling information in different contexts can help strengthen the neural connections associated with those memories.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.1	 
 	 Finally, getting enough sleep is essential for memory consolidation and retrieval, allowing our brains to process and store new information.
+
+[Total: 55, Correct: 54, Wrong: 1]
 
 ===[ 55 ]===
 [topic]:  Learning Styles
@@ -1953,7 +2118,8 @@ hint: {' While kinesthetic learners do benefit from hands-on learning, the state
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.18	 
 	Everyone learns differently, and understanding individual learning styles can significantly improve the learning experience.
@@ -1967,6 +2133,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.14
 	However, it's crucial to remember that individuals can possess multiple learning styles, and a diverse learning environment is essential to cater to all.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.16	 
 	 Incorporating various learning methods within the classroom can ensure that everyone has the opportunity to learn and thrive.
+
+[Total: 56, Correct: 55, Wrong: 1]
 
 ===[ 56 ]===
 [topic]: Coral Reefs
@@ -1991,7 +2159,8 @@ hint: {' While coral reefs do offer some protection against erosion, their prima
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.1	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -2003,6 +2172,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.17
 	This biodiversity contributes significantly to the health of our oceans and the livelihoods of coastal communities.
 clean: 0.92	, mistake: 0.12, 	 hint: 0.1	 
 	owever, climate change and pollution threaten the survival of these vital ecosystems.
+
+[Total: 57, Correct: 56, Wrong: 1]
 
 ===[ 57 ]===
 [topic]: CRISPR-Cas9 Gene Editing
@@ -2027,7 +2198,8 @@ hint: {' This is partially correct. While CRISPR-Cas9 does indeed utilize a guid
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.11	 
 	CRISPR-Cas9 technology has revolutionized the field of genetic engineering.
@@ -2039,6 +2211,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.04
 	By manipulating these genes, scientists can potentially cure genetic diseases, improve crop yields, and even create new life forms.
 clean: 1.0	, mistake: 0, 	 hint: 0.11	 
 	This technology holds immense promise for addressing various challenges in healthcare, agriculture, and other fields.
+
+[Total: 58, Correct: 57, Wrong: 1]
 
 ===[ 58 ]===
 [topic]: Sustainable Fashion
@@ -2063,7 +2237,8 @@ hint: {'  The information about fur being sustainable is inaccurate. Fur farming
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.18	 
 	Sustainable fashion is a growing movement focused on ethical and environmentally friendly clothing production.
@@ -2075,6 +2250,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.14
 	Consumers are becoming increasingly aware of the environmental impact of fast fashion and are seeking out brands that prioritize sustainability.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.07	 
 	 Supporting brands that prioritize fair labor practices and responsible sourcing is crucial to building a more sustainable fashion industry.
+
+[Total: 59, Correct: 58, Wrong: 1]
 
 ===[ 59 ]===
 [topic]: Deserts
@@ -2099,7 +2276,8 @@ hint: {' This statement is incorrect. Deserts are actually known for their lack 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.27	 
 	Deserts are some of the most fascinating and harsh environments on Earth.
@@ -2111,6 +2289,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.14
 	This water source provides a critical habitat for various desert animals, including the camel, which is well adapted to survive in these dry conditions.
 clean: 0.96	, mistake: 0.09, 	 hint: 0.12	 
 	eserts are also home to unique plant life, like cacti and succulents, that have developed special adaptations to conserve water in their arid environments.
+
+[Total: 60, Correct: 59, Wrong: 1]
 
 ===[ 60 ]===
 [topic]: Prime Numbers
@@ -2135,7 +2315,8 @@ hint: {'  The statement about 1 being a prime number is incorrect.  By definitio
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.17	 
 	Prime numbers play a crucial role in mathematics, particularly in cryptography and computer science.
@@ -2147,6 +2328,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.21
 	 Prime numbers are essential in understanding the fundamental building blocks of integers.
 clean: 1.0	, mistake: 0.26, 	 hint: 0.24	 
 	 The distribution of prime numbers is a fascinating area of study in number theory, and mathematicians continue to uncover new patterns and properties.
+
+[Total: 61, Correct: 60, Wrong: 1]
 
 ===[ 61 ]===
 [topic]: Wound Care
@@ -2171,7 +2354,8 @@ hint: {" Antibiotics are not always necessary for wounds and should only be pres
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.15	 
 	Wound care is a crucial aspect of nursing, ensuring proper healing and minimizing infection risk.
@@ -2181,6 +2365,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.14
 	 It is essential to monitor the wound for signs of infection, such as redness, swelling, and pus.
 clean: 0.92	, mistake: 0.21, 	 hint: 0.11	 
 	 egular dressing changes are also important to prevent infection and promote healing.
+
+[Total: 62, Correct: 61, Wrong: 1]
 
 ===[ 62 ]===
 [topic]:  Birdwatching
@@ -2205,7 +2391,8 @@ hint: {" It's important to avoid feeding birds bread crumbs and crackers as thes
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.13	 
 	Birdwatching, also known as birding, is a relaxing and rewarding hobby.
@@ -2217,6 +2404,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.11
 	The use of a camera is also common among birdwatchers to capture images of these beautiful creatures.
 clean: 0.95	, mistake: 0.26, 	 hint: 0.11	 
 	irdwatching can be enjoyed by people of all ages and skill levels, making it an accessible and enjoyable hobby.
+
+[Total: 63, Correct: 62, Wrong: 1]
 
 ===[ 63 ]===
 [topic]: The Great Barrier Reef
@@ -2241,7 +2430,8 @@ hint: {' The location mentioned for the Great Barrier Reef is incorrect. It is a
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.36	 
 	The Great Barrier Reef, the world's largest coral reef system, is a breathtaking ecosystem teeming with life.
@@ -2253,6 +2443,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.16
 	It is facing numerous threats, including climate change, pollution, and destructive fishing practices.
 clean: 0.95	, mistake: 0.17, 	 hint: 0.19	 
 	 o preserve this precious natural wonder, it is crucial to implement sustainable practices and address the challenges it faces.
+
+[Total: 64, Correct: 63, Wrong: 1]
 
 ===[ 64 ]===
 [topic]: The Great Wall of China
@@ -2277,7 +2469,8 @@ hint: {' The Great Wall is not continuous, as there are sections that are broken
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.28, 	 hint: 0.18	 
 	The Great Wall of China, one of the most iconic structures in the world, is a testament to the ingenuity and resilience of ancient Chinese civilization.
@@ -2287,6 +2480,8 @@ clean: 1.0	, mistake: 0.32, 	 hint: 0.15
 	Stretching over 13,000 miles, the wall is an impressive feat of engineering and is a UNESCO World Heritage Site.
 clean: 1.0	, mistake: 0.18, 	 hint: 0.13	 
 	It is believed that the primary purpose of the wall was to defend against invaders, though it also served as a trade route and a means of communication.
+
+[Total: 65, Correct: 64, Wrong: 1]
 
 ===[ 65 ]===
 [topic]: Sustainable Fashion
@@ -2311,7 +2506,8 @@ hint: {'  The statement about fast fashion brands being sustainable is inaccurat
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.14	 
 	Sustainable fashion is gaining momentum as consumers become more aware of the environmental impact of the clothing industry.
@@ -2323,6 +2519,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.07
 	By opting for timeless pieces and embracing a minimalist wardrobe, you can significantly reduce your environmental footprint.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.08	 
 	 Furthermore, repairing and upcycling old clothes can extend their lifespan and minimize waste.
+
+[Total: 66, Correct: 65, Wrong: 1]
 
 ===[ 66 ]===
 [topic]: Hiking in National Parks
@@ -2347,7 +2545,8 @@ hint: {'  The statement about entrance fees is incorrect. Most national parks re
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.15	 
 	Hiking in national parks offers a fantastic opportunity to immerse oneself in nature and experience the beauty of the great outdoors.
@@ -2359,6 +2558,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.16
 	 Hiking in national parks allows for breathtaking views, diverse wildlife sightings, and a chance to disconnect from the everyday hustle.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.06	 
 	 Remember to pack essential gear like water, snacks, and appropriate clothing to ensure a safe and enjoyable experience.
+
+[Total: 67, Correct: 66, Wrong: 1]
 
 ===[ 67 ]===
 [topic]: Food Allergies
@@ -2383,7 +2584,8 @@ hint: {' Food allergies are not typically cured, but managed through strict avoi
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.26	 
 	Food allergies are a common issue affecting many people.
@@ -2395,6 +2597,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.14
 	 It's important to carefully read labels and avoid potential allergens, especially when dining out.
 clean: 1.0	, mistake: 0, 	 hint: 0	 
 	Seeking guidance from a medical professional, like an allergist, is crucial for proper diagnosis and treatment.
+
+[Total: 68, Correct: 67, Wrong: 1]
 
 ===[ 68 ]===
 [topic]: Machine Learning
@@ -2419,7 +2623,8 @@ hint: {'  Machine learning algorithms cannot currently understand or interpret h
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.16	 
 	Machine learning is a powerful tool for automating complex tasks and extracting insights from data.
@@ -2431,6 +2636,8 @@ clean: 1.0	, mistake: 0.2, 	 hint: 0.15
 	 This ability to identify and respond to human emotions is still under development and requires significant further research.
 clean: 0.94	, mistake: 0.21, 	 hint: 0.15	 
 	 he field of machine learning is constantly evolving, and its applications are only limited by our imagination.
+
+[Total: 69, Correct: 68, Wrong: 1]
 
 ===[ 69 ]===
 [topic]: Voter Registration
@@ -2455,7 +2662,8 @@ hint: {' This statement is incorrect. While the minimum age to vote is 18, resid
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.29, 	 hint: 0.29	 
 	Registering to vote is a fundamental right and responsibility in a democracy.
@@ -2467,6 +2675,8 @@ clean: 1.0	, mistake: 0.23, 	 hint: 0.17
 	By registering to vote, individuals contribute to a more representative and engaged society.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.14	 
 	 It's important to check your state's specific requirements and deadlines to ensure you are eligible and registered to vote.
+
+[Total: 70, Correct: 69, Wrong: 1]
 
 ===[ 70 ]===
 [topic]: Music Genres
@@ -2491,7 +2701,8 @@ hint: {'  Actually, hip-hop originated in the Bronx, New York City, in the 1970s
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.06	 
 	Music has always been a powerful force in our lives, reflecting our moods and connecting us through shared experiences.
@@ -2501,6 +2712,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.11
 	 The evolution of music genres reflects the changing social and cultural landscapes, with each genre evolving and branching into subgenres, enriching the musical landscape.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.1	 
 	 From the rhythmic beats of electronic dance music to the intricate melodies of jazz, each genre contributes to the rich tapestry of music that we enjoy today.
+
+[Total: 71, Correct: 70, Wrong: 1]
 
 ===[ 71 ]===
 [topic]: Australian Animals
@@ -2525,7 +2738,8 @@ hint: {' The information about koalas being bears is incorrect. Koalas are marsu
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.08	 
 	Australia is renowned for its diverse and unique wildlife, including some of the most fascinating creatures on Earth.
@@ -2535,6 +2749,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.06
 	 Other notable animals include the dingo, a wild dog that plays a crucial role in the ecosystem, and the platypus, a bizarre but fascinating mammal that lays eggs.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.14	 
 	The country is also home to a wide array of reptiles, birds, and insects, making it a paradise for wildlife enthusiasts.
+
+[Total: 72, Correct: 71, Wrong: 1]
 
 ===[ 72 ]===
 [topic]: Handwashing
@@ -2559,7 +2775,8 @@ hint: {' The statement about warm water is incorrect. While warm water may be mo
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.09	 
 	Washing our hands regularly is a simple but essential habit for maintaining good hygiene and preventing the spread of germs.
@@ -2569,6 +2786,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.07
 	 It's important to use soap and lather for at least 20 seconds, making sure to scrub all surfaces of our hands, including between our fingers and under our nails.
 clean: 1.0	, mistake: 0, 	 hint: 0.05	 
 	After washing, we should dry our hands thoroughly with a clean towel to prevent bacteria from spreading.
+
+[Total: 73, Correct: 72, Wrong: 1]
 
 ===[ 73 ]===
 [topic]: The Role of Interest Rates in an Economy
@@ -2593,7 +2812,8 @@ hint: {' The statement about lowering interest rates making borrowing more expen
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.18	 
 	Interest rates play a crucial role in shaping economic activity.
@@ -2605,6 +2825,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.21
 	However, managing interest rates effectively can help stabilize the economy and promote sustainable growth.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.11	 
 	It's important to note that interest rate adjustments must be carefully considered, as they can have significant ripple effects throughout the economy.
+
+[Total: 74, Correct: 73, Wrong: 1]
 
 ===[ 74 ]===
 [topic]: Solar Energy
@@ -2629,7 +2851,8 @@ hint: {'  The statement about water usage is incorrect. Solar panels do not requ
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.08	 
 	Solar energy is a clean and sustainable source of electricity that harnesses the power of the sun.
@@ -2639,6 +2862,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.14
 	Solar energy is a versatile technology with applications beyond rooftop panels, including large-scale solar farms and even solar-powered vehicles.
 clean: 0.95	, mistake: 0.09, 	 hint: 0.1	 
 	 s technology advances, solar energy is becoming more efficient and affordable, making it a viable alternative to traditional fossil fuels.
+
+[Total: 75, Correct: 74, Wrong: 1]
 
 ===[ 75 ]===
 [topic]: The Importance of Setting in Literature
@@ -2663,7 +2888,8 @@ hint: {' While London is mentioned in "Pride and Prejudice," the novel primarily
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.15	 
 	Setting plays a crucial role in shaping the story and characters in literature.
@@ -2673,6 +2899,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.13
 	 Settings can also symbolize themes and create a specific atmosphere, enhancing the reader's understanding and emotional engagement.
 clean: 0.96	, mistake: 0.17, 	 hint: 0.15	 
 	hrough the use of vivid descriptions and evocative imagery, authors can create a powerful sense of place that resonates with the reader on a deeper level.
+
+[Total: 76, Correct: 75, Wrong: 1]
 
 ===[ 76 ]===
 [topic]: Sustainable Fashion
@@ -2697,7 +2925,8 @@ hint: {' The statement about fast fashion being sustainable is incorrect. Fast f
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.15	 
 	Sustainable fashion is gaining momentum as consumers become increasingly aware of the environmental impact of the clothing industry.
@@ -2709,6 +2938,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.12
 	It's important to look for certifications like Fairtrade and GOTS to ensure that the clothes we buy are produced responsibly.
 clean: 1.0	, mistake: 0.16, 	 hint: 0.19	 
 	 By making conscious choices and supporting sustainable brands, we can contribute to a more eco-friendly and ethical fashion industry.
+
+[Total: 77, Correct: 76, Wrong: 1]
 
 ===[ 77 ]===
 [topic]: Measles
@@ -2733,7 +2964,8 @@ hint: {' This statement is inaccurate; measles is still a significant public hea
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.21	 
 	Measles is a highly contagious viral disease that can cause serious complications, especially in young children.
@@ -2745,6 +2977,8 @@ clean: 1.0	, mistake: 0.26, 	 hint: 0.33
 	 While vaccinations have significantly reduced the incidence of measles, it is still a significant concern in many parts of the world.
 clean: 1.0	, mistake: 0.16, 	 hint: 0.14	 
 	 It is crucial to ensure everyone is fully vaccinated against measles to prevent the spread of this potentially dangerous disease.
+
+[Total: 78, Correct: 77, Wrong: 1]
 
 ===[ 78 ]===
 [topic]: Traditional Japanese Architecture
@@ -2769,7 +3003,8 @@ hint: {' Traditional Japanese homes are not typically decorated with colorful mo
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.21	 
 	Traditional Japanese architecture is renowned for its elegance and harmonious relationship with nature.
@@ -2781,6 +3016,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0
 	The use of natural materials like wood and bamboo further enhances this sense of serenity.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.07	 
 	Instead, they often feature simple and understated aesthetics with natural materials like wood and stone.
+
+[Total: 79, Correct: 78, Wrong: 1]
 
 ===[ 79 ]===
 [topic]: Sustainable Food Systems
@@ -2805,7 +3042,8 @@ hint: {' While organic food can be beneficial, it is important to remember that 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.28, 	 hint: 0.12	 
 	Sustainable food systems aim to produce food in a way that meets the needs of the present generation without compromising the ability of future generations to meet their own needs.
@@ -2815,6 +3053,8 @@ clean: 1.0	, mistake: 0.04, 	 hint: 0.1
 	 By supporting local farmers markets and choosing seasonal produce, we can also reduce our carbon footprint associated with food transportation.
 clean: 1.0	, mistake: 0.21, 	 hint: 0.05	 
 	 Furthermore, supporting sustainable food systems requires conscious consumer choices, such as reducing meat consumption and opting for plant-based protein sources.
+
+[Total: 80, Correct: 79, Wrong: 1]
 
 ===[ 80 ]===
 [topic]: Online Learning Platforms
@@ -2839,7 +3079,8 @@ hint: {' This statement is incorrect. Most online learning platforms prioritize 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.24	 
 	Online learning platforms have revolutionized the way we access education.
@@ -2851,6 +3092,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.13
 	Learners can engage with instructors and peers through discussion forums, Q&A sessions, and even live webinars, facilitating interactive learning experiences.
 clean: 0.95	, mistake: 0.22, 	 hint: 0.14	 
 	dditionally, online learning fosters a sense of community, connecting learners from around the world with shared interests and goals.
+
+[Total: 81, Correct: 80, Wrong: 1]
 
 ===[ 81 ]===
 [topic]: Lipstick Application Techniques
@@ -2876,7 +3119,8 @@ hint: {'  It is not recommended to apply lipstick directly from the tube as this
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 7, clean 5, mistake 0, hint 0
 
 clean: 0.3	, mistake: 0.59, 	 hint: 0.22	 
 	Finally, apply a generous amount of lipstick to the entire lip area and enjoy the look!
@@ -2893,6 +3137,8 @@ clean: 1.0	, mistake: 0.2, 	 hint: 0.24
 	 Using a lip liner to outline your lips before applying lipstick can help create a more defined and precise look.
 clean: 0.3	, mistake: 0.59, 	 hint: 0.22	 
 	 Finally, apply a generous amount of lipstick to the entire lip area and enjoy the look!
+
+[Total: 82, Correct: 80, Wrong: 2]
 
 ===[ 82 ]===
 [topic]: Influencer Marketing
@@ -2917,7 +3163,8 @@ hint: {' This statement is not entirely accurate. While driving sales is a goal,
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.12	 
 	Influencer marketing has become a dominant force in the digital landscape.
@@ -2927,6 +3174,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.22
 	The key to successful influencer marketing lies in building genuine relationships with influencers who align with the brand's values and target audience.
 clean: 0.95	, mistake: 0.16, 	 hint: 0.1	 
 	 y focusing on authenticity and meaningful engagement, brands can leverage the power of influencers to create lasting brand impact.
+
+[Total: 83, Correct: 81, Wrong: 2]
 
 ===[ 83 ]===
 [topic]: Effective Communication in Leadership
@@ -2951,7 +3200,8 @@ hint: {' This statement is inaccurate. Offering regular praise and recognition, 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.09, 	 hint: 0.17	 
 	Effective communication is a cornerstone of successful leadership.
@@ -2963,6 +3213,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.15
 	 Furthermore, using open-ended questions during discussions encourages team members to share their ideas and insights, leading to a more collaborative environment.
 clean: 0.95	, mistake: 0.06, 	 hint: 0.1	 
 	laders who can communicate effectively create a climate of trust and transparency, leading to a more engaged and productive team.
+
+[Total: 84, Correct: 82, Wrong: 2]
 
 ===[ 84 ]===
 [topic]: Buddhism
@@ -2987,7 +3239,8 @@ hint: {' This statement is incorrect. Buddhism is not a theistic religion and do
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.15	 
 	Buddhism, founded by Siddhartha Gautama, emphasizes mindfulness, compassion, and the pursuit of enlightenment.
@@ -2997,6 +3250,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.1
 	 This philosophy encourages individuals to cultivate wisdom and self-awareness through practices like meditation and mindful living.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.06	 
 	Buddhist teachings encourage individuals to take responsibility for their own actions and strive for inner peace and understanding through self-cultivation.
+
+[Total: 85, Correct: 83, Wrong: 2]
 
 ===[ 85 ]===
 [topic]: US Presidential Elections
@@ -3021,7 +3276,8 @@ hint: {' The winner of the US presidential election is determined not by the pop
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.25	 
 	The US presidential election is a complex and multifaceted process that involves various stages.
@@ -3033,6 +3289,8 @@ clean: 1.0	, mistake: 0.33, 	 hint: 0.27
 	The candidate who wins the majority of the popular vote then becomes the President of the United States.
 clean: 1.0	, mistake: 0.13, 	 hint: 0.25	 
 	 The Electoral College system, while controversial, ensures that all states, regardless of their population size, have a voice in the election.
+
+[Total: 86, Correct: 84, Wrong: 2]
 
 ===[ 86 ]===
 [topic]: Sustainable Fashion
@@ -3057,7 +3315,8 @@ hint: {'  Polyester, while durable, is derived from petroleum and takes a long t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.11	 
 	Sustainable fashion is gaining momentum as consumers become more aware of the environmental impact of traditional clothing production.
@@ -3067,6 +3326,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.06
 	Supporting brands that implement ethical labor practices and minimize waste is another important aspect.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.11	 
 	 By choosing sustainable brands and making conscious choices, we can contribute to a more responsible fashion industry.
+
+[Total: 87, Correct: 85, Wrong: 2]
 
 ===[ 87 ]===
 [topic]: Baking Bread
@@ -3091,7 +3352,8 @@ hint: {' This is incorrect. While kneading develops gluten in the dough, which h
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.12	 
 	Baking bread is a rewarding experience that involves a combination of science and artistry.
@@ -3101,6 +3363,8 @@ clean: 1.0	, mistake: 0.35, 	 hint: 0.18
 	 Once the dough has risen, it's shaped and baked in a preheated oven, resulting in a delicious and fragrant loaf of bread.
 clean: 1.0	, mistake: 0.21, 	 hint: 0.19	 
 	The process of baking bread is a journey that requires patience and precision, but the final result is worth the effort.
+
+[Total: 88, Correct: 86, Wrong: 2]
 
 ===[ 88 ]===
 [topic]: Pet Travel
@@ -3125,7 +3389,8 @@ hint: {' This statement is not accurate. Airlines often have specific rules rega
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0	 
 	Traveling with your furry friend can be an exciting adventure, but it requires careful planning.
@@ -3137,6 +3402,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.15
 	It's also crucial to choose a pet-friendly airline and make sure your pet's carrier meets the airline's requirements.
 clean: 1.0	, mistake: 0.07, 	 hint: 0.17	 
 	 Additionally, familiarize yourself with the regulations of your destination country regarding pet import and quarantine requirements.
+
+[Total: 89, Correct: 87, Wrong: 2]
 
 ===[ 89 ]===
 [topic]: Earthquake Preparedness
@@ -3161,7 +3428,8 @@ hint: {' This statement is inaccurate. While volcanic activity can sometimes tri
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.07	 
 	Living in an earthquake-prone area requires preparedness.
@@ -3173,6 +3441,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.05
 	It's also essential to know your evacuation routes and have a communication plan with family and friends.
 clean: 1.0	, mistake: 0.13, 	 hint: 0.11	 
 	Regularly practicing earthquake drills will ensure everyone knows how to react in case of an earthquake.
+
+[Total: 90, Correct: 88, Wrong: 2]
 
 ===[ 90 ]===
 [topic]: Yoga for Beginners
@@ -3197,7 +3467,8 @@ hint: {' The Cobra pose is actually a beginner-friendly pose and not the most ch
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.19	 
 	Yoga is an ancient practice that offers a myriad of benefits for both body and mind.
@@ -3209,6 +3480,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.24
 	 Starting with simpler poses like the Mountain Pose and the Child's Pose can help build a strong foundation.
 clean: 0.92	, mistake: 0.12, 	 hint: 0.15	 
 	emember, consistency and patience are key to reaping the benefits of yoga.
+
+[Total: 91, Correct: 89, Wrong: 2]
 
 ===[ 91 ]===
 [topic]: The Evolution of the Music Video
@@ -3233,7 +3506,8 @@ hint: {' The first music video wasn\'t "Bohemian Rhapsody," but rather "Video Ki
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.15	 
 	The music video has evolved significantly since its inception, becoming a powerful tool for artists to engage their audiences.
@@ -3245,6 +3519,8 @@ clean: 0.94	, mistake: 0.06, 	 hint: 0
 	 his shift allowed artists to express their creativity and connect with fans on a deeper level.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.19	 
 	From simple performances to complex narratives, music videos continue to evolve, reflecting the changing landscape of the music industry and our culture.
+
+[Total: 92, Correct: 90, Wrong: 2]
 
 ===[ 92 ]===
 [topic]: Traditional Japanese Art
@@ -3269,7 +3545,8 @@ hint: {' While silk is used in other traditional Japanese art forms, ukiyo-e pri
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.12	 
 	Japanese art is rich in history and encompasses a diverse range of styles.
@@ -3281,6 +3558,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.24
 	 Another significant art form is **sumi-e**, ink wash painting, where the use of black ink on rice paper creates captivating compositions.
 clean: 1.0	, mistake: 0.07, 	 hint: 0.12	 
 	 The meticulous craftsmanship and profound beauty of Japanese art continue to captivate audiences worldwide.
+
+[Total: 93, Correct: 91, Wrong: 2]
 
 ===[ 93 ]===
 [topic]: Forest Fires
@@ -3305,7 +3584,8 @@ hint: {' This statement is incorrect. While forest fires can be beneficial in so
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.19	 
 	Forest fires are a natural part of many ecosystems, playing a crucial role in renewing forests and maintaining biodiversity.
@@ -3315,6 +3595,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.2
 	  Many different factors contribute to the occurrence of forest fires, including dry conditions, lightning strikes, and human negligence.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.16	 
 	 It's essential to practice fire safety and be aware of the conditions in your area to minimize the risk of starting or experiencing a wildfire.
+
+[Total: 94, Correct: 92, Wrong: 2]
 
 ===[ 94 ]===
 [topic]: The Great Barrier Reef
@@ -3339,7 +3621,8 @@ hint: {' The statement about the Great Barrier Reef being a single, continuous f
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.32, 	 hint: 0.34	 
 	The Great Barrier Reef, located off the coast of Australia, is a vibrant underwater ecosystem.
@@ -3353,6 +3636,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.15
 	This natural wonder is a testament to the beauty and complexity of the marine world.
 clean: 0.95	, mistake: 0.18, 	 hint: 0.12	 
 	owever, climate change and pollution pose significant threats to the reef's health and survival, emphasizing the need for conservation efforts.
+
+[Total: 95, Correct: 93, Wrong: 2]
 
 ===[ 95 ]===
 [topic]: Inflation
@@ -3377,7 +3662,8 @@ hint: {' The statement about a decrease in the supply of money causing inflation
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.22	 
 	Inflation is a complex economic phenomenon that affects the purchasing power of currency.
@@ -3389,6 +3675,8 @@ clean: 1.0	, mistake: 0.22, 	 hint: 0.27
 	Understanding the causes of inflation is crucial for policymakers to implement effective measures to control it.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.19	 
 	 Inflation can impact various aspects of the economy, such as investment decisions, wages, and the value of savings.
+
+[Total: 96, Correct: 94, Wrong: 2]
 
 ===[ 96 ]===
 [topic]: Social Media Marketing
@@ -3413,7 +3701,8 @@ hint: {' The statement about content creation being simple is inaccurate. Effect
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 1, hint 0
+[Complete Right]
+Total: 5, clean 4, mistake 1, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.26	 
 	Social media marketing is a crucial aspect of modern businesses.
@@ -3425,6 +3714,8 @@ clean: 0.26	, mistake: 1.0, 	 hint: 0.2
 	Creating engaging content for social media is a simple process, and there is no need for in-depth planning or analysis.
 clean: 0.94	, mistake: 0.1, 	 hint: 0.13	 
 	y utilizing social listening tools and analyzing data, businesses can optimize their campaigns and achieve their desired outcomes.
+
+[Total: 97, Correct: 94, Wrong: 3]
 
 ===[ 97 ]===
 [topic]: Photosynthesis
@@ -3449,7 +3740,8 @@ hint: {' While it is true that plants take in carbon dioxide and release oxygen 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.32	 
 	Photosynthesis is the process by which plants and some other organisms convert light energy into chemical energy, which is stored in the form of sugars.
@@ -3461,6 +3753,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.33
 	This exchange of gases is crucial for maintaining the Earth's atmosphere.
 clean: 0.95	, mistake: 0.26, 	 hint: 0.2	 
 	 he carbohydrates produced during photosynthesis serve as a source of energy for the plant and other organisms in the food chain.
+
+[Total: 98, Correct: 95, Wrong: 3]
 
 ===[ 98 ]===
 [topic]: Impact of Social Media on Mental Health
@@ -3485,7 +3779,8 @@ hint: {' This statement is incorrect. Research actually shows that excessive soc
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.21	 
 	Social media has become a ubiquitous part of modern life, offering numerous benefits like connecting with loved ones and accessing information.
@@ -3497,6 +3792,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.22
 	Furthermore, the constant notifications and updates can create a sense of urgency and pressure, leading to stress and anxiety.
 clean: 0.95	, mistake: 0.17, 	 hint: 0.16	 
 	t is crucial to be mindful of our social media consumption and set healthy boundaries to prioritize our well-being.
+
+[Total: 99, Correct: 96, Wrong: 3]
 
 ===[ 99 ]===
 [topic]: Sustainable Fashion
@@ -3521,7 +3818,8 @@ hint: {'  While recycled plastic can reduce waste, it is not considered truly su
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.14	 
 	Sustainable fashion is gaining momentum as consumers become more conscious of the environmental impact of their choices.
@@ -3531,6 +3829,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.12
 	 Another way to contribute to sustainable fashion is to support brands that prioritize ethical labor practices and fair wages for their workers.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.12	 
 	 Finally, opting for secondhand clothing or vintage finds is a fantastic way to give pre-loved pieces a new life and minimize textile waste.
+
+[Total: 100, Correct: 97, Wrong: 3]
 
 ===[ 100 ]===
 [topic]: Coral Reefs
@@ -3555,7 +3855,8 @@ hint: {' The statement about jellyfish skeletons is incorrect. Coral reefs are f
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.25	 
 	Coral reefs are underwater ecosystems teeming with life.
@@ -3567,6 +3868,8 @@ clean: 1.0	, mistake: 0.2, 	 hint: 0.19
 	 Coral reefs are vital for coastal protection, acting as natural barriers against storms and erosion.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.07	 
 	 Furthermore, they contribute to global biodiversity, offering habitats for a wide array of species.
+
+[Total: 101, Correct: 98, Wrong: 3]
 
 ===[ 101 ]===
 [topic]: The Great Barrier Reef
@@ -3591,7 +3894,8 @@ hint: {' The statement about the Great Barrier Reef being a single, unbroken str
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.3	 
 	The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system.
@@ -3601,6 +3905,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.17
 	 This incredible ecosystem is facing threats from climate change, pollution, and overfishing.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.19	 
 	 Protecting this vital ecosystem is crucial for the future of marine life and the livelihoods of those who depend on it.
+
+[Total: 102, Correct: 99, Wrong: 3]
 
 ===[ 102 ]===
 [topic]: User Interface Design
@@ -3625,7 +3931,8 @@ hint: {"  Using bright and bold colors throughout the interface can be overwhelm
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.3	 
 	A well-designed user interface (UI) is crucial for creating a positive user experience.
@@ -3639,6 +3946,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.19
 	Well-defined visual hierarchy using contrasting elements can help users easily understand the importance of different sections.
 clean: 1.0	, mistake: 0.26, 	 hint: 0.26	 
 	Ultimately, the goal is to create a user-friendly UI that facilitates the user's journey towards achieving their goals.
+
+[Total: 103, Correct: 100, Wrong: 3]
 
 ===[ 103 ]===
 [topic]: Urban Green Spaces
@@ -3663,7 +3972,8 @@ hint: {' The statement about carbon dioxide release is incorrect. Green spaces a
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.21	 
 	Urban green spaces offer numerous benefits to city dwellers, contributing to both physical and mental well-being.
@@ -3673,6 +3983,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.08
 	They act as natural filters, absorbing pollutants and releasing oxygen, creating a healthier environment for everyone.
 clean: 1.0	, mistake: 0, 	 hint: 0	 
 	 Furthermore, they can reduce noise pollution and provide shade, creating more pleasant and livable urban environments.
+
+[Total: 104, Correct: 101, Wrong: 3]
 
 ===[ 104 ]===
 [topic]: Sustainable Fashion
@@ -3697,7 +4009,8 @@ hint: {' The statement about fast fashion brands is incorrect. Fast fashion is o
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.23	 
 	Sustainable fashion is a growing movement that aims to minimize the environmental and social impact of the clothing industry.
@@ -3707,6 +4020,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.12
 	By opting for sustainable brands and choosing clothing that is made to last, consumers can make a conscious effort to reduce their ecological footprint.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.06	 
 	urthermore, supporting local artisans and vintage shops can also contribute to a more ethical and sustainable wardrobe.
+
+[Total: 105, Correct: 102, Wrong: 3]
 
 ===[ 105 ]===
 [topic]: Forest Fires
@@ -3731,7 +4046,8 @@ hint: {' This statement about animals starting most forest fires is false.  Huma
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.17	 
 	Forest fires are a natural part of the ecosystem, playing a role in seed dispersal and rejuvenating the forest floor.
@@ -3741,6 +4057,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.13
 	 Dry undergrowth and high winds can quickly fuel a fire, spreading it rapidly across large areas.
 clean: 1.0	, mistake: 0.09, 	 hint: 0.11	 
 	 While wildfires can be destructive, they also have a significant impact on plant and animal life, shaping the landscape and contributing to biodiversity.
+
+[Total: 106, Correct: 103, Wrong: 3]
 
 ===[ 106 ]===
 [topic]:  Fibonacci Sequence
@@ -3765,7 +4083,8 @@ hint: {' While the Fibonacci sequence is often related to natural patterns, the 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 3, mistake 1, hint 0
+[Complete Right]
+Total: 4, clean 3, mistake 1, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.38	 
 	The Fibonacci sequence is a fascinating mathematical pattern where each number is the sum of the two preceding ones.
@@ -3775,6 +4094,8 @@ clean: 0.24	, mistake: 1.0, 	 hint: 0.31
 	 This sequence is commonly found in nature, for example, in the spiral arrangement of petals on a sunflower, with each petal being positioned at a Fibonacci number along the spiral.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.2	 
 	 This mathematical sequence showcases the intricate beauty and interconnectedness of various fields.
+
+[Total: 107, Correct: 103, Wrong: 4]
 
 ===[ 107 ]===
 [topic]: The Power of Gratitude
@@ -3799,7 +4120,8 @@ hint: {" While gratitude can have numerous benefits, it doesn't directly reverse
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.17	 
 	Gratitude is a powerful emotion that can significantly improve our well-being.
@@ -3809,6 +4131,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.07
 	 This shift in perspective can also strengthen our relationships as we become more appreciative of those around us.
 clean: 0.95	, mistake: 0.11, 	 hint: 0.06	 
 	 dditionally, expressing gratitude to others not only makes them feel valued but also strengthens our own feelings of happiness.
+
+[Total: 108, Correct: 104, Wrong: 4]
 
 ===[ 108 ]===
 [topic]: Influencer Marketing
@@ -3833,7 +4157,8 @@ hint: {" The statement about choosing influencers based solely on follower count
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.17	 
 	Influencer marketing has become a powerful tool for brands to reach their target audience.
@@ -3845,6 +4170,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.43
 	 It's essential to partner with influencers who align with your brand values and whose audience aligns with your target market.
 clean: 0.93	, mistake: 0.15, 	 hint: 0.11	 
 	his ensures that your message reaches the right people and resonates with their interests.
+
+[Total: 109, Correct: 105, Wrong: 4]
 
 ===[ 109 ]===
 [topic]: Family Traditions
@@ -3869,7 +4196,8 @@ hint: {' The origin of gift-giving on birthdays is actually believed to be roote
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.1	 
 	Family traditions are an important part of creating a sense of belonging and shared history.
@@ -3879,6 +4207,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.09
 	 These traditions can foster a sense of connection and continuity, reminding family members of their roots and shared values.
 clean: 1.0	, mistake: 0.09, 	 hint: 0	 
 	 Whether it's a special meal, a family game night, or a unique custom, traditions help families build lasting memories and strengthen their bonds.
+
+[Total: 110, Correct: 106, Wrong: 4]
 
 ===[ 110 ]===
 [topic]: The History of the Internet
@@ -3903,7 +4233,8 @@ hint: {' This is incorrect - ARPANET was not designed for communication with oth
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.14	 
 	The internet has revolutionized the way we communicate, access information, and interact with the world.
@@ -3913,6 +4244,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.19
 	This early network laid the foundation for the modern internet, with the invention of the World Wide Web in the 1990s significantly expanding its reach and applications.
 clean: 0.95	, mistake: 0.1, 	 hint: 0.09	 
 	 oday, the internet has become an indispensable part of our daily lives, connecting billions of people around the globe.
+
+[Total: 111, Correct: 107, Wrong: 4]
 
 ===[ 111 ]===
 [topic]: Yoga for Flexibility
@@ -3937,7 +4270,8 @@ hint: {" The statement about pushing yourself to your limit during each pose is 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.12	 
 	Yoga is a fantastic practice for enhancing flexibility, especially for those who spend long hours sitting.
@@ -3949,6 +4283,8 @@ clean: 1.0	, mistake: 0.26, 	 hint: 0.27
 	Remember to listen to your body and avoid pushing yourself beyond your current capabilities.
 clean: 0.92	, mistake: 0.07, 	 hint: 0.21	 
 	onsistent practice and proper alignment are key to achieving sustainable flexibility through yoga.
+
+[Total: 112, Correct: 108, Wrong: 4]
 
 ===[ 112 ]===
 [topic]: Geothermal Energy
@@ -3973,7 +4309,8 @@ hint: {" Geothermal power plants don't primarily rely on volcanic eruptions. Ins
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.34	 
 	Geothermal energy harnesses the heat from the Earth's core to generate electricity.
@@ -3985,6 +4322,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0
 	This makes it a clean and sustainable alternative to fossil fuels, as it produces minimal greenhouse gas emissions.
 clean: 1.0	, mistake: 0.21, 	 hint: 0.07	 
 	Furthermore, geothermal energy can also be used for direct heating and cooling applications, making it a versatile energy source.
+
+[Total: 113, Correct: 109, Wrong: 4]
 
 ===[ 113 ]===
 [topic]: Content Marketing
@@ -4009,7 +4348,8 @@ hint: {' While paid advertising can be helpful, organic content marketing plays 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.24	 
 	Content marketing is a powerful strategy for reaching and engaging your target audience.
@@ -4019,6 +4359,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.11
 	 This could be in the form of blog posts, articles, videos, or even podcasts.
 clean: 0.96	, mistake: 0.1, 	 hint: 0.18	 
 	 y consistently delivering relevant and valuable content, you can position yourself as a thought leader in your industry and attract more customers organically.
+
+[Total: 114, Correct: 110, Wrong: 4]
 
 ===[ 114 ]===
 [topic]:  Native Advertising
@@ -4043,7 +4385,8 @@ hint: {' This is not always the case.  Native ads are designed to blend in with 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.21	 
 	Native advertising is a powerful tool for businesses to reach their target audiences in a less intrusive way.
@@ -4053,6 +4396,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.2
 	This approach leverages the trust and engagement already established with the publication or platform.
 clean: 0.95	, mistake: 0.17, 	 hint: 0.15	 
 	 y providing value and aligning with the interests of the audience, native advertising can effectively reach potential customers and build brand loyalty.
+
+[Total: 115, Correct: 111, Wrong: 4]
 
 ===[ 115 ]===
 [topic]: Music Genres
@@ -4077,7 +4422,8 @@ hint: {' The Beatles and Queen are not associated with synth-pop. They were prom
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.09	 
 	Pop music has evolved significantly over the years, encompassing a diverse range of subgenres.
@@ -4087,6 +4433,8 @@ clean: 1.0	, mistake: 0.31, 	 hint: 0.15
 	However, the origins of synth-pop can be traced back to the 1970s with artists like Kraftwerk and Gary Numan who explored the use of synthesizers in their music.
 clean: 1.0	, mistake: 0.29, 	 hint: 0.21	 
 	 Another popular subgenre is alternative rock, which emerged in the 1980s with a focus on independent and experimental music.
+
+[Total: 116, Correct: 112, Wrong: 4]
 
 ===[ 116 ]===
 [topic]: The Evolution of the Superhero Genre
@@ -4111,7 +4459,8 @@ hint: {' The statement about Spider-Man starting the MCU is incorrect. The MCU o
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.13	 
 	The superhero genre has evolved significantly over the years, from its humble beginnings in comic books to its dominance in modern cinema.
@@ -4123,6 +4472,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.12
 	The superhero genre has also embraced diverse representation, featuring characters from different backgrounds and with unique abilities.
 clean: 0.93	, mistake: 0.04, 	 hint: 0.08	 
 	his evolution reflects the changing cultural landscape and allows for deeper and more relatable storytelling.
+
+[Total: 117, Correct: 113, Wrong: 4]
 
 ===[ 117 ]===
 [topic]: Cat Communication
@@ -4147,7 +4498,8 @@ hint: {' This statement is incorrect. While cats do use their tails for communic
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.19	 
 	Cats are fascinating creatures, known for their independent nature and enigmatic communication style.
@@ -4157,6 +4509,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.17
 	While the tail's movement can indeed offer clues, it's important to observe other body language cues like ear position and whisker movement for a more complete understanding.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.17	 
 	Cats also communicate through vocalizations, facial expressions, and scent marking, each adding a layer to their complex language.
+
+[Total: 118, Correct: 114, Wrong: 4]
 
 ===[ 118 ]===
 [topic]: Influencer Marketing
@@ -4181,7 +4535,8 @@ hint: {' The statement about bypassing traditional advertising is incorrect. Inf
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.29	 
 	Influencer marketing has become a powerful tool for brands to reach their target audiences.
@@ -4191,6 +4546,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.17
 	However, the success of influencer marketing largely depends on finding the right influencer who aligns with the brand's values and resonates with its target audience.
 clean: 0.96	, mistake: 0.08, 	 hint: 0.18	 
 	t's also important to choose influencers with genuine engagement and authentic interactions with their followers to ensure a positive impact on brand perception.
+
+[Total: 119, Correct: 115, Wrong: 4]
 
 ===[ 119 ]===
 [topic]:  Ocean Acidification
@@ -4215,7 +4572,8 @@ hint: {'  The information about increased acidity being beneficial is incorrect.
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.15	 
 	The ocean absorbs a significant amount of carbon dioxide from the atmosphere, a process that is impacting its chemistry.
@@ -4225,6 +4583,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.06
 	 However, this change in pH can have serious consequences for marine ecosystems.
 clean: 0.96	, mistake: 0.17, 	 hint: 0.17	 
 	 he shells and skeletons of marine organisms, such as corals and shellfish, become weakened and more vulnerable, disrupting the delicate balance of the marine food web.
+
+[Total: 120, Correct: 116, Wrong: 4]
 
 ===[ 120 ]===
 [topic]: Photography
@@ -4249,7 +4609,8 @@ hint: {' While high-resolution lenses can be beneficial, the resolution of the c
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.05	 
 	Photography is a captivating hobby that allows us to capture moments in time and express our creativity.
@@ -4259,6 +4620,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.15
 	 The rule of thirds, for instance, suggests placing subjects off-center to create a more balanced image.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.05	 
 	Learning about light and its effects is another essential aspect of photography, allowing us to control shadows and highlights for dramatic results.
+
+[Total: 121, Correct: 117, Wrong: 4]
 
 ===[ 121 ]===
 [topic]: Urban Gardening
@@ -4283,7 +4646,8 @@ hint: {' While urban gardens can improve local air quality through photosynthesi
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.16	 
 	Urban gardening has become increasingly popular as a way to connect with nature and enjoy fresh, locally-grown produce.
@@ -4295,6 +4659,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.16
 	Urban gardening also has the potential to improve mental well-being by offering a calming and productive outlet.
 clean: 0.24	, mistake: 0.11, 	 hint: 0.18	 
 	ncorporating urban gardens into urban planning can create healthier, more sustainable, and more connected communities.
+
+[Total: 122, Correct: 117, Wrong: 5]
 
 ===[ 122 ]===
 [topic]: Free Will
@@ -4319,7 +4685,8 @@ hint: {" This statement mixes up the concepts of determinism and fatalism. While
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.3	 
 	The concept of free will has captivated philosophers for centuries.
@@ -4331,6 +4698,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.19
 	This leads to the intriguing question of whether we have genuine control over our lives or are merely puppets of fate.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.18	 
 	Understanding these different perspectives helps us delve into the complexities of human agency and the role of our choices in shaping our reality.
+
+[Total: 123, Correct: 118, Wrong: 5]
 
 ===[ 123 ]===
 [topic]: Sustainable Fashion
@@ -4355,7 +4724,8 @@ hint: {' The statement about organic cotton is incorrect. Organic cotton is actu
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.1	 
 	Sustainable fashion is gaining momentum as consumers become more aware of the environmental impact of the industry.
@@ -4365,6 +4735,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.1
 	 Supporting brands that prioritize ethical labor practices and fair wages is another crucial step in promoting sustainability.
 clean: 0.95	, mistake: 0.06, 	 hint: 0.09	 
 	ltimately, making conscious choices about the clothes we wear and supporting responsible brands can help create a more sustainable fashion industry.
+
+[Total: 124, Correct: 119, Wrong: 5]
 
 ===[ 124 ]===
 [topic]: Diabetes and Exercise
@@ -4389,7 +4761,8 @@ hint: {' This statement is inaccurate. While intense exercise without proper pla
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.06	 
 	Diabetes can significantly impact a person's physical activity.
@@ -4401,6 +4774,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.05
 	However, even moderate physical activity, like brisk walking or swimming, can offer significant benefits.
 clean: 0.92	, mistake: 0.06, 	 hint: 0.22	 
 	egular exercise helps improve insulin sensitivity, which is essential for managing diabetes effectively.
+
+[Total: 125, Correct: 120, Wrong: 5]
 
 ===[ 125 ]===
 [topic]: Baseball
@@ -4425,7 +4800,8 @@ hint: {' The statement about the "grand slam" is incorrect. A grand slam occurs 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.1	 
 	Baseball is a beloved sport known for its strategic gameplay and exciting moments.
@@ -4435,6 +4811,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.14
 	 The excitement of the game often culminates in thrilling finishes with players like Albert Pujols and Derek Jeter making incredible plays.
 clean: 0.94	, mistake: 0.14, 	 hint: 0.11	 
 	t's a game of skill, strategy, and athleticism that continues to capture the hearts of fans worldwide.
+
+[Total: 126, Correct: 121, Wrong: 5]
 
 ===[ 126 ]===
 [topic]: Competitive Multiplayer Games
@@ -4459,7 +4837,8 @@ hint: {' This statement is incorrect, as cooperative gameplay is crucial in many
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.22	 
 	Competitive multiplayer games have exploded in popularity, offering thrilling experiences and opportunities for intense competition.
@@ -4469,6 +4848,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.14
 	Games like League of Legends, Dota 2, and Valorant involve strategic team fights and require excellent communication and coordination between teammates.
 clean: 0.96	, mistake: 0.18, 	 hint: 0.17	 
 	he adrenaline rush and sense of accomplishment gained through these intense battles make competitive multiplayer games a popular choice for gamers seeking challenging and rewarding experiences.
+
+[Total: 127, Correct: 122, Wrong: 5]
 
 ===[ 127 ]===
 [topic]: Ancient Egyptian Pyramids
@@ -4493,7 +4874,8 @@ hint: {' The statement about hydraulic systems is incorrect. Ancient Egyptians d
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.13	 
 	The Great Pyramids of Giza, standing as testaments to ancient Egyptian ingenuity, are among the most recognizable structures in the world.
@@ -4503,6 +4885,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.16
 	 These impressive monuments were erected through the efforts of thousands of skilled laborers, who used simple tools and remarkable ingenuity to move and position these enormous stones.
 clean: 0.95	, mistake: 0.13, 	 hint: 0.13	 
 	he pyramids are a testament to the architectural prowess and dedication of the ancient Egyptians, leaving a lasting legacy on the world.
+
+[Total: 128, Correct: 123, Wrong: 5]
 
 ===[ 128 ]===
 [topic]: Stress Management and Sleep
@@ -4527,7 +4911,8 @@ hint: {" This statement about sleep deprivation is incorrect.  Sleep deprivation
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.25	 
 	A good night's sleep is crucial for effective stress management.
@@ -4537,6 +4922,8 @@ clean: 1.0	, mistake: 0.22, 	 hint: 0.15
 	 Prioritizing a regular sleep schedule and creating a calming bedtime routine can significantly contribute to better sleep quality.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.11	 
 	 Additionally, ensuring a comfortable sleep environment, free from distractions, can enhance sleep quality and reduce stress levels.
+
+[Total: 129, Correct: 124, Wrong: 5]
 
 ===[ 129 ]===
 [topic]: Fiber
@@ -4561,7 +4948,8 @@ hint: {" The information about fiber and calorie burning is inaccurate. While fi
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.16	 
 	Fiber is an essential nutrient that plays a crucial role in maintaining a healthy digestive system.
@@ -4571,6 +4959,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.15
 	 Fiber also helps regulate blood sugar levels, reducing the risk of type 2 diabetes.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.15	 
 	 By adding fiber-rich foods to our diet, we can improve our overall health and well-being.
+
+[Total: 130, Correct: 125, Wrong: 5]
 
 ===[ 130 ]===
 [topic]: Food Allergies
@@ -4595,7 +4985,8 @@ hint: {' This statement is incorrect. Even small amounts of a trigger food can c
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.15	 
 	Food allergies are a serious health concern affecting millions worldwide.
@@ -4607,6 +4998,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.21
 	It's crucial to understand the severity of food allergies and avoid all contact with trigger foods to prevent potentially dangerous reactions.
 clean: 1.0	, mistake: 0.09, 	 hint: 0.05	 
 	 Early diagnosis and proper management, including careful food labeling and avoidance, are essential to prevent complications and ensure the well-being of those affected.
+
+[Total: 131, Correct: 126, Wrong: 5]
 
 ===[ 131 ]===
 [topic]: Coral Reefs
@@ -4631,7 +5024,8 @@ hint: {'  Coral bleaching is actually a harmful process that weakens and can kil
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.17	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -4643,6 +5037,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.07
 	 Sadly, human activities like pollution and overfishing also pose significant threats to these fragile ecosystems.
 clean: 1.0	, mistake: 0.29, 	 hint: 0.18	 
 	Protecting coral reefs is crucial for the health of our oceans and the livelihoods of people who depend on them.
+
+[Total: 132, Correct: 127, Wrong: 5]
 
 ===[ 132 ]===
 [topic]: Quantum Entanglement
@@ -4667,7 +5063,8 @@ hint: {'  While entanglement does indeed allow for instantaneous correlations, i
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.07	 
 	Quantum entanglement is a fascinating phenomenon that challenges our classical understanding of reality.
@@ -4679,6 +5076,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.17
 	 This seemingly paradoxical behavior has puzzled physicists for decades and holds immense potential for revolutionizing communication and computation.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.13	 
 	 his strange connection in the quantum realm continues to be a subject of intense study and exploration.
+
+[Total: 133, Correct: 128, Wrong: 5]
 
 ===[ 133 ]===
 [topic]: Online Learning Platforms
@@ -4703,7 +5102,8 @@ hint: {' Online learning platforms require a stable internet connection to acces
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.1, 	 hint: 0.36	 
 	Online learning platforms have become increasingly popular, offering a wide range of courses and educational resources.
@@ -4715,6 +5115,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.25
 	Moreover, online platforms often provide interactive learning materials like quizzes and forums to enhance engagement.
 clean: 0.95	, mistake: 0.14, 	 hint: 0.16	 
 	his accessibility and convenience make online learning an attractive option for many individuals seeking to acquire new knowledge or skills.
+
+[Total: 134, Correct: 129, Wrong: 5]
 
 ===[ 134 ]===
 [topic]: Climate Change
@@ -4739,7 +5141,8 @@ hint: {' This statement is inaccurate; deforestation significantly contributes t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.07	 
 	Climate change is a complex and pressing issue that demands global attention.
@@ -4749,6 +5152,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.07
 	Reducing carbon emissions through renewable energy sources and energy efficiency measures is crucial.
 clean: 0.95	, mistake: 0.18, 	 hint: 0.05	 
 	 urthermore, international cooperation and policy changes are essential to mitigate the impacts of climate change and build a more sustainable future.
+
+[Total: 135, Correct: 130, Wrong: 5]
 
 ===[ 135 ]===
 [topic]: The Great Gatsby
@@ -4773,7 +5178,8 @@ hint: {' Gatsby\'s fortune isn\'t earned through legitimate business ventures; i
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.1, 	 hint: 0.13	 
 	The Roaring Twenties in America were a time of excess and extravagance, particularly in the wealthy Long Island communities.
@@ -4787,6 +5193,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.12
 	 However, Gatsby's wealth is built on illegal activities, including bootlegging and gambling, a fact that ultimately leads to his downfall.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.09	 
 	 His pursuit of Daisy ultimately proves futile, highlighting the tragic consequences of chasing a romanticized past.
+
+[Total: 136, Correct: 131, Wrong: 5]
 
 ===[ 136 ]===
 [topic]: Antibiotic Resistance
@@ -4811,7 +5219,8 @@ hint: {'  Antibiotics do not work by building immunity in the body. It is the ba
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.11	 
 	Antibiotic resistance is a growing threat to global health.
@@ -4823,6 +5232,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0
 	  This can lead to more serious illnesses and longer hospital stays.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.2	 
 	 To combat this, it is crucial to use antibiotics responsibly, only when necessary, and complete the full course of treatment.
+
+[Total: 137, Correct: 132, Wrong: 5]
 
 ===[ 137 ]===
 [topic]: Carnivorous Plants
@@ -4847,7 +5258,8 @@ hint: {' This information is incorrect. While carnivorous plants do capture and 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.21	 
 	Carnivorous plants are a fascinating group of plants that have evolved unique adaptations to thrive in nutrient-poor environments.
@@ -4859,6 +5271,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.21
 	 These plants rely on a specific combination of enzymes and bacteria to break down their prey, absorbing the resulting nutrients.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.1	 
 	 They often grow in bogs, swamps, and other habitats where traditional nutrients are scarce, making their unique feeding strategy essential for survival.
+
+[Total: 138, Correct: 133, Wrong: 5]
 
 ===[ 138 ]===
 [topic]: Photosynthesis
@@ -4884,7 +5298,8 @@ hint: {' The statement about oxygen release during photosynthesis is actually in
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 4, mistake 0, hint 0
 
 clean: 0.24	, mistake: 0.16, 	 hint: 0.16	 
 	Photosynthesis is a complex process that involves multiple steps, including light-dependent reactions and the Calvin cycle, which produce glucose and oxygen.
@@ -4899,6 +5314,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.07
 	This vital process forms the basis of almost all food chains, as plants provide the initial source of energy.
 clean: 0.24	, mistake: 0.16, 	 hint: 0.16	 
 	Photosynthesis is a complex process that involves multiple steps, including light-dependent reactions and the Calvin cycle, which produce glucose and oxygen.
+
+[Total: 139, Correct: 133, Wrong: 6]
 
 ===[ 139 ]===
 [topic]: Musical Instruments
@@ -4923,7 +5340,8 @@ hint: {' While the guitar and harp belong to the string family, the piano is act
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.21	 
 	The world of musical instruments is vast and diverse, offering a wide range of sounds and experiences.
@@ -4935,6 +5353,8 @@ clean: 1.0	, mistake: 0.29, 	 hint: 0.28
 	The woodwind family, on the other hand, utilizes a vibrating reed or the player's breath to create sound.
 clean: 0.95	, mistake: 0.1, 	 hint: 0.12	 
 	 xploring these different instrument families allows musicians to express their creativity and connect with a diverse range of musical styles.
+
+[Total: 140, Correct: 134, Wrong: 6]
 
 ===[ 140 ]===
 [topic]: Memory and Learning
@@ -4959,7 +5379,8 @@ hint: {' The statement about brain capacity is a common myth. We actually utiliz
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.23	 
 	Our memories are a vital part of who we are, shaping our understanding of the world and our experiences.
@@ -4971,6 +5392,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.08
 	 Another strategy is to create associations between new information and existing knowledge, making it easier to recall.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.07	 
 	 Finally, practicing good sleep habits is crucial for memory consolidation, as our brains solidify learned information during sleep.
+
+[Total: 141, Correct: 135, Wrong: 6]
 
 ===[ 141 ]===
 [topic]:  Influencer Marketing
@@ -4995,7 +5418,8 @@ hint: {" The information about high follower counts being the most important fac
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.18	 
 	Influencer marketing is a popular strategy for brands seeking to reach their target audiences.
@@ -5005,6 +5429,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.14
 	 Influencers with strong relationships with their audience can generate genuine buzz and drive conversions, resulting in a positive return on investment for brands.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.2	 
 	It's important to carefully select influencers who align with the brand's values and target audience to ensure successful campaigns.
+
+[Total: 142, Correct: 136, Wrong: 6]
 
 ===[ 142 ]===
 [topic]: Urban Gardening
@@ -5029,7 +5455,8 @@ hint: {' The use of chemical fertilizers is often discouraged in urban gardening
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.19	 
 	Urban gardening has become increasingly popular in recent years as people seek to connect with nature and grow their own food.
@@ -5039,6 +5466,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.23
 	  A key aspect of urban gardening is adapting to limited space and resources, often using raised beds, vertical gardens, or container planting.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.16	 
 	 Urban gardening is a fantastic way to promote sustainability and bring the benefits of nature into our cities, offering a unique blend of practicality and aesthetic appeal.
+
+[Total: 143, Correct: 137, Wrong: 6]
 
 ===[ 143 ]===
 [topic]: Renewable Energy Sources
@@ -5063,7 +5492,8 @@ hint: {' Nuclear power, while emitting low greenhouse gases during operation, is
 hint_content_in_response: [' hile hydroelectric power, although emitting low greenhouse gases during operation, is not considered a renewable energy source as it relies on finite uranium reserves.']
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.28, 	 hint: 0.23	 
 	Renewable energy sources are becoming increasingly important as we strive to combat climate change and reduce our reliance on fossil fuels.
@@ -5075,6 +5505,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.14
 	Geothermal energy, tapping into the heat of the Earth's core, is also a viable option for providing clean energy.
 clean: 0.22	, mistake: 0.26, 	 hint: 0.89	 
 	 hile hydroelectric power, although emitting low greenhouse gases during operation, is not considered a renewable energy source as it relies on finite uranium reserves.
+
+[Total: 144, Correct: 137, Wrong: 7]
 
 ===[ 144 ]===
 [topic]: Carnivorous Plants
@@ -5099,7 +5531,8 @@ hint: {" The Venus flytrap doesn't actually have jaws. It uses a sensitive trigg
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.15	 
 	Carnivorous plants, unlike their green counterparts, obtain nutrients from trapping and digesting insects.
@@ -5111,6 +5544,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0
 	 These adaptations allow them to survive in harsh conditions where traditional plants struggle to thrive.
 clean: 0.94	, mistake: 0, 	 hint: 0.08	 
 	hile some carnivorous plants have sticky traps, others utilize pitcher-shaped leaves to drown their victims.
+
+[Total: 145, Correct: 138, Wrong: 7]
 
 ===[ 145 ]===
 [topic]: Online Learning Platforms
@@ -5135,7 +5570,8 @@ hint: {' This statement is incorrect. While some platforms offer free courses, m
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.22	 
 	Online learning platforms have revolutionized the way we access education, offering a wide range of courses and flexible learning schedules.
@@ -5145,6 +5581,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.06
 	 The availability of interactive materials, video lectures, and peer-to-peer discussions enhances the learning experience.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.16	 
 	 Furthermore, these platforms cater to diverse learning styles, offering various formats like text-based lessons, video tutorials, and interactive quizzes.
+
+[Total: 146, Correct: 139, Wrong: 7]
 
 ===[ 146 ]===
 [topic]: Role-Playing Games
@@ -5169,7 +5607,8 @@ hint: {' While defeating enemies and completing missions are important aspects o
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.1, 	 hint: 0.08	 
 	Role-playing games (RPGs) have become increasingly popular in recent years, offering immersive experiences and engaging storylines.
@@ -5179,6 +5618,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.18
 	 One of the most popular types of RPGs is the "MMORPG", which stands for "Massively Multiplayer Online Role-Playing Game" and allows players to interact with each other in a shared online world.
 clean: 0.96	, mistake: 0.09, 	 hint: 0.11	 
 	hese games often feature complex storylines, engaging combat systems, and expansive open worlds to explore, providing hours of entertainment for players of all skill levels.
+
+[Total: 147, Correct: 140, Wrong: 7]
 
 ===[ 147 ]===
 [topic]: Solar Power
@@ -5203,7 +5644,8 @@ hint: {'The statement about cold climates is incorrect. Solar panels actually pe
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.17	 
 	Solar power, harnessing energy from the sun, is a clean and sustainable alternative to fossil fuels.
@@ -5213,6 +5655,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.21
 	The technology is constantly evolving, making solar power more accessible and affordable.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.09	 
 	From residential rooftops to large-scale solar farms, solar power is playing an increasingly important role in meeting our energy needs.
+
+[Total: 148, Correct: 141, Wrong: 7]
 
 ===[ 148 ]===
 [topic]: Object-Oriented Programming
@@ -5237,7 +5681,8 @@ hint: {' This statement is inaccurate; objects can inherit from multiple parent 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.14	 
 	Object-oriented programming (OOP) is a popular programming paradigm that structures code around objects.
@@ -5249,6 +5694,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0
 	OOP allows for the creation of complex systems by breaking them down into smaller, self-contained units.
 clean: 0.93	, mistake: 0, 	 hint: 0.09	 
 	nheritance and polymorphism are key principles in OOP that allow for code flexibility and extensibility.
+
+[Total: 149, Correct: 142, Wrong: 7]
 
 ===[ 149 ]===
 [topic]: Baking
@@ -5273,7 +5720,8 @@ hint: {' While salt is essential for flavor, adding too much can actually make y
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.16	 
 	Baking is a beloved hobby for many, offering a creative outlet and delicious results.
@@ -5285,6 +5733,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.1
 	It's important to measure ingredients carefully, as even slight variations can significantly impact the final product.
 clean: 0.95	, mistake: 0.13, 	 hint: 0.13	 
 	he joy of baking lies in the satisfaction of creating something delicious from scratch, and the results are often worth the effort.
+
+[Total: 150, Correct: 143, Wrong: 7]
 
 ===[ 150 ]===
 [topic]: Quantum Entanglement
@@ -5309,7 +5759,8 @@ hint: {' While entanglement is used for secure communication, it cannot be used 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.11	 
 	Quantum entanglement is a fascinating phenomenon in which two or more particles become linked, even when separated by vast distances.
@@ -5319,6 +5770,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.06
 	 This bizarre connection has profound implications for our understanding of reality and could lead to revolutionary advancements in fields like cryptography and computing.
 clean: 1.0	, mistake: 0.22, 	 hint: 0.27	 
 	 One of the most remarkable aspects of entanglement is its ability to defy classical physics, which states that information cannot travel faster than the speed of light.
+
+[Total: 151, Correct: 144, Wrong: 7]
 
 ===[ 151 ]===
 [topic]: Baking Bread
@@ -5343,7 +5796,8 @@ hint: {" Honey is not used to achieve a golden crust. It's actually the combinat
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.15	 
 	Baking bread is a rewarding experience that brings the aroma of fresh-baked goodness into your home.
@@ -5355,6 +5809,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.21
 	Once the dough has risen, it's important to preheat the oven to a high temperature to ensure a crispy exterior.
 clean: 0.95	, mistake: 0.15, 	 hint: 0.13	 
 	 o check if the bread is done, you can tap the bottom �V if it sounds hollow, it's ready to be enjoyed.
+
+[Total: 152, Correct: 145, Wrong: 7]
 
 ===[ 152 ]===
 [topic]: Solar System
@@ -5379,7 +5835,8 @@ hint: {' The information about Mars having oceans is incorrect. While there is e
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.09, 	 hint: 0.15	 
 	Our solar system is filled with fascinating celestial objects.
@@ -5393,6 +5850,8 @@ clean: 1.0	, mistake: 0.26, 	 hint: 0.12
 	Saturn is another gas giant, renowned for its beautiful ring system, composed mostly of ice and dust.
 clean: 0.94	, mistake: 0.13, 	 hint: 0.08	 
 	 xploring these celestial bodies provides valuable insights into the formation and evolution of our solar system.
+
+[Total: 153, Correct: 146, Wrong: 7]
 
 ===[ 153 ]===
 [topic]: Handwashing
@@ -5417,7 +5876,8 @@ hint: {' While hand sanitizers are helpful in certain situations, they are not a
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.09	 
 	Handwashing is a fundamental hygiene practice that plays a crucial role in preventing the spread of germs and illnesses.
@@ -5427,6 +5887,8 @@ clean: 1.0	, mistake: 0.33, 	 hint: 0.2
 	 Additionally, washing hands with warm water is more effective than using cold water.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.12	 
 	It is important to scrub all surfaces of our hands, including the palms, backs, fingernails, and between fingers, to ensure that all germs are removed.
+
+[Total: 154, Correct: 147, Wrong: 7]
 
 ===[ 154 ]===
 [topic]: Traditional Japanese Architecture
@@ -5451,7 +5913,8 @@ hint: {' The information about stained glass windows is incorrect. While stained
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.16	 
 	Japanese architecture is renowned for its delicate beauty and harmonious blend of nature and design.
@@ -5461,6 +5924,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.15
 	  These structures often incorporate traditional materials like wood, bamboo, and paper, creating a sense of lightness and airiness.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.08	 
 	The use of tatami mats, sliding doors, and open verandahs further emphasizes the connection between interior and exterior spaces, blurring the lines between the built environment and the surrounding nature.
+
+[Total: 155, Correct: 148, Wrong: 7]
 
 ===[ 155 ]===
 [topic]: Inflation
@@ -5485,7 +5950,8 @@ hint: {' The claim that inflation is always caused by a decrease in the money su
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.23	 
 	Inflation is a significant economic phenomenon that impacts everyday life.
@@ -5497,6 +5963,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.37
 	Inflation can be influenced by various factors, such as increased demand, supply chain disruptions, and government policies.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.2	 
 	 Understanding the causes and implications of inflation is essential for individuals and policymakers alike.
+
+[Total: 156, Correct: 149, Wrong: 7]
 
 ===[ 156 ]===
 [topic]: Abstract Expressionism
@@ -5521,7 +5989,8 @@ hint: {' Abstract Expressionism was not about realism, but about the exploration
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.15	 
 	Abstract Expressionism, a major movement in 20th-century art, emerged in New York City after World War II.
@@ -5533,6 +6002,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.05
 	 Their canvases became a space for raw expression, often incorporating techniques like dripping, splattering, and layering of paint.
 clean: 0.94	, mistake: 0.14, 	 hint: 0.1	 
 	 he movement had a profound impact on the evolution of modern art and continues to inspire artists today.
+
+[Total: 157, Correct: 150, Wrong: 7]
 
 ===[ 157 ]===
 [topic]: Content Marketing
@@ -5557,7 +6028,8 @@ hint: {' While promoting your products and services is important, it should be d
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.28, 	 hint: 0.11	 
 	Content marketing is an essential strategy for businesses to build brand awareness and engage with their target audience.
@@ -5569,6 +6041,8 @@ clean: 1.0	, mistake: 0.2, 	 hint: 0.1
 	Instead of solely focusing on promotions, content should provide value to your audience by offering insightful information, practical tips, or entertaining experiences.
 clean: 0.93	, mistake: 0, 	 hint: 0.12	 
 	his approach helps establish trust and authority, ultimately driving conversions and long-term loyalty.
+
+[Total: 158, Correct: 151, Wrong: 7]
 
 ===[ 158 ]===
 [topic]: The Great Barrier Reef
@@ -5593,7 +6067,8 @@ hint: {" The Great Barrier Reef extends beyond Australia's territorial waters, m
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.42, 	 hint: 0.3	 
 	The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system.
@@ -5607,6 +6082,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.11
 	The reef is facing numerous threats like climate change, pollution, and destructive fishing practices.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.11	 
 	 onservation efforts are vital to ensure the survival of this incredible natural wonder for future generations.
+
+[Total: 159, Correct: 152, Wrong: 7]
 
 ===[ 159 ]===
 [topic]:  The Great Barrier Reef
@@ -5631,7 +6108,8 @@ hint: {" Coral is actually an animal, not a plant. It's made up of tiny marine i
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.11	 
 	The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system.
@@ -5643,6 +6121,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.26
 	It's a crucial part of the marine environment, providing habitat for countless species and contributing to the global ecosystem.
 clean: 1.0	, mistake: 0.2, 	 hint: 0.14	 
 	 The Great Barrier Reef is facing threats from climate change, pollution, and destructive fishing practices, making its conservation a critical issue.
+
+[Total: 160, Correct: 153, Wrong: 7]
 
 ===[ 160 ]===
 [topic]: Time Management for Stress Reduction
@@ -5667,7 +6147,8 @@ hint: {' This is incorrect; multitasking can actually increase stress and lead t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.29, 	 hint: 0.12	 
 	Effective time management is crucial for reducing stress.
@@ -5679,6 +6160,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.15
 	Breaking down large tasks into smaller, manageable chunks can also significantly reduce stress and anxiety.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.09	 
 	 Additionally, setting realistic deadlines and taking regular breaks are essential for preventing burnout and maintaining a healthy work-life balance.
+
+[Total: 161, Correct: 154, Wrong: 7]
 
 ===[ 161 ]===
 [topic]: Dog Breeds
@@ -5703,7 +6186,8 @@ hint: {' The German Shepherd is known for its high energy and protective nature,
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 3, mistake 1, hint 0
+[Complete Right]
+Total: 4, clean 3, mistake 1, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.11	 
 	Dog breeds come in all shapes and sizes, each with its own unique personality and characteristics.
@@ -5713,6 +6197,8 @@ clean: 0.26	, mistake: 1.0, 	 hint: 0.54
 	 For instance, the German Shepherd is a popular breed for its calm temperament and suitability for small families.
 clean: 1.0	, mistake: 0.26, 	 hint: 0.35	 
 	 Breeds like the Labrador Retriever, known for their playful and friendly nature, are often better suited for families with young children.
+
+[Total: 162, Correct: 154, Wrong: 8]
 
 ===[ 162 ]===
 [topic]: Air Pollution
@@ -5737,7 +6223,8 @@ hint: {'  The statement about fossil fuels is incorrect.  Burning fossil fuels r
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.15	 
 	Air pollution is a serious environmental issue that affects human health and the planet.
@@ -5747,6 +6234,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0.08
 	  These pollutants can cause respiratory problems, cardiovascular diseases, and even premature death.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.13	 
 	 We can combat air pollution by promoting renewable energy sources, improving public transportation, and encouraging eco-friendly practices.
+
+[Total: 163, Correct: 155, Wrong: 8]
 
 ===[ 163 ]===
 [topic]: Cognitive Biases
@@ -5771,7 +6260,8 @@ hint: {' While the halo effect does exist, it is associated with forming overall
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0	 
 	Cognitive biases are mental shortcuts that influence our thinking and decision-making.
@@ -5783,6 +6273,8 @@ clean: 1.0	, mistake: 0.25, 	 hint: 0.13
 	 Another prevalent bias is the availability heuristic, where we overestimate the likelihood of events based on how easily they come to mind.
 clean: 1.0	, mistake: 0.1, 	 hint: 0	 
 	 Being aware of these biases and actively challenging them can help us make more rational decisions and avoid falling prey to their influence.
+
+[Total: 164, Correct: 156, Wrong: 8]
 
 ===[ 164 ]===
 [topic]: Diabetes and Exercise
@@ -5807,7 +6299,8 @@ hint: {"  While walking after meals can be helpful, it doesn't immediately lower
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.14	 
 	Diabetes can significantly impact an individual's health, but managing it effectively is possible.
@@ -5821,6 +6314,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.16
 	Engaging in these activities not only helps control blood sugar but also reduces the risk of other health complications associated with diabetes.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.19	 
 	It's essential to consult with a healthcare professional to determine the most appropriate exercise routine for individual needs and to monitor blood sugar levels carefully during and after exercise.
+
+[Total: 165, Correct: 157, Wrong: 8]
 
 ===[ 165 ]===
 [topic]: Sustainable Living
@@ -5845,7 +6340,8 @@ hint: {" While composting is beneficial, it doesn't directly address the issue o
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.14	 
 	Sustainable living is about making choices that minimize our impact on the environment.
@@ -5857,6 +6353,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.2
 	It's important to reduce our consumption of plastic products in the first place.
 clean: 1.0	, mistake: 0.22, 	 hint: 0.06	 
 	We can opt for reusable alternatives like cloth bags, metal straws, and glass containers to avoid accumulating plastic waste.
+
+[Total: 166, Correct: 157, Wrong: 9]
 
 ===[ 166 ]===
 [topic]: The Power of Gratitude
@@ -5881,7 +6379,8 @@ hint: {' The information about dopamine is incorrect.  Gratitude has actually be
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 1, hint 0
+[Complete Right]
+Total: 6, clean 5, mistake 1, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.11	 
 	Gratitude is a powerful emotion that can significantly impact our well-being.
@@ -5895,6 +6394,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.13
 	By cultivating a sense of gratitude, we can cultivate a more positive and fulfilling life.
 clean: 1.0	, mistake: 0.09, 	 hint: 0.15	 
 	Simple acts like writing a gratitude journal or expressing appreciation to loved ones can go a long way in enhancing our sense of well-being.
+
+[Total: 167, Correct: 157, Wrong: 10]
 
 ===[ 167 ]===
 [topic]: Coral Reefs
@@ -5919,7 +6420,8 @@ hint: {' The statement about algae forming the reef structure is incorrect. Cora
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.29	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -5931,6 +6433,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.25
 	However, coral reefs are facing significant threats, including climate change and pollution.
 clean: 1.0	, mistake: 0.24, 	 hint: 0.24	 
 	Efforts to protect and restore coral reefs are crucial for maintaining the health of our oceans and the livelihoods of coastal communities.
+
+[Total: 168, Correct: 158, Wrong: 10]
 
 ===[ 168 ]===
 [topic]: Memory
@@ -5955,7 +6459,8 @@ hint: {' This is incorrect, as our memories are not perfect recordings. They can
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.27	 
 	Our memories are complex and dynamic, constantly being formed, stored, and retrieved.
@@ -5967,6 +6472,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.15
 	 Factors like stress, trauma, or even simple forgetfulness can lead to inaccuracies in our recollections.
 clean: 0.96	, mistake: 0.05, 	 hint: 0.12	 
 	 nderstanding how memory works is crucial for both personal growth and legal proceedings, as it sheds light on the fallibility of human recollection.
+
+[Total: 169, Correct: 159, Wrong: 10]
 
 ===[ 169 ]===
 [topic]: Investing in Dividend Stocks
@@ -5991,7 +6498,8 @@ hint: {" While dividend stocks can offer consistent income, it's not always true
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.27	 
 	Investing in dividend stocks can be a rewarding way to generate passive income.
@@ -6001,6 +6509,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.16
 	 It's important to consider factors like the company's financial health, dividend history, and payout ratio when selecting dividend stocks.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.16	 
 	 Diversifying your portfolio with a mix of dividend and growth stocks can help you achieve a well-rounded investment strategy.
+
+[Total: 170, Correct: 160, Wrong: 10]
 
 ===[ 170 ]===
 [topic]: Diabetes and Exercise
@@ -6025,7 +6535,8 @@ hint: {' This statement is incorrect.  Moderate exercise is actually beneficial 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.07	 
 	Regular physical activity plays a crucial role in managing diabetes.
@@ -6037,6 +6548,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.09
 	 It's essential to find an exercise routine that suits your individual needs and preferences, and always consult with your doctor before starting a new exercise program.
 clean: 1.0	, mistake: 0.2, 	 hint: 0.19	 
 	Always carry a quick-acting carbohydrate source with you when exercising, like glucose tablets or juice, in case your blood sugar levels drop too low.
+
+[Total: 171, Correct: 161, Wrong: 10]
 
 ===[ 171 ]===
 [topic]: Literary Movements
@@ -6061,7 +6574,8 @@ hint: {' While Charles Dickens was indeed a prolific writer, he was a prominent 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.12	 
 	The Romantic era in literature, spanning roughly from the late 18th century to the mid-19th century, was characterized by a strong emphasis on emotion, imagination, and individualism.
@@ -6071,6 +6585,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.15
 	Other prominent figures of this period include William Wordsworth, John Keats, and Mary Shelley, who penned the iconic novel "Frankenstein".
 clean: 0.94	, mistake: 0.14, 	 hint: 0.11	 
 	he Romantic movement left a lasting impact on literary traditions, influencing later movements like Symbolism and Modernism.
+
+[Total: 172, Correct: 162, Wrong: 10]
 
 ===[ 172 ]===
 [topic]: Baking with Yeast
@@ -6096,7 +6612,8 @@ hint: {' This information is incorrect. Boiling water will actually kill the yea
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 3, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 3, mistake 0, hint 0
 
 clean: 0.23	, mistake: 0.12, 	 hint: 0.06	 
 	Once the dough has risen, you can let it rise in a warm place, then bake it in a preheated oven to achieve the desired texture and flavor.
@@ -6109,6 +6626,8 @@ clean: 1.0	, mistake: 0.22, 	 hint: 0.13
 	After adding the yeast to the water, you can then incorporate the other ingredients and knead the dough until it's smooth and elastic.
 clean: 0.23	, mistake: 0.12, 	 hint: 0.06	 
 	fter the dough has risen, you can let it rise in a warm place, then bake it in a preheated oven to achieve the desired texture and flavor.
+
+[Total: 173, Correct: 162, Wrong: 11]
 
 ===[ 173 ]===
 [topic]: Mountain Gorillas
@@ -6133,7 +6652,8 @@ hint: {' The statement about gorillas being aggressive towards humans is inaccur
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.07	 
 	Mountain gorillas, found only in the dense forests of the Virunga Massif and Bwindi Impenetrable Forest, are critically endangered.
@@ -6145,6 +6665,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.1
 	 Scientists dedicate their efforts to conservation programs, aiming to protect these vulnerable animals and ensure their survival for generations to come.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.11	 
 	 Conservation efforts involve protecting their habitat, combating poaching, and addressing human-wildlife conflict through sustainable practices.
+
+[Total: 174, Correct: 163, Wrong: 11]
 
 ===[ 174 ]===
 [topic]: Geothermal Energy
@@ -6169,7 +6691,8 @@ hint: {' Geothermal energy can actually be accessed in areas with high levels of
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.13	 
 	Geothermal energy harnesses the heat within the Earth's core to generate electricity.
@@ -6179,6 +6702,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.06
 	 This clean energy solution has been gaining popularity as a sustainable alternative to traditional power sources.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.06	 
 	 By tapping into the heat beneath the Earth's surface, we can generate electricity without producing harmful emissions.
+
+[Total: 175, Correct: 164, Wrong: 11]
 
 ===[ 175 ]===
 [topic]: Investigative Journalism
@@ -6203,7 +6728,8 @@ hint: {' This is incorrect. The First Amendment protects freedom of the press, b
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0	 
 	Investigative journalism plays a crucial role in holding power accountable.
@@ -6213,6 +6739,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.06
 	  Journalists often face challenges, including threats and legal hurdles, while pursuing truth.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.11	 
 	 Despite the difficulties, investigative journalism remains vital for ensuring transparency and accountability in society.
+
+[Total: 176, Correct: 165, Wrong: 11]
 
 ===[ 176 ]===
 [topic]: Renaissance Art
@@ -6237,7 +6765,8 @@ hint: {" The statement about Renaissance art moving away from realism is inaccur
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.2	 
 	The Renaissance, a period of immense artistic and cultural rebirth, witnessed the emergence of some of the most iconic masterpieces in art history.
@@ -6249,6 +6778,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.25
 	However, the focus on realism and human anatomy during the Renaissance was quite pronounced.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.14	 
 	This era marked a return to classical Greek and Roman artistic ideals, emphasizing naturalism and human form.
+
+[Total: 177, Correct: 166, Wrong: 11]
 
 ===[ 177 ]===
 [topic]: Diabetes and Foot Care
@@ -6274,7 +6805,8 @@ hint: {' Soaking your feet in hot water is not recommended for people with diabe
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.1	 
 	Diabetes can significantly impact foot health, making it crucial to prioritize proper foot care.
@@ -6284,6 +6816,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.17
 	Keeping your feet clean and dry is crucial to prevent infections.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.16	 
 	 Always wear comfortable, well-fitting shoes that protect your feet from injury.
+
+[Total: 178, Correct: 167, Wrong: 11]
 
 ===[ 178 ]===
 [topic]: User Interface Design
@@ -6309,7 +6843,8 @@ hint: {' This statement is incorrect. Using bright colors for all buttons can le
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 5, mistake 0, hint 0
 
 clean: 0.17	, mistake: 0.13, 	 hint: 0.09	 
 	Another key element is consistency in design elements, such as consistent font sizes and spacing, to create a sense of professionalism and ease of navigation.
@@ -6324,6 +6859,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.11
 	 However, it's important to choose colors carefully and consider the overall context and target audience.
 clean: 0.95	, mistake: 0.14, 	 hint: 0.14	 
 	 or example, a website for a financial institution might benefit from a more muted color palette to convey trust and professionalism.
+
+[Total: 179, Correct: 167, Wrong: 12]
 
 ===[ 179 ]===
 [topic]: Diabetes
@@ -6348,7 +6885,8 @@ hint: {' The information about sugar intake is incorrect. Consuming large amount
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.21	 
 	Diabetes is a chronic condition that affects how the body regulates blood sugar.
@@ -6358,6 +6896,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.16
 	While a healthy diet and regular exercise are crucial for managing diabetes,  Monitoring blood sugar levels regularly is essential, and there are various types of medications available to assist in managing the condition.
 clean: 0.96	, mistake: 0.2, 	 hint: 0.19	 
 	t is essential to follow a doctor's advice and consult with a registered dietitian to create a personalized meal plan that supports blood sugar control.
+
+[Total: 180, Correct: 168, Wrong: 12]
 
 ===[ 180 ]===
 [topic]: Dog Breeds
@@ -6382,7 +6922,8 @@ hint: {' German Shepherds are actually highly intelligent dogs, often used for t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.15	 
 	There are many dog breeds that are known for their intelligence, but some are particularly impressive.
@@ -6392,6 +6933,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.15
 	 Another incredibly intelligent breed is the Poodle, renowned for their ability to learn tricks and solve problems.
 clean: 1.0	, mistake: 0.2, 	 hint: 0.09	 
 	 Choosing the right breed for your lifestyle is important, and considering their intelligence level can be a factor in making that choice.
+
+[Total: 181, Correct: 169, Wrong: 12]
 
 ===[ 181 ]===
 [topic]: Robotics
@@ -6416,7 +6959,8 @@ hint: {' Robots are not powered by any special type of electricity. They run on 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.09	 
 	Robotics is an exciting field that combines engineering, computer science, and artificial intelligence.
@@ -6430,6 +6974,8 @@ clean: 1.0	, mistake: 0.08, 	 hint: 0.19
 	They then execute the programmed actions to complete their tasks.
 clean: 0.96	, mistake: 0.11, 	 hint: 0.12	 
 	he advancement of robotics has led to the development of collaborative robots, or cobots, which work alongside humans in factories and other settings.
+
+[Total: 182, Correct: 170, Wrong: 12]
 
 ===[ 182 ]===
 [topic]: Attachment Styles
@@ -6454,7 +7000,8 @@ hint: {'  The information about avoidant attachment styles is incorrect. Avoidan
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.21	 
 	Attachment styles are formed early in life and influence how we interact in relationships.
@@ -6464,6 +7011,8 @@ clean: 1.0	, mistake: 0.27, 	 hint: 0.22
 	In contrast, anxious-preoccupied individuals may struggle with intimacy and avoid emotional vulnerability.
 clean: 0.93	, mistake: 0.19, 	 hint: 0.17	 
 	nderstanding our attachment style can help us navigate relationships more effectively and build healthier connections.
+
+[Total: 183, Correct: 171, Wrong: 12]
 
 ===[ 183 ]===
 [topic]: Machine Learning
@@ -6488,7 +7037,8 @@ hint: {' While machine learning can process large amounts of data, it still reli
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.23, 	 hint: 0.15	 
 	Machine learning is a powerful tool within Artificial Intelligence (AI), enabling computers to learn from data without explicit programming.
@@ -6498,6 +7048,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.14
 	This technology is applied in various fields like healthcare, finance, and marketing, revolutionizing the way we analyze and utilize information.
 clean: 0.95	, mistake: 0.18, 	 hint: 0.2	 
 	 s machine learning continues to evolve, we can expect even more innovative applications that transform industries and solve complex problems.
+
+[Total: 184, Correct: 172, Wrong: 12]
 
 ===[ 184 ]===
 [topic]: Plastic Pollution
@@ -6522,7 +7074,8 @@ hint: {' This statement is incorrect.  Microplastics are not easily broken down 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.12	 
 	Plastic pollution is a major environmental issue, affecting ecosystems and human health.
@@ -6534,6 +7087,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.13
 	 Recycling initiatives are crucial for managing plastic waste, but reducing our reliance on single-use plastics is key to tackling this global issue.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.17	 
 	We can all make a difference by choosing reusable alternatives, supporting sustainable businesses, and advocating for policies that promote responsible plastic production and disposal.
+
+[Total: 185, Correct: 173, Wrong: 12]
 
 ===[ 185 ]===
 [topic]: Coral Reefs
@@ -6558,7 +7113,8 @@ hint: {' While chlorophyll is important for photosynthesis in plants, the vibran
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.16	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -6570,6 +7126,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.11
 	This process contributes to the formation of these vital ecosystems.
 clean: 0.96	, mistake: 0.28, 	 hint: 0.15	 
 	he health of coral reefs is crucial for the overall balance of marine ecosystems and is facing threats from climate change, pollution, and overfishing.
+
+[Total: 186, Correct: 174, Wrong: 12]
 
 ===[ 186 ]===
 [topic]: The Human Brain
@@ -6594,7 +7152,8 @@ hint: {' This statement is incorrect. The opposite is true. The left hemisphere 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.19	 
 	The human brain is a complex and fascinating organ, responsible for everything we think, feel, and do.
@@ -6606,6 +7165,8 @@ clean: 1.0	, mistake: 0.04, 	 hint: 0.04
 	 While these distinctions are important to understand, it's crucial to remember that both hemispheres work together in a complex interplay to make us who we are.
 clean: 0.93	, mistake: 0.22, 	 hint: 0.18	 
 	his intricate communication between hemispheres allows for a diverse range of cognitive abilities and functions.
+
+[Total: 187, Correct: 175, Wrong: 12]
 
 ===[ 187 ]===
 [topic]: Importance of Fiber in Diet
@@ -6630,7 +7191,8 @@ hint: {' Fiber is not absorbed by the body. It passes through the digestive syst
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.19	 
 	Fiber is an essential nutrient that plays a crucial role in maintaining digestive health.
@@ -6640,6 +7202,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.16
 	 Dietary fiber is also important for regulating blood sugar levels, reducing cholesterol, and promoting a healthy gut microbiome.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.08	 
 	Including plenty of fruits, vegetables, and whole grains in your diet can ensure you are getting enough fiber.
+
+[Total: 188, Correct: 176, Wrong: 12]
 
 ===[ 188 ]===
 [topic]: Sustainable Fashion
@@ -6664,7 +7228,8 @@ hint: {'  The information about polyester being sustainable is inaccurate. Synth
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.15	 
 	Sustainable fashion is gaining traction as consumers become more conscious of the environmental impact of the clothing industry.
@@ -6674,6 +7239,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.18
 	 Supporting brands committed to ethical labor practices and responsible manufacturing processes is another way to contribute to sustainable fashion.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.08	 
 	 By making conscious choices, we can collectively shift towards a more sustainable and ethical fashion industry.
+
+[Total: 189, Correct: 177, Wrong: 12]
 
 ===[ 189 ]===
 [topic]: Coral Reefs
@@ -6698,7 +7265,8 @@ hint: {' This statement is inaccurate. Coral reefs actually thrive in warm, shal
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.15	 
 	Coral reefs are vibrant ecosystems teeming with life, providing a habitat for countless species.
@@ -6708,6 +7276,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.05
 	These reefs are vital for the health of our oceans, acting as natural barriers against storms and providing a source of food and income for millions of people.
 clean: 0.96	, mistake: 0.06, 	 hint: 0.07	 
 	he delicate balance of these ecosystems is threatened by pollution, overfishing, and climate change, making their conservation a crucial task for the future.
+
+[Total: 190, Correct: 178, Wrong: 12]
 
 ===[ 190 ]===
 [topic]: The Solar System
@@ -6732,7 +7302,8 @@ hint: {' The statement about Neptune being the closest to the sun is incorrect. 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.32, 	 hint: 0.31	 
 	Our solar system is a fascinating place with eight planets orbiting the sun.
@@ -6744,6 +7315,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.2
 	 Mars, often called the "Red Planet", is believed to have once had liquid water on its surface.
 clean: 1.0	, mistake: 0.2, 	 hint: 0.19	 
 	Studying these celestial bodies helps us understand the origins of our own planet and the vastness of space.
+
+[Total: 191, Correct: 179, Wrong: 12]
 
 ===[ 191 ]===
 [topic]: Sustainable Farming Practices
@@ -6768,7 +7341,8 @@ hint: {' The statement about synthetic fertilizers is incorrect. While they can 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.06	 
 	Sustainable farming practices are crucial for protecting our environment and ensuring food security for future generations.
@@ -6778,6 +7352,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.08
 	 Another important practice is **agroforestry**, where trees and crops are grown together, providing shade and reducing soil erosion.
 clean: 0.93	, mistake: 0.05, 	 hint: 0.29	 
 	mplementing these sustainable practices can lead to more resilient and environmentally friendly agricultural systems.
+
+[Total: 192, Correct: 180, Wrong: 12]
 
 ===[ 192 ]===
 [topic]: Recycling
@@ -6802,7 +7378,8 @@ hint: {'  Glass is actually highly recyclable and can be melted down to create n
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.18	 
 	Recycling is essential for environmental sustainability, but it can be confusing knowing what can and cannot be recycled.
@@ -6812,6 +7389,8 @@ clean: 1.0	, mistake: 0.08, 	 hint: 0.14
 	Metals like aluminum cans and steel are also widely recycled, contributing to resource conservation.
 clean: 1.0	, mistake: 0.13, 	 hint: 0.12	 
 	 It is important to check with your local recycling program for specific guidelines on what materials they accept.
+
+[Total: 193, Correct: 181, Wrong: 12]
 
 ===[ 193 ]===
 [topic]: Gene Editing
@@ -6836,7 +7415,8 @@ hint: {' The information about replacing entire genes is incorrect. CRISPR-Cas9 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.18	 
 	Gene editing is a revolutionary technology that allows scientists to precisely alter DNA sequences.
@@ -6848,6 +7428,8 @@ clean: 1.0	, mistake: 0.23, 	 hint: 0.17
 	CRISPR-Cas9 is a highly precise tool that can modify specific genes without affecting the rest of the genome.
 clean: 0.95	, mistake: 0.17, 	 hint: 0.07	 
 	ther gene editing techniques are also being explored, such as TALENs and zinc finger nucleases, each with its own advantages and limitations.
+
+[Total: 194, Correct: 182, Wrong: 12]
 
 ===[ 194 ]===
 [topic]: Bacteria and Antibiotics
@@ -6872,7 +7454,8 @@ hint: {' This statement is incorrect. Antibiotics are not effective against viru
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.1, 	 hint: 0.08	 
 	Bacteria are single-celled organisms that can be found everywhere in the environment, from the soil to our bodies.
@@ -6886,6 +7469,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.07
 	 By targeting specific bacterial processes, antibiotics can disrupt their growth and reproduction, allowing the body's immune system to fight off the infection.
 clean: 0.96	, mistake: 0.08, 	 hint: 0.06	 
 	t's crucial to remember that antibiotics should only be used when prescribed by a doctor to avoid the development of antibiotic resistance, a serious public health concern.
+
+[Total: 195, Correct: 183, Wrong: 12]
 
 ===[ 195 ]===
 [topic]: Seasonal Allergies
@@ -6910,7 +7495,8 @@ hint: {' While pollen does travel through the air, it actually enters the body t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0	 
 	Seasonal allergies, also known as hay fever, are a common problem for many people.
@@ -6920,6 +7506,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.1
 	 Thankfully, there are effective ways to manage seasonal allergies, including over-the-counter medications and allergy shots.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.05	 
 	 Avoiding triggers like staying indoors during high pollen counts can also help alleviate allergy symptoms.
+
+[Total: 196, Correct: 184, Wrong: 12]
 
 ===[ 196 ]===
 [topic]: Whistleblowing
@@ -6944,7 +7532,8 @@ hint: {' This is incorrect. While some countries have laws protecting whistleblo
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.09, 	 hint: 0.17	 
 	Whistleblowing is a critical aspect of ethical business practices.
@@ -6956,6 +7545,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0.12
 	 However, ethical considerations should be carefully weighed before taking such a drastic step.
 clean: 1.0	, mistake: 0.07, 	 hint: 0.1	 
 	 It is important to consider the potential consequences and explore all available internal channels before going public.
+
+[Total: 197, Correct: 185, Wrong: 12]
 
 ===[ 197 ]===
 [topic]: Food Preservation Techniques
@@ -6980,7 +7571,8 @@ hint: {' While canning does utilize high heat, the boiling water is only necessa
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.04, 	 hint: 0.12	 
 	Food preservation techniques are essential for extending the shelf life of food and preventing spoilage.
@@ -6990,6 +7582,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.15
 	  Pickling is another excellent technique that uses vinegar and salt to create an acidic environment, inhibiting the growth of microorganisms.
 clean: 1.0	, mistake: 0.08, 	 hint: 0.05	 
 	 Dehydration removes moisture, which is crucial for bacterial growth, making it an effective preservation method for fruits and vegetables.
+
+[Total: 198, Correct: 186, Wrong: 12]
 
 ===[ 198 ]===
 [topic]: Allergies
@@ -7014,7 +7608,8 @@ hint: {' This statement about allergies is not entirely accurate. While environm
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.17	 
 	Allergies are a common condition affecting millions of people worldwide.
@@ -7026,6 +7621,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.08
 	 It's important to identify and avoid allergens to manage symptoms.
 clean: 1.0	, mistake: 0.13, 	 hint: 0.15	 
 	 Understanding the specific triggers and implementing avoidance strategies are crucial for minimizing allergic reactions.
+
+[Total: 199, Correct: 187, Wrong: 12]
 
 ===[ 199 ]===
 [topic]: Traditional Japanese Clothing
@@ -7050,7 +7647,8 @@ hint: {' While silk is commonly used, kimonos can also be made from other materi
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.13	 
 	Traditional Japanese clothing is a fascinating blend of history, artistry, and practicality.
@@ -7062,6 +7660,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.1
 	The kimono is often accessorized with a sash called an obi, which is tied around the waist and contributes to the garment's elegance.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.12	 
 	 The different types of kimonos and their associated colors and patterns hold deep cultural significance.
+
+[Total: 200, Correct: 188, Wrong: 12]
 
 ===[ 200 ]===
 [topic]: Wound Care
@@ -7086,7 +7686,8 @@ hint: {' Applying ice directly to a wound for long durations can actually damage
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.2	 
 	Wound care is crucial in preventing infection and promoting healing.
@@ -7096,6 +7697,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.2
 	Bandaging techniques also play a significant role in wound healing, protecting the wound from further injury and facilitating a moist environment.
 clean: 1.0	, mistake: 0.18, 	 hint: 0.26	 
 	 It's important to consult a healthcare professional for proper wound care instructions and to ensure optimal healing.
+
+[Total: 201, Correct: 189, Wrong: 12]
 
 ===[ 201 ]===
 [topic]: Dividend Investing
@@ -7120,7 +7723,8 @@ hint: {' The relationship between dividend yield and stock volatility is not dir
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.18	 
 	Dividend investing involves buying stocks of companies that regularly pay out a portion of their profits to shareholders.
@@ -7132,6 +7736,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.13
 	Dividend investing can be a valuable strategy for long-term investors seeking passive income and potential capital appreciation.
 clean: 1.0	, mistake: 0.21, 	 hint: 0.16	 
 	When choosing dividend stocks, it's crucial to understand the underlying business and its long-term prospects, rather than solely focusing on the dividend yield.
+
+[Total: 202, Correct: 190, Wrong: 12]
 
 ===[ 202 ]===
 [topic]: Plastic Pollution
@@ -7156,7 +7762,8 @@ hint: {' The statement about microplastics being harmless is incorrect. Micropla
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.13	 
 	Plastic pollution poses a significant threat to our environment and marine life.
@@ -7166,6 +7773,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.17
 	These microplastics then work their way up the food chain, potentially ending up in our own bodies.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.12	 
 	Reducing our plastic consumption and proper waste disposal are crucial steps in combating this global issue.
+
+[Total: 203, Correct: 191, Wrong: 12]
 
 ===[ 203 ]===
 [topic]: Cat Breeds
@@ -7190,7 +7799,8 @@ hint: {' Maine Coon cats are actually the largest domestic cat breed, often weig
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.13	 
 	Cats come in a wide array of breeds, each with its own unique characteristics and appearance.
@@ -7202,6 +7812,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0.06
 	The Scottish Fold is recognized by its distinctive folded ears, giving it a charming, almost owl-like appearance.
 clean: 0.92	, mistake: 0.07, 	 hint: 0.15	 
 	hese breeds offer something special, enriching the lives of cat lovers everywhere.
+
+[Total: 204, Correct: 192, Wrong: 12]
 
 ===[ 204 ]===
 [topic]: Cat Communication
@@ -7226,7 +7838,8 @@ hint: {' Cats do not express emotions with facial expressions like humans. Inste
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.11	 
 	Cats are known for their enigmatic communication style.
@@ -7238,6 +7851,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.28
 	 However, their facial expressions are primarily focused on conveying their emotional state through their ears, eyes, and whiskers.
 clean: 0.94	, mistake: 0.1, 	 hint: 0.07	 
 	nderstanding these subtle cues can help us better understand our feline companions and strengthen our bond with them.
+
+[Total: 205, Correct: 193, Wrong: 12]
 
 ===[ 205 ]===
 [topic]: Sustainable Fashion
@@ -7262,7 +7877,8 @@ hint: {' Buying from fast fashion brands frequently actually promotes overconsum
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.16	 
 	Sustainable fashion is gaining popularity as consumers become more aware of the environmental impact of fast fashion.
@@ -7272,6 +7888,8 @@ clean: 1.0	, mistake: 0.2, 	 hint: 0.18
 	 Recycling old clothes and choosing items made from organic materials like cotton or hemp are also excellent ways to support a more sustainable fashion industry.
 clean: 1.0	, mistake: 0.04, 	 hint: 0.14	 
 	Opting for brands that prioritize ethical and environmentally friendly production processes is crucial for making a real difference in the long run.
+
+[Total: 206, Correct: 194, Wrong: 12]
 
 ===[ 206 ]===
 [topic]:  Inventory Valuation Methods
@@ -7296,7 +7914,8 @@ hint: {' The statement about LIFO being commonly used is incorrect. LIFO is gene
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.07	 
 	Inventory valuation methods are essential for businesses to accurately determine the cost of goods sold and remaining inventory.
@@ -7308,6 +7927,8 @@ clean: 1.0	, mistake: 0.26, 	 hint: 0.16
 	The Weighted Average method, on the other hand, uses the average cost of all inventory items.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.16	 
 	hoosing the right inventory valuation method can significantly impact a company's financial statements and profitability.
+
+[Total: 207, Correct: 195, Wrong: 12]
 
 ===[ 207 ]===
 [topic]: Remote Work and Productivity
@@ -7332,7 +7953,8 @@ hint: {' This statement about always being available is incorrect. Remote work a
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.19	 
 	Working remotely offers many benefits, including flexibility and a more comfortable work environment.
@@ -7344,6 +7966,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.1
 	It's also beneficial to utilize online tools for communication and collaboration, which can streamline workflows and facilitate seamless teamwork.
 clean: 0.96	, mistake: 0.17, 	 hint: 0.24	 
 	 t's vital to remember that remote work requires discipline and self-management to maintain productivity and achieve a healthy work-life balance.
+
+[Total: 208, Correct: 196, Wrong: 12]
 
 ===[ 208 ]===
 [topic]: The Great Barrier Reef
@@ -7368,7 +7992,8 @@ hint: {' The statement about coral polyps being plants is incorrect. Coral polyp
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.15	 
 	The Great Barrier Reef, located off the coast of Australia, is the world's largest coral reef system.
@@ -7382,6 +8007,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.06
 	Scientists are working tirelessly to protect this natural wonder for future generations.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.1	 
 	Conservation efforts are crucial to ensure the survival of this vital ecosystem.
+
+[Total: 209, Correct: 197, Wrong: 12]
 
 ===[ 209 ]===
 [topic]: Coral Reefs
@@ -7406,7 +8033,8 @@ hint: {' The information about coral bleaching is inaccurate. Coral bleaching is
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.12	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -7418,6 +8046,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0.21
 	This delicate balance is threatened by pollution, rising ocean temperatures, and overfishing.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.13	 
 	protecting these fragile ecosystems is crucial for the health of our oceans and the planet.
+
+[Total: 210, Correct: 198, Wrong: 12]
 
 ===[ 210 ]===
 [topic]: Sushi
@@ -7442,7 +8072,8 @@ hint: {'  The statement about California rolls being the most popular type of su
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.12	 
 	Sushi, a beloved Japanese delicacy, has become a global phenomenon.
@@ -7452,6 +8083,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.11
 	  Sushi offers a diverse range of flavors and textures, appealing to various palates.
 clean: 1.0	, mistake: 0.04, 	 hint: 0.14	 
 	 From classic nigiri and maki rolls to innovative fusion variations, there's a sushi dish for every taste.
+
+[Total: 211, Correct: 199, Wrong: 12]
 
 ===[ 211 ]===
 [topic]: Rugby Positions
@@ -7476,7 +8109,8 @@ hint: {' The scrum-half is actually responsible for passing the ball from the sc
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.06	 
 	Rugby is a dynamic sport with various positions, each demanding different skill sets.
@@ -7486,6 +8120,8 @@ clean: 1.0	, mistake: 0.34, 	 hint: 0.28
 	The backs are responsible for speed and agility, with the fullback being the last line of defense.
 clean: 0.94	, mistake: 0.24, 	 hint: 0.23	 
 	 he wingers are responsible for scoring tries and are often the fastest players on the field.
+
+[Total: 212, Correct: 200, Wrong: 12]
 
 ===[ 212 ]===
 [topic]: Online Communication Etiquette
@@ -7510,7 +8146,8 @@ hint: {' Using all caps in online communication is generally considered rude and
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.27	 
 	Navigating online communication can be tricky.
@@ -7524,6 +8161,8 @@ clean: 1.0	, mistake: 0.08, 	 hint: 0.08
 	Instead, consider using bolding or italics for emphasis.
 clean: 0.97	, mistake: 0.17, 	 hint: 0.06	 
 	ou always double-check your message before sending to avoid misunderstandings and maintain a positive online presence.
+
+[Total: 213, Correct: 201, Wrong: 12]
 
 ===[ 213 ]===
 [topic]: The Impact of Globalization on National Economies
@@ -7548,7 +8187,8 @@ hint: {' This statement is incorrect, as globalization does not necessarily lead
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.25, 	 hint: 0.12	 
 	Globalization has become a defining force in the modern world, with significant effects on national economies.
@@ -7558,6 +8198,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.19
 	This interconnectedness can also lead to the transfer of technology and knowledge, fostering innovation and development.
 clean: 0.93	, mistake: 0.13, 	 hint: 0.13	 
 	 owever, globalization also presents challenges, such as increased competition and the risk of economic vulnerability.
+
+[Total: 214, Correct: 202, Wrong: 12]
 
 ===[ 214 ]===
 [topic]: Dividend Investing
@@ -7582,7 +8224,8 @@ hint: {' The statement about dividend stocks always outperforming growth stocks 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.12	 
 	Dividend investing involves buying shares of companies that regularly pay out a portion of their profits to shareholders.
@@ -7592,6 +8235,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.12
 	Choosing companies with a history of consistent dividend payments and a strong financial position is crucial for success in this investment strategy.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.06	 
 	It's essential to diversify your portfolio and consider factors like company stability, industry trends, and dividend yield before making any investment decisions.
+
+[Total: 215, Correct: 203, Wrong: 12]
 
 ===[ 215 ]===
 [topic]: Japanese Cuisine
@@ -7616,7 +8261,8 @@ hint: {' While ramen is indeed popular in Japan, its origins actually lie within
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.14	 
 	Japanese cuisine is renowned for its emphasis on fresh, seasonal ingredients and intricate preparation.
@@ -7628,6 +8274,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0
 	Many regional specialties exist, showcasing the diverse flavors and culinary traditions across the country.
 clean: 1.0	, mistake: 0.1, 	 hint: 0	 
 	 From the simple elegance of miso soup to the complex artistry of wagashi sweets, Japanese cuisine offers a truly captivating culinary experience.
+
+[Total: 216, Correct: 204, Wrong: 12]
 
 ===[ 216 ]===
 [topic]: Verb Tenses
@@ -7652,7 +8300,8 @@ hint: {' The information about the future tense is incorrect. The future tense d
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.15	 
 	Verb tenses are essential for understanding the flow of time in a sentence.
@@ -7664,6 +8313,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.14
 	 Learning the different tenses and their uses can greatly improve your understanding of grammar and your ability to communicate effectively.
 clean: 0.95	, mistake: 0.19, 	 hint: 0.18	 
 	dditionally, understanding the nuances of verb tenses can help you convey the intended meaning and tone in your writing.
+
+[Total: 217, Correct: 205, Wrong: 12]
 
 ===[ 217 ]===
 [topic]:  The Rise of Podcasts
@@ -7688,7 +8339,8 @@ hint: {' The information about podcasts being primarily downloaded for offline l
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.19	 
 	Podcasts have become increasingly popular in recent years, offering a diverse range of content for listeners on the go.
@@ -7700,6 +8352,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.33
 	 However, many podcasts are now available for live streaming, allowing listeners to tune in to live events and discussions.
 clean: 0.96	, mistake: 0.14, 	 hint: 0.11	 
 	he convenience of streaming podcasts on various devices has further fueled their growing popularity, making them an integral part of modern entertainment and information consumption.
+
+[Total: 218, Correct: 206, Wrong: 12]
 
 ===[ 218 ]===
 [topic]: Voting Rights in the US
@@ -7724,7 +8378,8 @@ hint: {" This is incorrect. While the Supreme Court's 2013 ruling in Shelby Coun
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.17	 
 	The right to vote is a cornerstone of democracy, and ensuring everyone has access to it is crucial.
@@ -7734,6 +8389,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.11
 	 States continue to grapple with issues of voter registration, voter ID laws, and the accessibility of polling places.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.11	 
 	 It's important to understand and advocate for policies that promote equal access to the ballot box for all citizens.
+
+[Total: 219, Correct: 207, Wrong: 12]
 
 ===[ 219 ]===
 [topic]: Dog Breeds
@@ -7758,7 +8415,8 @@ hint: {' Huskies are not native to the United Kingdom. They originated in Siberi
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.15	 
 	Dog breeds come in all shapes and sizes, each with unique characteristics and temperaments.
@@ -7768,6 +8426,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.18
 	Retrievers are also popular choices for families due to their gentle and patient disposition.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.11	 
 	Choosing the right breed for your lifestyle and personality is crucial to ensure a happy and fulfilling relationship with your furry companion.
+
+[Total: 220, Correct: 208, Wrong: 12]
 
 ===[ 220 ]===
 [topic]: Sofa Styles
@@ -7792,7 +8452,8 @@ hint: {' The chaise lounge actually emerged much later, in the 18th century, pop
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.07	 
 	Sofas are a staple in most living rooms, offering comfort and style.
@@ -7802,6 +8463,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.14
 	 The choice of fabric and upholstery can also significantly impact the overall aesthetic, with leather being a popular choice for its durability and luxurious feel.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.16	 
 	 Additionally, the use of different materials, such as wood, metal, and fabric, adds to the diversity of sofa designs available.
+
+[Total: 221, Correct: 209, Wrong: 12]
 
 ===[ 221 ]===
 [topic]: Attachment Styles
@@ -7826,7 +8489,8 @@ hint: {' The statement about avoidant attachment seeking closeness is incorrect.
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.09	 
 	Attachment theory explores how our early childhood experiences shape our relationships in adulthood.
@@ -7838,6 +8502,8 @@ clean: 1.0	, mistake: 0.27, 	 hint: 0.29
 	Conversely, individuals with anxious attachment often exhibit a pattern of emotional distance and avoidance.
 clean: 0.93	, mistake: 0.19, 	 hint: 0.08	 
 	nderstanding our attachment style can help us navigate relationships more effectively and build healthy connections.
+
+[Total: 222, Correct: 210, Wrong: 12]
 
 ===[ 222 ]===
 [topic]: Coral Reef Ecosystems
@@ -7862,7 +8528,8 @@ hint: {'  The information about corals thriving in polluted waters is inaccurate
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.22	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -7874,6 +8541,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.23
 	 Fish, invertebrates, and even larger marine mammals rely on coral reefs for food, shelter, and breeding grounds.
 clean: 1.0	, mistake: 0, 	 hint: 0.08	 
 	 Protecting these fragile ecosystems is crucial for the health of our oceans and the planet.
+
+[Total: 223, Correct: 211, Wrong: 12]
 
 ===[ 223 ]===
 [topic]: Sleep and Memory
@@ -7898,7 +8567,8 @@ hint: {" The information about dreaming and memory is incorrect. Dreams reflect 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.16	 
 	Sleep plays a crucial role in memory consolidation, transferring information from short-term to long-term memory.
@@ -7910,6 +8580,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.18
 	 However, simply dreaming about something doesn't guarantee learning, as dreams can be influenced by various factors, not just recent learning.
 clean: 1.0	, mistake: 0.09, 	 hint: 0.12	 
 	 While dream content can sometimes be related to recent experiences, research shows that other factors, like emotions and personal experiences, also influence dream content.
+
+[Total: 224, Correct: 212, Wrong: 12]
 
 ===[ 224 ]===
 [topic]: Benefits of Reading
@@ -7934,7 +8606,8 @@ hint: {' That statement is incorrect. Reading has been proven to have numerous p
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.21	 
 	Reading is a wonderful way to relax, escape, and expand your knowledge.
@@ -7946,6 +8619,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.13
 	Reading aloud to children can also be a great way to bond with them.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.17	 
 	Furthermore, reading can provide solace and comfort during challenging times, offering a valuable escape from the pressures of everyday life.
+
+[Total: 225, Correct: 213, Wrong: 12]
 
 ===[ 225 ]===
 [topic]: Inflation
@@ -7970,7 +8645,8 @@ hint: {' This statement is incorrect. Inflation is primarily caused by an increa
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.23	 
 	Inflation is a significant economic phenomenon that impacts individuals and businesses alike.
@@ -7984,6 +8660,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.16
 	 Inflation can have both positive and negative effects on the economy.
 clean: 1.0	, mistake: 0.22, 	 hint: 0.05	 
 	While it can stimulate economic growth, it can also lead to higher interest rates, making it more expensive for businesses to borrow money.
+
+[Total: 226, Correct: 214, Wrong: 12]
 
 ===[ 226 ]===
 [topic]: User Interface Design
@@ -8008,7 +8686,8 @@ hint: {' This statement is incorrect. Color plays a significant role in UI desig
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.29	 
 	User interface (UI) design plays a crucial role in creating engaging and intuitive digital experiences.
@@ -8020,6 +8699,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.11
 	This involves ensuring elements are consistently placed, prioritizing important information, and providing clear indications of user actions.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.11	 
 	Furthermore, conducting user research and incorporating user feedback are essential for creating a truly effective UI.
+
+[Total: 227, Correct: 215, Wrong: 12]
 
 ===[ 227 ]===
 [topic]: Virtual Reality
@@ -8044,7 +8725,8 @@ hint: {' This statement is incorrect. VR headsets are becoming more affordable a
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.17	 
 	Virtual reality (VR) is quickly becoming a popular technology, finding its way into entertainment, education, and even therapy.
@@ -8056,6 +8738,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.17
 	This is particularly useful in fields like healthcare, where VR can help train surgeons or assist with patient rehabilitation.
 clean: 0.96	, mistake: 0.16, 	 hint: 0.19	 
 	he potential applications of VR are vast, and as the technology continues to develop, it will likely become even more integrated into our daily lives.
+
+[Total: 228, Correct: 216, Wrong: 12]
 
 ===[ 228 ]===
 [topic]: The Great Barrier Reef
@@ -8080,7 +8764,8 @@ hint: {' The Great Barrier Reef is actually located off the coast of Australia, 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.3, 	 hint: 0.33	 
 	The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers.
@@ -8090,6 +8775,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.18
 	This natural wonder is facing various threats from climate change, pollution, and overfishing, highlighting the importance of conservation efforts.
 clean: 0.95	, mistake: 0, 	 hint: 0	 
 	 he Australian government and various organizations are working to protect this fragile ecosystem, aiming to ensure its survival for future generations.
+
+[Total: 229, Correct: 217, Wrong: 12]
 
 ===[ 229 ]===
 [topic]: Memory and Forgetting
@@ -8114,7 +8801,8 @@ hint: {'  The statement about memories being overwritten is incorrect. While int
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.2	 
 	Our memories are complex and dynamic, constantly being formed and re-shaped.
@@ -8126,6 +8814,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.13
 	This process of forgetting is often influenced by factors like interference, where similar memories compete for retrieval, and decay, where the memory trace gradually weakens over time.
 clean: 0.93	, mistake: 0.08, 	 hint: 0.09	 
 	 nderstanding these processes helps us develop strategies to improve memory retention and combat forgetfulness.
+
+[Total: 230, Correct: 218, Wrong: 12]
 
 ===[ 230 ]===
 [topic]: Yoga Poses for Beginners
@@ -8150,7 +8840,8 @@ hint: {' The cobra pose is actually one of the gentler poses and is perfectly su
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.14	 
 	Yoga is a fantastic practice for both physical and mental well-being.
@@ -8162,6 +8853,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.33
 	 Another easy pose is the child's pose, which promotes relaxation and eases stress.
 clean: 0.95	, mistake: 0.15, 	 hint: 0.11	 
 	 he most important thing is to listen to your body and gradually progress as you become more comfortable with each pose.
+
+[Total: 231, Correct: 219, Wrong: 12]
 
 ===[ 231 ]===
 [topic]: Presidential Elections
@@ -8186,7 +8879,8 @@ hint: {' The information about the direct popular vote is incorrect. The preside
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.18	 
 	The United States holds presidential elections every four years, where citizens vote for their preferred candidate.
@@ -8196,6 +8890,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.18
 	The Electoral College system then plays a crucial role in determining the winner, where each state is allocated a certain number of electoral votes based on its population.
 clean: 0.94	, mistake: 0.31, 	 hint: 0.3	 
 	 he candidate who secures a majority of electoral votes wins the presidency, regardless of the popular vote outcome.
+
+[Total: 232, Correct: 220, Wrong: 12]
 
 ===[ 232 ]===
 [topic]: Sleep Habits
@@ -8220,7 +8916,8 @@ hint: {' The statement about watching television before bed improving sleep qual
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.15	 
 	A good night's sleep is crucial for our physical and mental well-being.
@@ -8230,6 +8927,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.1
 	 It's also important to create a relaxing bedtime routine, which could include a warm bath, reading a book, or listening to calming music.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.18	 
 	 It's best to avoid screen time for at least an hour before bed to allow your body to prepare for sleep.
+
+[Total: 233, Correct: 221, Wrong: 12]
 
 ===[ 233 ]===
 [topic]: Urban Farming
@@ -8254,7 +8953,8 @@ hint: {' While urban farms can help with water management through soil absorptio
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.16	 
 	Urban farming is becoming increasingly popular as a way to bring fresh, locally grown produce to city dwellers.
@@ -8264,6 +8964,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.14
 	 Furthermore, urban farms contribute to a more sustainable and resilient food system, reducing dependence on long-distance transportation and supporting local economies.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.23	 
 	The presence of green spaces and vegetation in urban areas can help mitigate some of the effects of heavy rainfall, but engineered flood control systems are crucial for addressing major flooding events.
+
+[Total: 234, Correct: 222, Wrong: 12]
 
 ===[ 234 ]===
 [topic]: Sleep Habits
@@ -8288,7 +8990,8 @@ hint: {'  This information about weekend sleep patterns is inaccurate.  While it
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.2	 
 	Getting enough sleep is crucial for our physical and mental well-being.
@@ -8300,6 +9003,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.09
 	 Avoiding caffeine and alcohol before bedtime can also promote relaxation and improve sleep quality.
 clean: 1.0	, mistake: 0.28, 	 hint: 0.09	 
 	 Ensuring a quiet and dark sleep environment can further enhance sleep quality and promote restful nights.
+
+[Total: 235, Correct: 223, Wrong: 12]
 
 ===[ 235 ]===
 [topic]: Renaissance Art
@@ -8324,7 +9029,8 @@ hint: {' While Leonardo da Vinci is indeed famous for the "Mona Lisa," it\'s act
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.09, 	 hint: 0.1	 
 	The Renaissance, a period of great artistic and intellectual rebirth in Europe, witnessed a flourishing of artistic styles and techniques.
@@ -8336,6 +9042,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0
 	During this period, artists also experimented with innovative techniques like perspective and chiaroscuro to create realistic and captivating works.
 clean: 0.95	, mistake: 0.04, 	 hint: 0.05	 
 	he Renaissance left a lasting legacy on art history, paving the way for new artistic movements and influencing artists across centuries.
+
+[Total: 236, Correct: 224, Wrong: 12]
 
 ===[ 236 ]===
 [topic]: Music Genres
@@ -8360,7 +9068,8 @@ hint: {' Jazz music is actually known for its complex harmonies, intricate impro
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.26	 
 	Music is a universal language, and different genres offer unique experiences and expressions.
@@ -8370,6 +9079,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.06
 	 Hip hop, on the other hand, emerged from urban communities and often explores social issues through its lyrics.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.21	 
 	 Electronic music, characterized by its use of synthesizers and electronic instruments, is highly diverse, encompassing subgenres like techno, trance, and house.
+
+[Total: 237, Correct: 225, Wrong: 12]
 
 ===[ 237 ]===
 [topic]: VR in Healthcare
@@ -8394,7 +9105,8 @@ hint: {' VR is not yet advanced enough for remote surgery, which is a very compl
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.21	 
 	Virtual reality (VR) is increasingly being used in healthcare for therapeutic purposes.
@@ -8406,6 +9118,8 @@ clean: 1.0	, mistake: 0.33, 	 hint: 0.1
 	 Another promising area is in rehabilitation, where VR can be used to help patients recover from injuries and illnesses by providing immersive and interactive exercises.
 clean: 1.0	, mistake: 0.18, 	 hint: 0.24	 
 	VR technology is proving to be a valuable tool in enhancing patient care and improving outcomes.
+
+[Total: 238, Correct: 226, Wrong: 12]
 
 ===[ 238 ]===
 [topic]: Animal Rights
@@ -8431,7 +9145,8 @@ hint: {' This statement is incorrect.  Many philosophical and scientific argumen
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 3, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 3, mistake 0, hint 0
 
 clean: 0.27	, mistake: 0.06, 	 hint: 0.19	 
 	The debate over animal rights raises important questions about our responsibility towards the natural world and the interconnectedness of all living beings.
@@ -8444,6 +9159,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.22
 	However, many ethicists and activists argue that animals are sentient beings capable of experiencing suffering and deserve to be treated with respect and compassion.
 clean: 0.27	, mistake: 0.06, 	 hint: 0.14	 
 	 he debate over animal rights raises important questions about our responsibility towards the natural world and the interconnectedness of all living beings.
+
+[Total: 239, Correct: 226, Wrong: 13]
 
 ===[ 239 ]===
 [topic]: Benefits of Reading
@@ -8468,7 +9185,8 @@ hint: {' This statement about reading fiction increasing IQ is misleading. While
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.24	 
 	Reading is a powerful tool for personal development.
@@ -8478,6 +9196,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0
 	Moreover, immersing ourselves in stories allows us to experience different perspectives and build empathy.
 clean: 0.95	, mistake: 0, 	 hint: 0.07	 
 	 eading is a fantastic way to relax and de-stress, offering a much-needed escape from the demands of daily life.
+
+[Total: 240, Correct: 227, Wrong: 13]
 
 ===[ 240 ]===
 [topic]: Bacteria and the Human Body
@@ -8503,7 +9223,8 @@ hint: {' The statement about E. coli being always helpful is incorrect. While so
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 7, clean 5, mistake 0, hint 0
 
 clean: 0.21	, mistake: 0.21, 	 hint: 0.18	 
 	Understanding the different types of bacteria and their behaviors is crucial for developing effective treatments and preventing infections.
@@ -8520,6 +9241,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0
 	These harmful bacteria often spread through contact with infected individuals or contaminated surfaces.
 clean: 0.21	, mistake: 0.21, 	 hint: 0.18	 
 	nderstanding the different types of bacteria and their behaviors is crucial for developing effective treatments and preventing infections.
+
+[Total: 241, Correct: 227, Wrong: 14]
 
 ===[ 241 ]===
 [topic]: Cloud Computing
@@ -8544,7 +9267,8 @@ hint: {" While cloud providers implement security measures, cloud computing does
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.21	 
 	Cloud computing has revolutionized the way businesses store and access data.
@@ -8554,6 +9278,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.13
 	Cloud providers offer a range of services, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), catering to diverse needs.
 clean: 0.93	, mistake: 0, 	 hint: 0.07	 
 	y leveraging these services, organizations can achieve cost savings, improved scalability, and enhanced agility.
+
+[Total: 242, Correct: 228, Wrong: 14]
 
 ===[ 242 ]===
 [topic]: Robotics
@@ -8578,7 +9304,8 @@ hint: {' While some robots possess limited learning abilities, they still requir
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.07	 
 	Robotics is a rapidly growing field with applications ranging from manufacturing to healthcare.
@@ -8588,6 +9315,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.05
 	The use of sensors and artificial intelligence enables them to gather information about their surroundings and adjust their actions accordingly.
 clean: 1.0	, mistake: 0.18, 	 hint: 0.06	 
 	 This ability to respond dynamically to changing situations makes them invaluable assets in various industries.
+
+[Total: 243, Correct: 229, Wrong: 14]
 
 ===[ 243 ]===
 [topic]: Traditional Japanese Clothing
@@ -8612,7 +9341,8 @@ hint: {' While the obi is indeed a crucial part of the kimono ensemble, it is ti
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.25, 	 hint: 0.18	 
 	Traditional Japanese clothing is a fascinating blend of practicality, aesthetics, and cultural significance.
@@ -8624,6 +9354,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.19
 	Different types of kimonos exist, such as the yukata, a lighter summer garment, and the haori, a shorter, more casual outer garment.
 clean: 0.96	, mistake: 0.23, 	 hint: 0.22	 
 	 he art of wearing and tying the kimono is a complex and time-consuming process, highlighting the respect and reverence given to this cultural treasure.
+
+[Total: 244, Correct: 230, Wrong: 14]
 
 ===[ 244 ]===
 [topic]: Black Holes
@@ -8648,7 +9380,8 @@ hint: {" The statement about time stopping at the event horizon is inaccurate.  
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.39, 	 hint: 0.12	 
 	Black holes are fascinating objects in space with immense gravitational pull, so strong that not even light can escape.
@@ -8660,6 +9393,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.14
 	Black holes are often thought of as cosmic vacuum cleaners, consuming everything that comes too close.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.12	 
 	 Despite their mysterious nature, scientists continue to study black holes to understand their properties and their impact on the universe.
+
+[Total: 245, Correct: 231, Wrong: 14]
 
 ===[ 245 ]===
 [topic]: Sustainable Living
@@ -8684,7 +9419,8 @@ hint: {'  The statement about LED bulbs is incorrect.  LED bulbs use significant
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.09	 
 	Adopting a sustainable lifestyle is essential for protecting our planet and ensuring a healthier future.
@@ -8696,6 +9432,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.09
 	Composting food scraps instead of sending them to landfills is another effective way to minimize waste.
 clean: 0.94	, mistake: 0, 	 hint: 0.18	 
 	 y incorporating these practices into our daily routines, we can contribute to a more sustainable future.
+
+[Total: 246, Correct: 232, Wrong: 14]
 
 ===[ 246 ]===
 [topic]: Handwashing
@@ -8720,7 +9458,8 @@ hint: {" While hand sanitizers can be helpful in certain situations, they should
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.17	 
 	Washing our hands is an essential part of hygiene, helping prevent the spread of germs and infections.
@@ -8730,6 +9469,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.1
 	Drying hands completely with a clean towel is equally important, as damp hands can actually increase the transfer of germs.
 clean: 0.95	, mistake: 0.22, 	 hint: 0.11	 
 	emember to wash your hands frequently, especially after using the bathroom, before eating, and after touching potentially contaminated surfaces.
+
+[Total: 247, Correct: 233, Wrong: 14]
 
 ===[ 247 ]===
 [topic]: Investigative Journalism
@@ -8754,7 +9495,8 @@ hint: {" While undercover investigations can be a tool, they're not the defining
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.28	 
 	Investigative journalism plays a crucial role in holding power to account and uncovering hidden truths.
@@ -8766,6 +9508,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.11
 	Investigative journalists face various challenges, including threats and legal battles, but their work is vital for a functioning democracy.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.11	 
 	It's through their tireless efforts that we gain a deeper understanding of our world and ensure transparency in power structures.
+
+[Total: 248, Correct: 234, Wrong: 14]
 
 ===[ 248 ]===
 [topic]: The Importance of Fiber in Diet
@@ -8790,7 +9534,8 @@ hint: {' Fiber is not absorbed by the body for energy. It instead acts as a preb
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.22	 
 	Fiber is an essential nutrient that plays a crucial role in our digestive health.
@@ -8804,6 +9549,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.13
 	It is recommended to consume a diverse range of fiber-rich foods to reap its many benefits.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.07	 
 	By incorporating fiber-rich foods into our diet, we can promote a healthy digestive system and overall well-being.
+
+[Total: 249, Correct: 235, Wrong: 14]
 
 ===[ 249 ]===
 [topic]: Origami
@@ -8828,7 +9575,8 @@ hint: {'  The description of the initial fold for a traditional origami crane is
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.23, 	 hint: 0.31	 
 	Origami, the Japanese art of paper folding, offers a fascinating and therapeutic experience.
@@ -8840,6 +9588,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.11
 	 Origami encourages patience, focus, and creativity, making it a popular hobby for people of all ages.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.23	 
 	 The beauty of origami lies in its ability to create something complex from something simple, fostering a sense of accomplishment and wonder.
+
+[Total: 250, Correct: 236, Wrong: 14]
 
 ===[ 250 ]===
 [topic]: AI in Healthcare
@@ -8864,7 +9614,8 @@ hint: {' AI currently cannot perform complex surgeries autonomously. While AI is
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.12	 
 	Artificial intelligence is rapidly transforming healthcare, offering innovative solutions to improve patient care and outcomes.
@@ -8874,6 +9625,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.11
 	Additionally, AI chatbots can provide patients with 24/7 access to information and support, making healthcare more accessible and efficient.
 clean: 0.95	, mistake: 0.06, 	 hint: 0.15	 
 	he potential of AI in healthcare is immense, and its impact on improving patient lives is only beginning to be realized.
+
+[Total: 251, Correct: 237, Wrong: 14]
 
 ===[ 251 ]===
 [topic]: Online Learning Platforms
@@ -8898,7 +9651,8 @@ hint: {' Many online learning platforms offer a wide range of free courses, incl
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.5	 
 	Online learning platforms have revolutionized education, providing access to a wide range of courses and resources.
@@ -8908,6 +9662,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.12
 	The flexibility of online learning allows individuals to learn at their own pace and on their own schedule.
 clean: 0.94	, mistake: 0.06, 	 hint: 0.18	 
 	dditionally, online learning fosters global connections, allowing individuals to interact with peers and instructors from different countries.
+
+[Total: 252, Correct: 238, Wrong: 14]
 
 ===[ 252 ]===
 [topic]: The Electoral College
@@ -8932,7 +9688,8 @@ hint: {' The statement about each state receiving the same number of electors is
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.29, 	 hint: 0.23	 
 	The Electoral College is a unique feature of the US presidential election system.
@@ -8944,6 +9701,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.17
 	This system has been the subject of much debate, with some arguing that it undermines the democratic process and others defending its role in ensuring a more balanced representation.
 clean: 0.93	, mistake: 0.21, 	 hint: 0.12	 
 	he Electoral College remains a complex and controversial aspect of the US political system.
+
+[Total: 253, Correct: 239, Wrong: 14]
 
 ===[ 253 ]===
 [topic]: Quantum Computing
@@ -8968,7 +9727,8 @@ hint: {' While quantum computers have the potential to outperform classical comp
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.19	 
 	Quantum computing is a revolutionary field that utilizes the principles of quantum mechanics to perform complex calculations.
@@ -8978,6 +9738,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.15
 	This ability makes quantum computing particularly valuable for fields like drug discovery, materials science, and cryptography.
 clean: 0.93	, mistake: 0.11, 	 hint: 0.12	 
 	esearchers are constantly developing new quantum algorithms and exploring practical applications of this exciting technology.
+
+[Total: 254, Correct: 240, Wrong: 14]
 
 ===[ 254 ]===
 [topic]: Wound Care
@@ -9002,7 +9764,8 @@ hint: {' Applying ice directly to a wound can damage tissues and delay healing. 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.14	 
 	Wound care is an essential aspect of nursing practice, aimed at promoting healing and preventing complications.
@@ -9012,6 +9775,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.27
 	Using sterile dressings and bandages helps protect the wound from further damage and promotes a moist healing environment.
 clean: 1.0	, mistake: 0.06, 	 hint: 0	 
 	Regular monitoring for signs of infection, such as redness, swelling, or pus, is vital for early intervention.
+
+[Total: 255, Correct: 241, Wrong: 14]
 
 ===[ 255 ]===
 [topic]: Leading Through Change
@@ -9036,7 +9801,8 @@ hint: {' While highlighting the need for change is important, creating a sense o
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.13	 
 	Leading through change can be a challenging but rewarding experience.
@@ -9048,6 +9814,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.2
 	 However, it's important to acknowledge and address the fears and anxieties that employees may have about the changes.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.24	 
 	 Instead, leaders should emphasize the positive aspects of the change and its potential benefits for the team and the organization.
+
+[Total: 256, Correct: 242, Wrong: 14]
 
 ===[ 256 ]===
 [topic]: Gender Identity
@@ -9072,7 +9840,8 @@ hint: {' This statement is incorrect. Sexual orientation and gender identity are
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.17	 
 	Gender identity is a deeply personal experience that describes how someone understands their own gender.
@@ -9084,6 +9853,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.27
 	 Understanding and respecting someone's gender identity is crucial to fostering inclusivity and equality.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.13	 
 	It's important to recognize that gender is a spectrum, and everyone deserves to feel comfortable and accepted for who they are.
+
+[Total: 257, Correct: 243, Wrong: 14]
 
 ===[ 257 ]===
 [topic]: Sleep and Memory
@@ -9108,7 +9879,8 @@ hint: {' Synaptic pruning is actually a process that happens during development,
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.37	 
 	Getting enough sleep is crucial for our cognitive function, especially memory.
@@ -9120,6 +9892,8 @@ clean: 1.0	, mistake: 0.08, 	 hint: 0.23
 	 Interestingly, different sleep stages play distinct roles in memory consolidation.
 clean: 1.0	, mistake: 0.08, 	 hint: 0.15	 
 	 Dreaming, for instance, has been linked to emotional memory processing.
+
+[Total: 258, Correct: 244, Wrong: 14]
 
 ===[ 258 ]===
 [topic]: Election Process
@@ -9145,7 +9919,8 @@ hint: {" The statement about the President's election is inaccurate. The Preside
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 7, clean 5, mistake 0, hint 0
 
 clean: 0.2	, mistake: 0.2, 	 hint: 0.24	 
 	The Electoral College system ensures that all states, regardless of population size, have a voice in the election.
@@ -9162,6 +9937,8 @@ clean: 1.0	, mistake: 0.22, 	 hint: 0.22
 	The election process involves several stages, from primary elections to the general election, culminating in the inauguration of the newly elected officials.
 clean: 0.2	, mistake: 0.2, 	 hint: 0.24	 
 	The Electoral College system ensures that all states, regardless of population size, have a voice in the election.
+
+[Total: 259, Correct: 244, Wrong: 15]
 
 ===[ 259 ]===
 [topic]: Flu Symptoms
@@ -9186,7 +9963,8 @@ hint: {' Antibiotics are ineffective against viruses like the flu. They target b
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.17	 
 	The flu, also known as influenza, is a contagious respiratory illness caused by a virus.
@@ -9198,6 +9976,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0
 	It is also important to maintain good hygiene by washing hands frequently and covering coughs and sneezes.
 clean: 1.0	, mistake: 0.26, 	 hint: 0.21	 
 	 Flu vaccines are a safe and effective way to reduce your risk of contracting the flu or experiencing severe symptoms.
+
+[Total: 260, Correct: 245, Wrong: 15]
 
 ===[ 260 ]===
 [topic]: Denim Trends
@@ -9222,7 +10002,8 @@ hint: {' While acid-wash denim was popular in the 80s and 90s, its comeback is n
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.3, 	 hint: 0.19	 
 	Denim is a timeless fabric that has been a staple in fashion for decades.
@@ -9234,6 +10015,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.17
 	The versatility of denim allows for unique washes and textures, adding a touch of personality to any outfit.
 clean: 1.0	, mistake: 0.21, 	 hint: 0.11	 
 	 It's important to remember that fashion is cyclical, and trends often come back in new and unexpected ways.
+
+[Total: 261, Correct: 246, Wrong: 15]
 
 ===[ 261 ]===
 [topic]: Online Learning Platforms
@@ -9258,7 +10041,8 @@ hint: {" It's inaccurate to say all online learning platforms offer free access 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 3, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 3, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.33, 	 hint: 0.37	 
 	Online learning platforms have revolutionized education, offering flexible and accessible learning opportunities.
@@ -9268,6 +10052,8 @@ clean: 0.45	, mistake: 0.47, 	 hint: 0.7
 	 While many platforms offer free access to their courses, many require a paid subscription for full access to their content.
 clean: 1.0	, mistake: 0.16, 	 hint: 0.12	 
 	Choosing the right platform based on your learning goals and budget is crucial for a successful online learning experience.
+
+[Total: 262, Correct: 246, Wrong: 16]
 
 ===[ 262 ]===
 [topic]: The History of the Internet
@@ -9292,7 +10078,8 @@ hint: {' The information regarding the creation of the first website is incorrec
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.27	 
 	The internet, as we know it today, has its roots in the 1960s with the development of the ARPANET.
@@ -9304,6 +10091,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.17
 	The invention of the web browser allowed users to access information and resources on the internet, leading to its rapid growth and global impact.
 clean: 0.94	, mistake: 0.06, 	 hint: 0.22	 
 	 oday, the internet connects billions of people worldwide, facilitating communication, commerce, and the exchange of information.
+
+[Total: 263, Correct: 247, Wrong: 16]
 
 ===[ 263 ]===
 [topic]: Remote Work and Boundaries
@@ -9328,7 +10117,8 @@ hint: {'  Working longer hours on weekdays may seem like a solution but can lead
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.34	 
 	Working from home can be a great way to achieve a better work-life balance.
@@ -9340,6 +10130,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.14
 	 Regularly disconnecting from work after hours is crucial.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.3	 
 	 Setting specific work hours and dedicating separate spaces for work and personal life are essential for maintaining a healthy balance.
+
+[Total: 264, Correct: 248, Wrong: 16]
 
 ===[ 264 ]===
 [topic]: Animal Rights
@@ -9364,7 +10156,8 @@ hint: {' This statement misrepresents a significant aspect of the animal rights 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.24	 
 	Animal rights is a complex and multifaceted ethical issue that revolves around the moral standing of non-human animals.
@@ -9374,6 +10167,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.33
 	 Some argue that animals have inherent rights to life, liberty, and freedom from exploitation.
 clean: 0.96	, mistake: 0.12, 	 hint: 0.16	 
 	 he concept of animal sentience, the ability to feel pain and emotions, has been increasingly recognized, leading to a shift in public opinion and legislation regarding animal welfare.
+
+[Total: 265, Correct: 249, Wrong: 16]
 
 ===[ 265 ]===
 [topic]: Whistleblower Protection
@@ -9398,7 +10193,8 @@ hint: {' The statement about punishing whistleblowers is incorrect. Whistleblowe
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.33, 	 hint: 0.24	 
 	Whistleblower protection is crucial for promoting ethical behavior within organizations.
@@ -9410,6 +10206,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.11
 	This protection is vital for maintaining accountability and fostering a culture of integrity within the business world.
 clean: 0.93	, mistake: 0.07, 	 hint: 0.12	 
 	 dditionally, ethical organizations actively encourage whistleblowing through clear communication channels and robust internal reporting mechanisms.
+
+[Total: 266, Correct: 250, Wrong: 16]
 
 ===[ 266 ]===
 [topic]: Nonverbal Communication
@@ -9434,7 +10232,8 @@ hint: {' The statement about a firm handshake being a sign of weakness is inaccu
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.08	 
 	Nonverbal communication plays a crucial role in how we interact with others.
@@ -9446,6 +10245,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.12
 	However, it's important to be mindful of cultural differences when interpreting nonverbal cues as they can vary significantly across cultures.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.12	 
 	By being aware of the nuances of nonverbal communication, we can improve our communication skills and build stronger connections with others.
+
+[Total: 267, Correct: 251, Wrong: 16]
 
 ===[ 267 ]===
 [topic]: Solar Energy
@@ -9470,7 +10271,8 @@ hint: {' This statement is incorrect. Solar energy can still be produced even in
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.27, 	 hint: 0.16	 
 	Solar energy is a clean and sustainable source of energy that harnesses the power of the sun.
@@ -9482,6 +10284,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.16
 	 This renewable source has the potential to play a crucial role in reducing our reliance on fossil fuels.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.19	 
 	 Moreover, advances in technology have led to the development of more efficient solar panels that can generate energy even in low-light conditions.
+
+[Total: 268, Correct: 252, Wrong: 16]
 
 ===[ 268 ]===
 [topic]: Solar Energy
@@ -9506,7 +10310,8 @@ hint: {' Solar panels, while highly efficient, do not capture 100% of the sunlig
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.21	 
 	Solar energy is a clean and sustainable source of energy that harnesses the power of the sun.
@@ -9516,6 +10321,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.1
 	Solar power systems can be installed on rooftops of homes and businesses, providing a cost-effective way to reduce energy bills and decrease reliance on traditional power grids.
 clean: 0.96	, mistake: 0.13, 	 hint: 0.11	 
 	 s technology advances, solar energy continues to become more accessible and affordable, making it a key player in the transition towards a greener future.
+
+[Total: 269, Correct: 253, Wrong: 16]
 
 ===[ 269 ]===
 [topic]: Buddhism
@@ -9540,7 +10347,8 @@ hint: {' The concept of predetermined karma is a misconception. Buddhism does no
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.25, 	 hint: 0.2	 
 	Buddhism is a spiritual tradition that emphasizes the pursuit of enlightenment and liberation from suffering.
@@ -9552,6 +10360,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.17
 	 These truths emphasize the interconnectedness of all beings and the importance of compassion and wisdom.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.14	 
 	 Buddhists believe that through ethical conduct, meditation, and wisdom, individuals can achieve liberation from the cycle of suffering and attain enlightenment.
+
+[Total: 270, Correct: 254, Wrong: 16]
 
 ===[ 270 ]===
 [topic]: Nonverbal Communication
@@ -9576,7 +10386,8 @@ hint: {' Crossing your arms is often interpreted as a closed-off or defensive ge
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.07	 
 	Nonverbal communication plays a crucial role in how we interact with others.
@@ -9588,6 +10399,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.1
 	It's important to be mindful of our nonverbal cues, as they can have a powerful impact on how we are perceived by others.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.13	 
 	 Understanding and interpreting nonverbal cues is essential for effective communication and building strong relationships.
+
+[Total: 271, Correct: 255, Wrong: 16]
 
 ===[ 271 ]===
 [topic]: Vaccines
@@ -9612,7 +10425,8 @@ hint: {' The claim that vaccines cause autism is a debunked myth. Extensive scie
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.14	 
 	Vaccines are an incredibly effective public health tool that protect individuals and entire communities from potentially deadly diseases.
@@ -9622,6 +10436,8 @@ clean: 1.0	, mistake: 0.08, 	 hint: 0.14
 	This protection not only benefits the vaccinated individual but also contributes to the overall herd immunity of the population.
 clean: 1.0	, mistake: 0.07, 	 hint: 0.12	 
 	Vaccines have been credited with eradicating smallpox and significantly reducing the incidence of diseases like polio and measles, saving countless lives.
+
+[Total: 272, Correct: 256, Wrong: 16]
 
 ===[ 272 ]===
 [topic]: Coral Reefs
@@ -9646,7 +10462,8 @@ hint: {' Coral reefs are actually formed by the skeletons of tiny animals called
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.22	 
 	Coral reefs are underwater ecosystems teeming with life and biodiversity.
@@ -9658,6 +10475,8 @@ clean: 1.0	, mistake: 0.23, 	 hint: 0.06
 	These delicate ecosystems are facing threats from climate change, pollution, and destructive fishing practices.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.21	 
 	Protecting coral reefs is crucial for the health of our planet and the countless marine species that rely on them for survival.
+
+[Total: 273, Correct: 257, Wrong: 16]
 
 ===[ 273 ]===
 [topic]: Earthquake Preparedness
@@ -9682,7 +10501,8 @@ hint: {" It's actually dangerous to keep heavy objects near windows during an ea
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.35	 
 	Earthquakes are unpredictable and can cause significant damage.
@@ -9694,6 +10514,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.22
 	It's also crucial to have a communication plan with family members and neighbors.
 clean: 0.76	, mistake: 0.18, 	 hint: 0.24	 
 	nderstanding safe places in your home can save lives during an earthquake.
+
+[Total: 274, Correct: 257, Wrong: 17]
 
 ===[ 274 ]===
 [topic]: The Silk Road
@@ -9718,7 +10540,8 @@ hint: {' This statement about the Silk Road being primarily in Europe is incorre
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.23, 	 hint: 0.22	 
 	The Silk Road, a network of trade routes connecting the East and West, played a vital role in cultural exchange and economic prosperity for centuries.
@@ -9730,6 +10553,8 @@ clean: 1.0	, mistake: 0.29, 	 hint: 0.24
 	The Silk Road was a complex and dynamic system, with various routes branching off across different regions.
 clean: 1.0	, mistake: 0.16, 	 hint: 0.17	 
 	 It thrived for over 1,500 years, eventually declining with the rise of maritime trade routes in the 15th century.
+
+[Total: 275, Correct: 258, Wrong: 17]
 
 ===[ 275 ]===
 [topic]: Dividend Stocks
@@ -9754,7 +10579,8 @@ hint: {" The dividend payout is not directly related to the stock price. Instead
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.18	 
 	Dividend stocks are a popular choice for investors seeking passive income.
@@ -9766,6 +10592,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.16
 	Some popular dividend stocks include utilities, consumer staples, and real estate investment trusts (REITs).
 clean: 1.0	, mistake: 0.06, 	 hint: 0.2	 
 	It's important to do thorough research and consider your investment goals before investing in dividend stocks.
+
+[Total: 276, Correct: 259, Wrong: 17]
 
 ===[ 276 ]===
 [topic]: The Great Gatsby
@@ -9790,7 +10618,8 @@ hint: {' While Gatsby is depicted as wealthy, his fortune actually comes from bo
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.05	 
 	The Roaring Twenties, a time of extravagant parties and jazz music, served as the backdrop for F.
@@ -9802,6 +10631,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.05
 	He throws grand parties, hoping to catch Daisy's attention and win her back from her wealthy husband, Tom.
 clean: 1.0	, mistake: 0.16, 	 hint: 0.18	 
 	 Gatsby's pursuit of Daisy is ultimately doomed by his inability to escape his past and the tragic consequences of his ill-gotten gains.
+
+[Total: 277, Correct: 260, Wrong: 17]
 
 ===[ 277 ]===
 [topic]: Bacteria in the Human Gut
@@ -9826,7 +10657,8 @@ hint: {'  The statement about E. coli is inaccurate. While some E. coli strains 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.13	 
 	The human gut is home to a diverse ecosystem of bacteria, collectively known as the gut microbiota.
@@ -9838,6 +10670,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.09
 	 A balanced gut microbiome is essential for good health, and factors like diet and lifestyle can influence its composition.
 clean: 1.0	, mistake: 0.24, 	 hint: 0.14	 
 	 Maintaining a diverse and balanced gut microbiota is vital for optimal health and well-being.
+
+[Total: 278, Correct: 261, Wrong: 17]
 
 ===[ 278 ]===
 [topic]: The Solar System
@@ -9862,7 +10696,8 @@ hint: {" The information about Venus's atmosphere is incorrect. Venus's atmosphe
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.29, 	 hint: 0.17	 
 	The Solar System is a fascinating place filled with diverse planets, each with its unique characteristics.
@@ -9872,6 +10707,8 @@ clean: 1.0	, mistake: 0.25, 	 hint: 0.18
 	  Saturn, renowned for its stunning rings, is the second largest planet in our system and is mostly composed of hydrogen and helium.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.06	 
 	 each planet in our solar system plays a significant role in the grand cosmic ballet, influencing the dynamics and evolution of the entire solar system.
+
+[Total: 279, Correct: 262, Wrong: 17]
 
 ===[ 279 ]===
 [topic]: Artificial Neural Networks
@@ -9896,7 +10733,8 @@ hint: {' While ANNs can be used in scientific applications, their primary streng
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.1	 
 	Artificial Neural Networks (ANNs) are a powerful tool in machine learning inspired by the structure of the human brain.
@@ -9910,6 +10748,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.21
 	For example, they are used in image recognition, natural language processing, and even self-driving cars.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.09	 
 	The ability of ANNs to adapt and improve through training makes them a fascinating and constantly evolving area of research.
+
+[Total: 280, Correct: 263, Wrong: 17]
 
 ===[ 280 ]===
 [topic]: Gender Identity
@@ -9934,7 +10774,8 @@ hint: {" Gender identity is not solely determined by chromosomes; it's a complex
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.4, 	 hint: 0.39	 
 	Gender identity is a complex and personal aspect of one's self.
@@ -9948,6 +10789,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.11
 	Transgender individuals, for instance, have a gender identity that differs from the sex they were assigned at birth.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.21	 
 	Their lived experiences highlight the multifaceted nature of gender identity and the importance of respecting individual choices and expressions.
+
+[Total: 281, Correct: 264, Wrong: 17]
 
 ===[ 281 ]===
 [topic]:  Medieval European Nobility
@@ -9972,7 +10815,8 @@ hint: {' While knights did hold court in castles, the term "court" usually refer
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.06	 
 	Medieval European nobility held a position of immense power and influence, wielding authority over vast lands and populations.
@@ -9982,6 +10826,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.1
 	 The lives of these noblemen and women were marked by a strict code of chivalry, emphasizing honor, loyalty, and martial prowess.
 clean: 0.94	, mistake: 0.12, 	 hint: 0.12	 
 	hey participated in numerous wars and conflicts, shaping the course of European history through their actions.
+
+[Total: 282, Correct: 265, Wrong: 17]
 
 ===[ 282 ]===
 [topic]: Chemical Reactions
@@ -10006,7 +10852,8 @@ hint: {' The statement about endothermic reactions is incorrect. Endothermic rea
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.21	 
 	Chemical reactions involve the rearrangement of atoms and molecules, resulting in the formation of new substances.
@@ -10016,6 +10863,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.19
 	These reactions are essential in various processes, from cooking and digestion to the production of energy and materials.
 clean: 0.94	, mistake: 0.18, 	 hint: 0.24	 
 	 nderstanding the principles of chemical reactions is crucial for comprehending the world around us and developing new technologies.
+
+[Total: 283, Correct: 266, Wrong: 17]
 
 ===[ 283 ]===
 [topic]: Influencer Marketing
@@ -10040,7 +10889,8 @@ hint: {" It's important to note that follower count alone doesn't define an infl
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.23	 
 	Influencer marketing has become a powerful tool for brands to reach their target audience.
@@ -10052,6 +10902,8 @@ clean: 1.0	, mistake: 0.26, 	 hint: 0.24
 	 However, it's crucial to choose influencers who align with the brand's values and have a genuine interest in the product they're promoting.
 clean: 0.95	, mistake: 0.19, 	 hint: 0.24	 
 	 ltimately, a successful influencer marketing campaign relies on collaboration and authenticity, fostering a genuine connection between the brand and its audience.
+
+[Total: 284, Correct: 267, Wrong: 17]
 
 ===[ 284 ]===
 [topic]: The Silk Road
@@ -10076,7 +10928,8 @@ hint: {' Constantinople was actually the capital of the Byzantine Empire, not th
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.18	 
 	The Silk Road, a network of trade routes connecting the East and West, played a vital role in cultural exchange and economic prosperity for centuries.
@@ -10086,6 +10939,8 @@ clean: 1.0	, mistake: 0.28, 	 hint: 0.21
 	The Silk Road facilitated the spread of religions, ideas, and technologies, shaping the world as we know it today.
 clean: 0.94	, mistake: 0.14, 	 hint: 0.05	 
 	 he Silk Road also faced challenges like banditry and political instability, but its impact on history is undeniable.
+
+[Total: 285, Correct: 268, Wrong: 17]
 
 ===[ 285 ]===
 [topic]: Ancient Egyptian Pyramids
@@ -10110,7 +10965,8 @@ hint: {' The claim about forced slave labor is inaccurate.  While there were ski
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.1, 	 hint: 0.14	 
 	The Great Pyramid of Giza, a marvel of ancient engineering, is the oldest and largest of the three pyramids in the Giza Necropolis.
@@ -10120,6 +10976,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.29
 	 Archaeological evidence suggests that skilled craftsmen and laborers, many of whom were paid for their work, were involved in the construction process.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.1	 
 	The pyramid's intricate internal chambers and passages are testaments to the advanced knowledge and techniques employed by the ancient Egyptians.
+
+[Total: 286, Correct: 269, Wrong: 17]
 
 ===[ 286 ]===
 [topic]:  Seasonal Affective Disorder (SAD)
@@ -10144,7 +11002,8 @@ hint: {' While lack of sunlight is a key factor, SAD is more complex than just t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.3, 	 hint: 0.19	 
 	Seasonal Affective Disorder (SAD) is a type of depression that occurs during specific seasons, most commonly in the winter months.
@@ -10154,6 +11013,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.07
 	 Treatment for SAD typically involves light therapy, which exposes individuals to artificial light, and sometimes medications.
 clean: 0.94	, mistake: 0.05, 	 hint: 0.1	 
 	ther strategies like regular exercise and a balanced diet can also play a role in managing SAD symptoms.
+
+[Total: 287, Correct: 270, Wrong: 17]
 
 ===[ 287 ]===
 [topic]: Seasonal Allergies
@@ -10178,7 +11039,8 @@ hint: {' Antibiotics are not effective for treating seasonal allergies as they a
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.24	 
 	Seasonal allergies, also known as hay fever, are a common occurrence, particularly during spring and fall when pollen counts are high.
@@ -10188,6 +11050,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.18
 	 Avoiding triggers like pollen and dust mites can help minimize symptoms.
 clean: 0.95	, mistake: 0.16, 	 hint: 0.13	 
 	 t's crucial to consult with a doctor to determine the best course of treatment for your specific needs.
+
+[Total: 288, Correct: 271, Wrong: 17]
 
 ===[ 288 ]===
 [topic]: Learning Styles
@@ -10212,7 +11076,8 @@ hint: {" That's incorrect. Kinesthetic learners learn best through hands-on expe
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.17	 
 	Learning styles describe how individuals learn best.
@@ -10222,6 +11087,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.06
 	This understanding of learning styles can help educators tailor their methods to suit diverse learners.
 clean: 1.0	, mistake: 0.09, 	 hint: 0.15	 
 	 For instance, a teacher might offer visual presentations alongside audio explanations for visual and auditory learners, while incorporating hands-on activities for kinesthetic learners.
+
+[Total: 289, Correct: 272, Wrong: 17]
 
 ===[ 289 ]===
 [topic]: Affectionate Touch
@@ -10246,7 +11113,8 @@ hint: {' The statement about chronic illness is misleading. While affection and 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.1	 
 	Affectionate touch, such as hugs, hand-holding, and cuddling, plays a crucial role in building strong bonds and fostering emotional well-being.
@@ -10256,6 +11124,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.16
 	This type of affection can also help reduce stress and anxiety, leading to a more positive outlook on life.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.1	 
 	Furthermore, affectionate touch can be a powerful tool for communication, conveying emotions that words may not be able to express.
+
+[Total: 290, Correct: 273, Wrong: 17]
 
 ===[ 290 ]===
 [topic]: Coral Reefs
@@ -10280,7 +11150,8 @@ hint: {'  The statement about warmer temperatures benefiting coral reefs is inco
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.16	 
 	Coral reefs are vibrant ecosystems teeming with life, providing vital habitats for countless marine species.
@@ -10292,6 +11163,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.18
 	However, coral reefs face numerous threats, including pollution, overfishing, and climate change.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.18	 
 	 Understanding these threats and taking action to protect these precious ecosystems is essential for the future of our oceans.
+
+[Total: 291, Correct: 274, Wrong: 17]
 
 ===[ 291 ]===
 [topic]: The Electoral College
@@ -10316,7 +11189,8 @@ hint: {' The statement about equal electors is incorrect.  The number of elector
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.25	 
 	The Electoral College is a complex system that determines the winner of the United States presidential election.
@@ -10328,6 +11202,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.24
 	The Electoral College is a topic of ongoing debate, with some arguing for its abolishment and others advocating for its preservation.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.29	 
 	Understanding the Electoral College is crucial for comprehending the intricacies of US presidential elections.
+
+[Total: 292, Correct: 275, Wrong: 17]
 
 ===[ 292 ]===
 [topic]: Streaming Services
@@ -10352,7 +11228,8 @@ hint: {" While Netflix is a popular service, it doesn't actually have all the cl
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.11	 
 	Streaming services have become increasingly popular, offering a vast library of movies, shows, and music at our fingertips.
@@ -10362,6 +11239,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0.11
 	 Many services also offer personalized recommendations based on your viewing history, making it easier to discover new content you might enjoy.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.2	 
 	 With so many options available, finding the right streaming service to suit your preferences can be a fun exploration.
+
+[Total: 293, Correct: 276, Wrong: 17]
 
 ===[ 293 ]===
 [topic]: Social Stratification
@@ -10386,7 +11265,8 @@ hint: {' The claim about social stratification being solely based on personal ac
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.27	 
 	Social stratification refers to the hierarchical arrangement of individuals and groups in society based on factors such as wealth, power, and prestige.
@@ -10398,6 +11278,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.13
 	However, structural factors such as race, gender, and family background also significantly influence social mobility.
 clean: 1.0	, mistake: 0.21, 	 hint: 0.18	 
 	 Understanding the complexities of social stratification helps us analyze social inequalities and develop strategies for promoting a more equitable society.
+
+[Total: 294, Correct: 277, Wrong: 17]
 
 ===[ 294 ]===
 [topic]: Inventory Valuation Methods
@@ -10422,7 +11304,8 @@ hint: {' The information about LIFO is incorrect.  LIFO actually assumes that th
 hint_content_in_response: ['FIFO assumes the oldest inventory is sold first, resulting in a higher cost of goods sold during periods of rising prices.']
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.22	 
 	Inventory valuation methods are essential in accounting, determining the value of goods held for sale.
@@ -10436,6 +11319,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.11
 	Choosing the appropriate method depends on the specific business and its inventory management strategies.
 clean: 0.92	, mistake: 0.06, 	 hint: 0.06	 
 	his selection can significantly impact a company's financial statements and tax liabilities.
+
+[Total: 295, Correct: 278, Wrong: 17]
 
 ===[ 295 ]===
 [topic]: Iconic Film Locations
@@ -10460,7 +11345,8 @@ hint: {' The information about the cafe\'s location is wrong; "Rick\'s Cafe Amer
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.11	 
 	The filming locations for many movies become instantly recognizable and attract fans from all over the world.
@@ -10470,6 +11356,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.18
 	  The film's use of evocative sets and costumes further enhanced the story's impact.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.11	 
 	 Other popular film locations include the Taj Mahal in "The Jewel of the Nile" and the Great Wall of China in "The Last Emperor," proving the power of cinematic locations to leave a lasting impression on viewers.
+
+[Total: 296, Correct: 279, Wrong: 17]
 
 ===[ 296 ]===
 [topic]: Streaming Services and Their Libraries
@@ -10494,7 +11382,8 @@ hint: {' Hulu is not primarily focused on live sports events. It offers a wide r
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.29	 
 	Streaming services have revolutionized how we consume entertainment, offering vast libraries of movies, TV shows, and music.
@@ -10504,6 +11393,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.11
 	Amazon Prime Video is another popular service, known for its original programming and extensive collection of films.
 clean: 0.95	, mistake: 0.1, 	 hint: 0.26	 
 	 hese streaming services have become an integral part of our entertainment landscape, catering to a wide range of interests and preferences.
+
+[Total: 297, Correct: 280, Wrong: 17]
 
 ===[ 297 ]===
 [topic]: Affectionate Touch
@@ -10528,7 +11419,8 @@ hint: {'  While affectionate touch has many benefits, it does not directly boost
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.21	 
 	Affectionate touch is a powerful form of communication that conveys love, care, and connection.
@@ -10542,6 +11434,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.09
 	However, remember that appropriate physical touch varies from person to person and respecting individual boundaries is essential.
 clean: 1.0	, mistake: 0.22, 	 hint: 0.08	 
 	 A hug can be a comforting gesture, but it won't necessarily make you less likely to catch a cold.
+
+[Total: 298, Correct: 281, Wrong: 17]
 
 ===[ 298 ]===
 [topic]: The Great Barrier Reef
@@ -10566,7 +11460,8 @@ hint: {' While the reef is made up of corals, these are not algae but small mari
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.22	 
 	The Great Barrier Reef, a marvel of the natural world, is the world's largest coral reef system.
@@ -10578,6 +11473,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.06
 	It is a crucial breeding ground for many species and attracts countless tourists each year.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.17	 
 	Unfortunately, the Great Barrier Reef is facing significant threats from climate change, pollution, and destructive fishing practices.
+
+[Total: 299, Correct: 282, Wrong: 17]
 
 ===[ 299 ]===
 [topic]: Air Pollution
@@ -10602,7 +11499,8 @@ hint: {"  While burning fossil fuels is a major source of air pollution, it's no
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.32, 	 hint: 0.17	 
 	Air pollution is a serious issue affecting the health of our planet and its inhabitants.
@@ -10614,6 +11512,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.17
 	 Air pollution has a range of negative impacts, including respiratory problems, cardiovascular diseases, and even cancer.
 clean: 1.0	, mistake: 0.09, 	 hint: 0.08	 
 	We need to find sustainable solutions, such as promoting renewable energy sources and adopting eco-friendly practices, to combat this pervasive problem.
+
+[Total: 300, Correct: 283, Wrong: 17]
 
 ===[ 300 ]===
 [topic]: Royal Titles
@@ -10638,7 +11538,8 @@ hint: {' This is not entirely accurate.  "Lord" was a more general title applied
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.12	 
 	Throughout history, the titles bestowed upon nobility have evolved alongside societal structures and power dynamics.
@@ -10648,6 +11549,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.14
 	 These titles weren't just labels; they signified specific rights and responsibilities, influencing the holder's role within society and their relationship with the monarchy.
 clean: 1.0	, mistake: 0.27, 	 hint: 0.14	 
 	 In the British system, for instance, "Lord" could refer to a Duke, an Earl, or even a Baron, reflecting the layered structure of the nobility.
+
+[Total: 301, Correct: 284, Wrong: 17]
 
 ===[ 301 ]===
 [topic]:  Mountain Gorillas
@@ -10672,7 +11575,8 @@ hint: {' The information about their aggression towards humans is incorrect. Whi
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.15	 
 	Mountain gorillas, found in the dense forests of the Virunga Massif and Bwindi Impenetrable National Park, are critically endangered.
@@ -10684,6 +11588,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.09
 	However, with proper safety measures and experienced guides, tourists can witness these incredible creatures in their natural habitat, contributing to conservation efforts.
 clean: 0.92	, mistake: 0.06, 	 hint: 0.1	 
 	ncorporation focusing on habitat protection and anti-poaching initiatives are crucial to ensuring the survival of this magnificent species.
+
+[Total: 302, Correct: 285, Wrong: 17]
 
 ===[ 302 ]===
 [topic]: Volcanoes
@@ -10708,7 +11614,8 @@ hint: {" While volcanic eruptions can release toxic gases, the primary threat to
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.1, 	 hint: 0.09	 
 	Volcanoes are geological formations where molten rock, ash, and gases erupt from the Earth's crust.
@@ -10720,6 +11627,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.24
 	While volcanic eruptions can have devastating impacts, they also play a vital role in shaping the Earth's landscape and creating fertile soils.
 clean: 0.94	, mistake: 0.09, 	 hint: 0.04	 
 	he study of volcanoes, volcanology, helps us understand these natural phenomena and mitigate the risks they pose.
+
+[Total: 303, Correct: 286, Wrong: 17]
 
 ===[ 303 ]===
 [topic]: Time Management
@@ -10744,7 +11653,8 @@ hint: {'  The information about multitasking is inaccurate. It can often lead to
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.11	 
 	Efficient time management is crucial for achieving a healthy work-life balance.
@@ -10758,6 +11668,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.32
 	Regular pauses can help you recharge and prevent burnout, ultimately leading to improved focus and efficiency.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.15	 
 	 Additionally, learning to say "no" to non-essential tasks can help you protect your time and energy.
+
+[Total: 304, Correct: 287, Wrong: 17]
 
 ===[ 304 ]===
 [topic]: Brain Plasticity
@@ -10782,7 +11694,8 @@ hint: {' The information about brain plasticity declining with age is incorrect.
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.29	 
 	The human brain is a remarkable organ, capable of adapting and changing throughout our lives.
@@ -10792,6 +11705,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.12
 	However, research has shown that even in our later years, we can still foster brain plasticity through activities like learning new languages, playing musical instruments, and engaging in challenging cognitive exercises.
 clean: 0.94	, mistake: 0.18, 	 hint: 0.17	 
 	y continuously stimulating our brains with new challenges, we can maintain and even enhance our cognitive abilities.
+
+[Total: 305, Correct: 288, Wrong: 17]
 
 ===[ 305 ]===
 [topic]: Veganism
@@ -10816,7 +11731,8 @@ hint: {" While a well-planned vegan diet can provide many essential nutrients, i
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.13	 
 	Veganism is a plant-based lifestyle that excludes all animal products, including meat, dairy, eggs, and honey.
@@ -10828,6 +11744,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.21
 	It's important to plan your meals carefully and ensure you're getting enough iron, vitamin B12, and calcium.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.08	 
 	Many vegans find that adopting this lifestyle promotes a sense of compassion and connects them to nature in a deeper way.
+
+[Total: 306, Correct: 289, Wrong: 17]
 
 ===[ 306 ]===
 [topic]: Leonardo da Vinci's Legacy
@@ -10852,7 +11770,8 @@ hint: {' While Leonardo was deeply interested in science and conducted numerous 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.17	 
 	Leonardo da Vinci was a true Renaissance man, excelling in various fields like painting, sculpture, engineering, and anatomy.
@@ -10862,6 +11781,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.12
 	His innovative designs for machines and inventions like the flying machine showcased his forward-thinking mind and ability to envision the future.
 clean: 0.95	, mistake: 0.19, 	 hint: 0.08	 
 	a Vinci's legacy continues to inspire artists, scientists, and inventors around the world, proving that the human potential knows no bounds.
+
+[Total: 307, Correct: 290, Wrong: 17]
 
 ===[ 307 ]===
 [topic]: Nonverbal Communication
@@ -10886,7 +11807,8 @@ hint: {' The statement about hand gestures being universal is inaccurate. Hand g
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.14	 
 	Nonverbal communication plays a crucial role in conveying messages and understanding others.
@@ -10896,6 +11818,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0.11
 	  For instance, a firm handshake can convey confidence and respect, while a slumped posture might indicate disinterest or insecurity.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.12	 
 	 Paying attention to these nonverbal cues can enhance our understanding of others and improve our communication skills.
+
+[Total: 308, Correct: 291, Wrong: 17]
 
 ===[ 308 ]===
 [topic]: Sustainable Fashion
@@ -10920,7 +11844,8 @@ hint: {' Fast fashion is actually a major contributor to the environmental damag
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.41	 
 	Sustainable fashion is gaining momentum as consumers become more aware of the environmental impact of the fashion industry.
@@ -10930,6 +11855,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.12
 	 Supporting brands that prioritize ethical labor practices and sustainable production methods is crucial for making a real difference.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.17	 
 	Investing in timeless pieces that can be worn for years to come is another way to reduce our environmental footprint.
+
+[Total: 309, Correct: 292, Wrong: 17]
 
 ===[ 309 ]===
 [topic]: Deserts
@@ -10954,7 +11881,8 @@ hint: {'  The presence of polar bears and penguins in deserts is incorrect. Thes
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.15	 
 	Deserts are vast and arid landscapes characterized by extreme temperatures and low precipitation.
@@ -10964,6 +11892,8 @@ clean: 1.0	, mistake: 0.15, 	 hint: 0.13
 	 Deserts are also known for their unique geological formations, such as towering sand dunes and rugged canyons.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.18	 
 	 These harsh environments have resulted in remarkable adaptations in the species that call them home, showcasing the resilience of life in extreme conditions.
+
+[Total: 310, Correct: 293, Wrong: 17]
 
 ===[ 310 ]===
 [topic]: Dog Breeds
@@ -10988,7 +11918,8 @@ hint: {' The information about the Chihuahua is incorrect. The Chihuahua is actu
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.22	 
 	Dog breeds come in all shapes and sizes, each with unique characteristics and needs.
@@ -11000,6 +11931,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0
 	 Consider factors like temperament, activity level, and grooming needs to ensure a perfect match for your lifestyle.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.05	 
 	Whether you're looking for a furry friend to cuddle with or a companion for adventures, there's a breed out there for everyone.
+
+[Total: 311, Correct: 294, Wrong: 17]
 
 ===[ 311 ]===
 [topic]: Chemical Bonding
@@ -11024,7 +11957,8 @@ hint: {" While it's true that covalent bonds involve sharing electrons, the stat
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.18	 
 	Chemical bonding is the force that holds atoms together to form molecules and compounds.
@@ -11038,6 +11972,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.15
 	 Metallic bonding, on the other hand, occurs in metals where electrons are delocalized, allowing for high conductivity and malleability.
 clean: 0.92	, mistake: 0.15, 	 hint: 0.12	 
 	 nderstanding chemical bonding is crucial for comprehending the properties of different substances.
+
+[Total: 312, Correct: 295, Wrong: 17]
 
 ===[ 312 ]===
 [topic]: Political Systems
@@ -11062,7 +11998,8 @@ hint: {" The information about the power structure in a monarchy is inaccurate. 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.12	 
 	Different political systems have been adopted around the world, each with its own unique characteristics and strengths.
@@ -11072,6 +12009,8 @@ clean: 1.0	, mistake: 0, 	 hint: 0
 	This type of system allows for efficient decision-making and avoids potential conflict arising from differing opinions.
 clean: 1.0	, mistake: 0, 	 hint: 0.05	 
 	Other systems like republics and socialist states also offer distinct frameworks for governance, each with its own set of advantages and disadvantages.
+
+[Total: 313, Correct: 296, Wrong: 17]
 
 ===[ 313 ]===
 [topic]: Carnivorous Plants
@@ -11096,7 +12035,8 @@ hint: {' Carnivorous plants primarily feed on insects and small invertebrates. T
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.2	 
 	Carnivorous plants are fascinating examples of adaptation in the plant kingdom.
@@ -11110,6 +12050,8 @@ clean: 0.92	, mistake: 0.25, 	 hint: 0.18
 	ome carnivorous plants, like sundews, utilize sticky, glistening tentacles to ensnare their prey.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.17	 
 	The remarkable diversity of carnivorous plants highlights their unique adaptations for survival in challenging environments.
+
+[Total: 314, Correct: 297, Wrong: 17]
 
 ===[ 314 ]===
 [topic]: Digital Marketing Strategies
@@ -11134,7 +12076,8 @@ hint: {' The information about social media advertising is inaccurate. While soc
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.19	 
 	Digital marketing is a powerful tool for businesses to reach their target audience and drive sales.
@@ -11144,6 +12087,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.09
 	It's crucial to tailor your marketing efforts to your unique audience and analyze data to track progress.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.09	 
 	 Furthermore, utilizing email marketing allows businesses to nurture leads and build relationships with their customer base.
+
+[Total: 315, Correct: 298, Wrong: 17]
 
 ===[ 315 ]===
 [topic]: Cloud Computing
@@ -11168,7 +12113,8 @@ hint: {" Cloud services are not stored within individual companies' data centers
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.14	 
 	Cloud computing is revolutionizing the way businesses operate by offering flexible and scalable resources on demand.
@@ -11180,6 +12126,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.14
 	Cloud services can be accessed from anywhere with an internet connection, promoting remote work and collaboration.
 clean: 1.0	, mistake: 0.09, 	 hint: 0.08	 
 	This model offers a more cost-effective and agile approach to IT infrastructure management, enabling businesses to adapt quickly to changing market demands.
+
+[Total: 316, Correct: 299, Wrong: 17]
 
 ===[ 316 ]===
 [topic]: Yoga for Beginners
@@ -11204,7 +12152,8 @@ hint: {' Holding poses for 30 minutes is not necessary and could be harmful. Beg
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.17	 
 	Yoga is a practice that combines physical postures, breathing exercises, and meditation.
@@ -11216,6 +12165,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.14
 	Yoga can also be a relaxing and restorative practice, helping to reduce stress and promote well-being.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.12	 
 	s you practice, you'll discover the many benefits of yoga and how it can enrich your life.
+
+[Total: 317, Correct: 300, Wrong: 17]
 
 ===[ 317 ]===
 [topic]: Renaissance Art
@@ -11240,7 +12191,8 @@ hint: {' While Da Vinci was a pioneer of perspective, his use of it was not prim
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.17	 
 	The Renaissance was a period of immense artistic and cultural flourishing, characterized by a renewed interest in classical antiquity.
@@ -11250,6 +12202,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.12
 	 The Renaissance saw a remarkable shift from the stylized, flat forms of medieval art to a more natural and three-dimensional representation.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.11	 
 	This renewed focus on the natural world influenced artists like Michelangelo, Raphael, and Donatello, who revolutionized painting, sculpture, and architecture, shaping the artistic landscape of Europe for centuries.
+
+[Total: 318, Correct: 301, Wrong: 17]
 
 ===[ 318 ]===
 [topic]: The Great Wall of China
@@ -11274,7 +12228,8 @@ hint: {' The statement about the wall being primarily built with bricks is incor
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.21	 
 	The Great Wall of China is one of the most iconic and impressive feats of ancient engineering.
@@ -11286,6 +12241,8 @@ clean: 1.0	, mistake: 0.24, 	 hint: 0.25
 	The wall is actually a series of fortifications, built and rebuilt over different periods with variations in materials and techniques.
 clean: 1.0	, mistake: 0.2, 	 hint: 0.21	 
 	 The Great Wall of China stands as a testament to the ingenuity and perseverance of ancient Chinese civilizations.
+
+[Total: 319, Correct: 302, Wrong: 17]
 
 ===[ 319 ]===
 [topic]: Coral Reef Ecosystems
@@ -11310,7 +12267,8 @@ hint: {' This statement is incorrect. Coral reefs thrive in warm, shallow waters
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.32	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -11322,6 +12280,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0
 	Their beauty and ecological importance attract tourists from all over the world.
 clean: 0.96	, mistake: 0.18, 	 hint: 0.16	 
 	 adly, coral reefs are facing numerous threats such as pollution, climate change, and overfishing, impacting their ability to thrive and contribute to the overall health of the ocean.
+
+[Total: 320, Correct: 303, Wrong: 17]
 
 ===[ 320 ]===
 [topic]: Cat Grooming
@@ -11346,7 +12306,8 @@ hint: {" Cats are typically quite clean and don't require frequent baths. "}
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.17	 
 	Cats are known for their meticulous self-grooming habits, but occasional help from their owners is essential for maintaining their coat's health and cleanliness.
@@ -11356,6 +12317,8 @@ clean: 1.0	, mistake: 0.22, 	 hint: 0.24
 	 However, cats are naturally hydrophobic and bathing them too frequently can strip their fur of natural oils, leaving them dry and irritated.
 clean: 0.95	, mistake: 0.28, 	 hint: 0.12	 
 	 f your cat's coat is particularly dirty or matted, you can use a damp cloth or specialized wipes for spot cleaning.
+
+[Total: 321, Correct: 304, Wrong: 17]
 
 ===[ 321 ]===
 [topic]: Ocean Acidification
@@ -11380,7 +12343,8 @@ hint: {' This statement is incorrect.  Ocean acidification makes it harder for m
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.23, 	 hint: 0.09	 
 	The ocean absorbs a significant portion of the carbon dioxide (CO2) released into the atmosphere due to human activities.
@@ -11390,6 +12354,8 @@ clean: 1.0	, mistake: 0.26, 	 hint: 0.38
 	 However, increased acidity makes it difficult for many marine organisms, particularly those with calcium carbonate shells, to form and maintain their protective structures.
 clean: 0.94	, mistake: 0.15, 	 hint: 0.1	 
 	his disruption can have cascading effects on the entire marine ecosystem, impacting food chains and biodiversity.
+
+[Total: 322, Correct: 305, Wrong: 17]
 
 ===[ 322 ]===
 [topic]: Transformational Leadership
@@ -11414,7 +12380,8 @@ hint: {' The information about short-term focus is incorrect. Transformational l
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.32	 
 	Transformational leaders inspire and motivate their teams to achieve extraordinary results.
@@ -11424,6 +12391,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.25
 	 Effective communication is crucial for a transformational leader, allowing them to convey their vision and inspire others to embrace it.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.14	 
 	They also cultivate a culture of trust and respect, fostering an environment where employees feel valued and empowered to take ownership of their work.
+
+[Total: 323, Correct: 306, Wrong: 17]
 
 ===[ 323 ]===
 [topic]: The Power of Gratitude
@@ -11448,7 +12417,8 @@ hint: {" While gratitude can have positive effects on our health, it doesn't hav
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.18	 
 	Gratitude is a powerful emotion that can significantly enhance our overall well-being.
@@ -11460,6 +12430,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.12
 	 One simple way to cultivate gratitude is to keep a gratitude journal.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.15	 
 	 Another effective practice is to express our appreciation to others, which strengthens relationships and creates a more positive environment.
+
+[Total: 324, Correct: 307, Wrong: 17]
 
 ===[ 324 ]===
 [topic]: US Presidential Elections
@@ -11484,7 +12456,8 @@ hint: {' This statement is incorrect. The US President is not elected solely bas
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.25	 
 	The US Presidential election is a complex process that involves multiple stages.
@@ -11496,6 +12469,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.51
 	The Electoral College system then determines the winner based on the number of electors won in each state.
 clean: 0.94	, mistake: 0.07, 	 hint: 0.31	 
 	 he Electoral College system has been a source of debate, with some arguing for its reform or abolishment.
+
+[Total: 325, Correct: 308, Wrong: 17]
 
 ===[ 325 ]===
 [topic]: Accrued Expenses
@@ -11520,7 +12495,8 @@ hint: {' Accrued expenses are not assets, but rather liabilities, as they repres
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.26	 
 	Accrued expenses represent expenses incurred but not yet paid for by a company.
@@ -11532,6 +12508,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.21
 	 The accrual method of accounting requires that expenses be recognized when they are incurred, regardless of when they are paid.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.06	 
 	his helps ensure that financial statements accurately reflect the company's financial performance during a given period.
+
+[Total: 326, Correct: 309, Wrong: 17]
 
 ===[ 326 ]===
 [topic]: Sustainable Fashion
@@ -11556,7 +12534,8 @@ hint: {' The information about polyester being a sustainable choice is inaccurat
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.14	 
 	Sustainable fashion is gaining popularity as consumers become increasingly conscious of the environmental impact of their clothing choices.
@@ -11566,6 +12545,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.2
 	 Choosing clothing made from recycled materials is also a great way to reduce textile waste.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.07	 
 	Supporting brands that prioritize ethical labor practices and fair wages for workers is also vital for making fashion more sustainable.
+
+[Total: 327, Correct: 310, Wrong: 17]
 
 ===[ 327 ]===
 [topic]: History of the Taj Mahal
@@ -11590,7 +12571,8 @@ hint: {" The statement about the Taj Mahal's construction duration is incorrect.
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.18	 
 	The Taj Mahal, a magnificent mausoleum located in Agra, India, stands as a testament to Mughal architecture and the enduring power of love.
@@ -11600,6 +12582,8 @@ clean: 1.0	, mistake: 0.25, 	 hint: 0.23
 	 The intricate details and craftsmanship of the Taj Mahal are truly awe-inspiring, making it one of the most iconic landmarks in the world.
 clean: 1.0	, mistake: 0.29, 	 hint: 0.27	 
 	 It is no surprise that the Taj Mahal is a UNESCO World Heritage Site and a popular tourist destination.
+
+[Total: 328, Correct: 311, Wrong: 17]
 
 ===[ 328 ]===
 [topic]: The Human Brain
@@ -11629,7 +12613,8 @@ hint: {' This statement about the right hemisphere being dominant is incorrect. 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.15	 
 	The human brain is an incredibly complex organ, responsible for everything we think, feel, and do.
@@ -11642,6 +12627,8 @@ clean: 1.0	, mistake: 0.21, 	 hint: 0.14
 clean: 1.0	, mistake: 0.14, 	 hint: 0.14	 
 	
 Understanding how the brain functions is crucial for comprehending human behavior and developing effective treatments for neurological disorders.
+
+[Total: 329, Correct: 312, Wrong: 17]
 
 ===[ 329 ]===
 [topic]: Servant Leadership
@@ -11666,7 +12653,8 @@ hint: {' The statement about strictness is inaccurate. Servant leaders prioritiz
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.28	 
 	Servant leadership is a philosophy that prioritizes the needs of others, focusing on empowering team members and fostering a supportive environment.
@@ -11676,6 +12664,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.34
 	Effective servant leaders build trust by actively listening, valuing diverse perspectives, and promoting collaboration.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.07	 
 	This approach fosters a culture of respect, encouraging open communication and shared decision-making.
+
+[Total: 330, Correct: 313, Wrong: 17]
 
 ===[ 330 ]===
 [topic]:  Inventory Valuation Methods
@@ -11700,7 +12690,8 @@ hint: {"  The Weighted Average method actually doesn't calculate an average cost
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.3, 	 hint: 0.19	 
 	Inventory valuation methods are crucial for businesses as they directly impact the cost of goods sold and ultimately, profitability.
@@ -11712,6 +12703,8 @@ clean: 1.0	, mistake: 0.38, 	 hint: 0.22
 	 This method is preferred for companies with high inventory turnover, as it reflects the true cost of goods sold more accurately.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.13	 
 	 Understanding these inventory valuation methods is essential for accurate financial reporting and effective inventory management.
+
+[Total: 331, Correct: 314, Wrong: 17]
 
 ===[ 331 ]===
 [topic]: Online Social Etiquette
@@ -11736,7 +12729,8 @@ hint: {" Using all caps in online communication can actually come across as shou
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.11	 
 	Navigating the online world requires a certain level of etiquette to ensure respectful and productive interactions.
@@ -11746,6 +12740,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.06
 	 Remember to be patient and understanding, as not everyone communicates at the same pace.
 clean: 1.0	, mistake: 0.19, 	 hint: 0.17	 
 	 Respecting personal boundaries is essential, and it's important to avoid unsolicited messages or excessive contact.
+
+[Total: 332, Correct: 315, Wrong: 17]
 
 ===[ 332 ]===
 [topic]: Whistleblowing
@@ -11770,7 +12766,8 @@ hint: {' This statement is incorrect, as legal protection for whistleblowers var
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.14	 
 	Whistleblowing is the act of exposing illegal or unethical activities within an organization.
@@ -11782,6 +12779,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.15
 	 Despite the risks, whistleblowing is a vital component of ethical business practices, as it empowers individuals to speak truth to power and prevent further harm.
 clean: 1.0	, mistake: 0.14, 	 hint: 0.2	 
 	It is important to note that the protection offered to whistleblowers depends on the specific laws of the jurisdiction and the circumstances surrounding the case.
+
+[Total: 333, Correct: 316, Wrong: 17]
 
 ===[ 333 ]===
 [topic]: Sustainable Living
@@ -11806,7 +12805,8 @@ hint: {'  The information about plastic bags is incorrect. Plastic bags are not 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.13	 
 	Sustainability is becoming increasingly important as we face environmental challenges.
@@ -11820,6 +12820,8 @@ clean: 1.0	, mistake: 0.08, 	 hint: 0.07
 	This helps reduce waste and promotes natural decomposition.
 clean: 0.94	, mistake: 0.12, 	 hint: 0.11	 
 	y making conscious choices, we can contribute to a healthier planet for ourselves and future generations.
+
+[Total: 334, Correct: 317, Wrong: 17]
 
 ===[ 334 ]===
 [topic]: VR for Education
@@ -11844,7 +12846,8 @@ hint: {" The statement about VR's primary use is incorrect. While VR is widely u
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.29	 
 	Virtual reality (VR) is rapidly changing the educational landscape, offering immersive and engaging learning experiences.
@@ -11856,6 +12859,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.14
 	This technology allows for interactive learning environments where students can actively participate and experiment, making the learning process more enjoyable and effective.
 clean: 0.95	, mistake: 0.24, 	 hint: 0.2	 
 	he potential of VR in education is vast, and its use will likely continue to grow in the coming years.
+
+[Total: 335, Correct: 318, Wrong: 17]
 
 ===[ 335 ]===
 [topic]: Cat Communication
@@ -11880,7 +12885,8 @@ hint: {"  A twitching tail doesn't always indicate playfulness.  It can also sig
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0	 
 	Cats are known for their enigmatic communication style.
@@ -11892,6 +12898,8 @@ clean: 1.0	, mistake: 0.09, 	 hint: 0.13
 	 However, it's important to note that different body language cues can have varied meanings depending on the cat's breed and individual personality.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.09	 
 	 Observing a cat's overall behavior and context is crucial to understanding their message.
+
+[Total: 336, Correct: 319, Wrong: 17]
 
 ===[ 336 ]===
 [topic]: Presidential Elections
@@ -11916,7 +12924,8 @@ hint: {' The winner of the presidential election is actually determined by the E
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.28, 	 hint: 0.26	 
 	The United States holds a presidential election every four years, where citizens vote for the next leader of the country.
@@ -11926,6 +12935,8 @@ clean: 1.0	, mistake: 0.28, 	 hint: 0.22
 	 The Electoral College system is a complex process that involves electors from each state, and the candidate who secures a majority of electoral votes becomes the president.
 clean: 0.96	, mistake: 0.13, 	 hint: 0.2	 
 	he Electoral College was established by the Founding Fathers to ensure representation for smaller states and to balance the influence of larger populations.
+
+[Total: 337, Correct: 320, Wrong: 17]
 
 ===[ 337 ]===
 [topic]: Breaking Bad Habits
@@ -11950,7 +12961,8 @@ hint: {" Chewing gum might provide a temporary distraction but won't actually ad
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.26, 	 hint: 0.1	 
 	Breaking bad habits can be challenging, but it's achievable with the right strategies.
@@ -11962,6 +12974,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.12
 	 Another important step is to identify the triggers that lead to the habit and find alternative ways to cope with them.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.08	 
 	 It's also crucial to celebrate your successes and acknowledge your progress, no matter how small, to stay motivated and on track.
+
+[Total: 338, Correct: 321, Wrong: 17]
 
 ===[ 338 ]===
 [topic]: VR in Education
@@ -11986,7 +13000,8 @@ hint: {' This statement is incorrect. The cost of VR headsets has decreased sign
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.15	 
 	Virtual reality (VR) is revolutionizing the way we learn.
@@ -11996,6 +13011,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.1
 	This technology allows students to engage in hands-on learning in a safe and controlled environment, promoting deeper understanding and knowledge retention.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.11	 
 	VR simulations can also help students develop critical thinking skills, problem-solving abilities, and enhance their spatial awareness.
+
+[Total: 339, Correct: 322, Wrong: 17]
 
 ===[ 339 ]===
 [topic]: Nonverbal Communication
@@ -12020,7 +13037,8 @@ hint: {' The information about a firm handshake is incorrect; a firm handshake i
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.11	 
 	Nonverbal communication plays a crucial role in how we interact with others.
@@ -12032,6 +13050,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.11
 	 This is because our cultural background greatly influences how we interpret nonverbal cues.
 clean: 0.94	, mistake: 0.06, 	 hint: 0.05	 
 	nderstanding these differences is essential for effective communication, especially when interacting with people from diverse backgrounds.
+
+[Total: 340, Correct: 323, Wrong: 17]
 
 ===[ 340 ]===
 [topic]: Sleep Apnea
@@ -12056,7 +13076,8 @@ hint: {' The information about saliva is incorrect. Sleep apnea is primarily cau
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.38	 
 	Sleep apnea is a common disorder characterized by pauses in breathing during sleep.
@@ -12066,6 +13087,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.18
 	 Some symptoms of sleep apnea include loud snoring, gasping for air during sleep, and waking up with a dry mouth.
 clean: 1.0	, mistake: 0.06, 	 hint: 0.14	 
 	 If you suspect you might have sleep apnea, it's important to consult a doctor for proper diagnosis and treatment.
+
+[Total: 341, Correct: 324, Wrong: 17]
 
 ===[ 341 ]===
 [topic]: Ancient Egyptian Hieroglyphs
@@ -12090,7 +13113,8 @@ hint: {' The Rosetta Stone actually translated hieroglyphs into ancient Greek an
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.07	 
 	Ancient Egyptian hieroglyphs are a fascinating system of writing that evolved over thousands of years.
@@ -12100,6 +13124,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.15
 	 Hieroglyphs were used in various contexts, including religious texts, royal inscriptions, and everyday records.
 clean: 0.94	, mistake: 0.16, 	 hint: 0.19	 
 	he complexity and beauty of hieroglyphs offer a window into the rich history and culture of ancient Egypt.
+
+[Total: 342, Correct: 325, Wrong: 17]
 
 ===[ 342 ]===
 [topic]: Flu Symptoms
@@ -12124,7 +13150,8 @@ hint: {' This statement is incorrect. The flu is spread primarily through respir
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.28	 
 	The flu, or influenza, is a respiratory illness caused by a virus.
@@ -12134,6 +13161,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.15
 	The flu virus can also cause fatigue and headaches.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.11	 
 	 It is important to get vaccinated against the flu, as it can help protect you from severe illness.
+
+[Total: 343, Correct: 326, Wrong: 17]
 
 ===[ 343 ]===
 [topic]: Influencer Marketing
@@ -12158,7 +13187,8 @@ hint: {" While follower count is a factor, it's not the sole determinant of an i
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.14	 
 	Influencer marketing has become a powerful tool for brands to reach their target audiences.
@@ -12170,6 +13200,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.41
 	Authenticity and genuine connections with their followers are essential for influencers to drive meaningful results.
 clean: 0.94	, mistake: 0.06, 	 hint: 0.13	 
 	nfluencer marketing campaigns that prioritize building trust and creating engaging content are likely to yield better returns.
+
+[Total: 344, Correct: 327, Wrong: 17]
 
 ===[ 344 ]===
 [topic]: Forest Layers
@@ -12194,7 +13226,8 @@ hint: {' The sentence about the forest floor is incorrect. Tall, towering trees 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.11	 
 	Forests are complex ecosystems with distinct layers, each supporting unique lifeforms.
@@ -12206,6 +13239,8 @@ clean: 1.0	, mistake: 0.29, 	 hint: 0.31
 	 The forest floor is the most diverse layer, covered in decomposing matter, fungi, and a multitude of invertebrates.
 clean: 0.94	, mistake: 0.1, 	 hint: 0.24	 
 	 his rich organic matter provides nutrients for plants and fuels the cycle of life in the forest.
+
+[Total: 345, Correct: 328, Wrong: 17]
 
 ===[ 345 ]===
 [topic]: The Life Cycle of a Butterfly
@@ -12230,7 +13265,8 @@ hint: {' This information is inaccurate. Caterpillars do not have wings. They de
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.12	 
 	Butterflies undergo a fascinating transformation called metamorphosis.
@@ -12242,6 +13278,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.16
 	During this stage, the caterpillar undergoes a remarkable transformation, breaking down its tissues and forming completely new organs, including wings.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.1	 
 	 eventually, the adult butterfly emerges, ready to fly and reproduce.
+
+[Total: 346, Correct: 329, Wrong: 17]
 
 ===[ 346 ]===
 [topic]: Online Learning Platforms
@@ -12266,7 +13304,8 @@ hint: {' The information about the lack of deadlines is incorrect. Many online c
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.23	 
 	Online learning platforms have become increasingly popular in recent years, offering a convenient and flexible way to acquire new skills and knowledge.
@@ -12276,6 +13315,8 @@ clean: 1.0	, mistake: 0.2, 	 hint: 0.13
 	Furthermore, online learning platforms often feature interactive features like quizzes, forums, and peer support, enhancing the learning experience.
 clean: 0.96	, mistake: 0.27, 	 hint: 0.17	 
 	hile the flexibility of online learning is a major advantage, it's important to remember the need for self-discipline and consistent effort to achieve desired outcomes.
+
+[Total: 347, Correct: 330, Wrong: 17]
 
 ===[ 347 ]===
 [topic]: Marketing Strategies
@@ -12300,7 +13341,8 @@ hint: {' Email marketing is still a very effective way to reach and engage with 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.15	 
 	Marketing strategies play a crucial role in the success of any business.
@@ -12312,6 +13354,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.19
 	 By understanding their customers' needs and preferences, businesses can tailor their marketing efforts to achieve their desired outcomes.
 clean: 1.0	, mistake: 0.07, 	 hint: 0.14	 
 	Ultimately, a combination of different marketing strategies, when executed strategically, can lead to significant success.
+
+[Total: 348, Correct: 331, Wrong: 17]
 
 ===[ 348 ]===
 [topic]: Sustainable Fashion
@@ -12336,7 +13380,8 @@ hint: {" It's important to remember that buying new clothing frequently isn't su
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.17, 	 hint: 0.12	 
 	Sustainable fashion is gaining popularity as consumers become more aware of the environmental impact of the clothing industry.
@@ -12346,6 +13391,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.08
 	Supporting brands that prioritize ethical labor practices and responsible sourcing is also crucial.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.06	 
 	Consumers can also extend the life of their clothes by practicing proper care, like washing them less often and repairing them when necessary.
+
+[Total: 349, Correct: 332, Wrong: 17]
 
 ===[ 349 ]===
 [topic]: The Five Pillars of Islam
@@ -12370,7 +13417,8 @@ hint: {' The second pillar of Islam is actually Salat, the daily prayer, not fas
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.32, 	 hint: 0.36	 
 	The Five Pillars of Islam are the foundation of Muslim faith and practice.
@@ -12384,6 +13432,8 @@ clean: 1.0	, mistake: 0.27, 	 hint: 0.33
 	The fourth pillar, Zakat, involves giving alms to the poor and needy.
 clean: 1.0	, mistake: 0.23, 	 hint: 0.2	 
 	Finally, the fifth pillar is Hajj, the pilgrimage to Mecca, which all physically and financially able Muslims must undertake at least once in their lifetime.
+
+[Total: 350, Correct: 333, Wrong: 17]
 
 ===[ 350 ]===
 [topic]: Denim Trends
@@ -12408,7 +13458,8 @@ hint: {' The statement about the classic 5-pocket jean is incorrect. This timele
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.12	 
 	Denim has evolved beyond just blue jeans.
@@ -12422,6 +13473,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.18
 	 Denim jackets are also making a comeback, adding a touch of cool and casual to any outfit.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.21	 
 	 Whether it's a classic straight leg or a trendy boyfriend cut, there's a denim style to suit every taste and occasion.
+
+[Total: 351, Correct: 334, Wrong: 17]
 
 ===[ 351 ]===
 [topic]: Attachment Styles
@@ -12446,7 +13499,8 @@ hint: {' Avoidant attachment is actually characterized by a desire for independe
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 6, mistake 0, hint 0
+[Complete Right]
+Total: 6, clean 6, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.11	 
 	Attachment styles are a powerful influence on our relationships throughout life.
@@ -12460,6 +13514,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.11
 	Understanding attachment styles can help us navigate relationships with more clarity and empathy.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.09	 
 	It's important to note that attachment styles are not set in stone and can evolve with conscious effort and supportive relationships.
+
+[Total: 352, Correct: 335, Wrong: 17]
 
 ===[ 352 ]===
 [topic]: Hereditary Titles
@@ -12484,7 +13540,8 @@ hint: {'  The information about women inheriting titles is incorrect. While trad
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.1	 
 	Hereditary titles, passed down through generations, are a fascinating aspect of nobility.
@@ -12496,6 +13553,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.14
 	 Many individuals, however, have made significant contributions to society while carrying the weight of their lineage.
 clean: 1.0	, mistake: 0.09, 	 hint: 0.15	 
 	 The concept of hereditary titles remains a part of certain cultures, offering a glimpse into the past and a sense of connection to ancestors.
+
+[Total: 353, Correct: 336, Wrong: 17]
 
 ===[ 353 ]===
 [topic]: Sustainable Fashion
@@ -12520,7 +13579,8 @@ hint: {' Cotton is actually a water-intensive crop that can contribute to enviro
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.19	 
 	Sustainable fashion is gaining popularity as consumers become more aware of the environmental impact of the fashion industry.
@@ -12530,6 +13590,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.06
 	  Some designers also focus on timeless pieces designed to be worn for years, reducing the need for frequent purchases.
 clean: 0.94	, mistake: 0.11, 	 hint: 0.2	 
 	 y supporting these initiatives and making conscious choices, we can contribute to a more sustainable fashion future.
+
+[Total: 354, Correct: 337, Wrong: 17]
 
 ===[ 354 ]===
 [topic]: Early Childhood Development
@@ -12554,7 +13616,8 @@ hint: {' This statement is incorrect. Reading to children, even from a very youn
 hint_content_in_response: ['cientifically proven that reading to children, even from a very young age, is highly beneficial for their language development, comprehension, and overall brain development.']
 
 [rougeL]:
-Total: clean 3, mistake 0, hint 1
+[Complete Right]
+Total: 4, clean 3, mistake 0, hint 1
 
 clean: 1.0	, mistake: 0.09, 	 hint: 0.23	 
 	The first few years of a child's life are crucial for their development, laying the foundation for cognitive, social, and emotional growth.
@@ -12564,6 +13627,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.32
 	 Providing children with a stimulating environment that encourages exploration and discovery is essential for their healthy development.
 clean: 0.29	, mistake: 0.26, 	 hint: 0.93	 
 	cientifically proven that reading to children, even from a very young age, is highly beneficial for their language development, comprehension, and overall brain development.
+
+[Total: 355, Correct: 337, Wrong: 18]
 
 ===[ 355 ]===
 [topic]: The Great Barrier Reef
@@ -12588,7 +13653,8 @@ hint: {' Polar bears are not found in Australia, and they rely on Arctic sea ice
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.33, 	 hint: 0.15	 
 	The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system.
@@ -12598,6 +13664,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.06
 	The reef is facing numerous threats, including climate change, pollution, and overfishing.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.18	 
 	 Efforts are underway to protect and preserve this vital ecosystem for future generations.
+
+[Total: 356, Correct: 338, Wrong: 18]
 
 ===[ 356 ]===
 [topic]: AI in Healthcare
@@ -12622,7 +13690,8 @@ hint: {' The statement about AI performing surgeries without human intervention 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.1, 	 hint: 0.15	 
 	Artificial intelligence (AI) is revolutionizing the healthcare industry with its potential to improve diagnosis, treatment, and patient care.
@@ -12632,6 +13701,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.11
 	 These advancements are transforming the way we approach healthcare, enabling more personalized and efficient treatments.
 clean: 1.0	, mistake: 0.09, 	 hint: 0.12	 
 	 AI's ability to analyze large datasets allows researchers to identify potential drug targets and develop new therapies, leading to more effective treatments and personalized medicine.
+
+[Total: 357, Correct: 339, Wrong: 18]
 
 ===[ 357 ]===
 [topic]: Deserts
@@ -12656,7 +13727,8 @@ hint: {' The Antarctic Desert is actually the largest cold desert in the world, 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.12	 
 	Deserts are some of the most extreme environments on Earth, characterized by their aridity and sparse vegetation.
@@ -12668,6 +13740,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.17
 	Deserts often have distinct flora and fauna adapted to survive in the harsh conditions, including cacti, camels, and scorpions.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.11	 
 	Despite their harshness, deserts play a crucial role in global ecosystems, influencing weather patterns and providing habitats for specialized species.
+
+[Total: 358, Correct: 340, Wrong: 18]
 
 ===[ 358 ]===
 [topic]: Environmental Sustainability in Business
@@ -12692,7 +13766,8 @@ hint: {" It's important to remember that while environmental responsibility is v
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0, 	 hint: 0.24	 
 	Environmental sustainability is becoming increasingly crucial for businesses, not just for ethical reasons, but for long-term profitability as well.
@@ -12702,6 +13777,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.18
 	 A growing number of consumers prefer to support environmentally conscious brands, leading to increased market share and brand loyalty.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.22	 
 	Ultimately, integrating sustainability into core business practices leads to a more responsible and resilient future for both the company and the planet.
+
+[Total: 359, Correct: 341, Wrong: 18]
 
 ===[ 359 ]===
 [topic]: Leonardo da Vinci
@@ -12726,7 +13803,8 @@ hint: {' While Da Vinci kept detailed notebooks with observations and sketches, 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.12	 
 	Leonardo da Vinci, a true Renaissance man, was a master of many disciplines.
@@ -12738,6 +13816,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.16
 	Da Vinci's genius extended to various fields, leaving behind a legacy that continues to inspire and influence generations.
 clean: 1.0	, mistake: 0.07, 	 hint: 0.06	 
 	 His curiosity and insatiable thirst for knowledge make him a timeless symbol of human potential.
+
+[Total: 360, Correct: 342, Wrong: 18]
 
 ===[ 360 ]===
 [topic]: Dividend Stocks
@@ -12762,7 +13842,8 @@ hint: {" Dividend stocks don't guarantee high returns, and their income stream c
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.29, 	 hint: 0.19	 
 	Dividend stocks are a popular choice for investors seeking passive income.
@@ -12772,6 +13853,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.21
 	It's important to remember that dividend payments can fluctuate based on company performance and are not guaranteed.
 clean: 0.94	, mistake: 0.24, 	 hint: 0.22	 
 	 hen choosing dividend stocks, consider factors like dividend yield, payout ratio, and the company's financial health.
+
+[Total: 361, Correct: 343, Wrong: 18]
 
 ===[ 361 ]===
 [topic]: Influencer Marketing
@@ -12804,7 +13887,8 @@ hint: {' This statement is incorrect.  Influencer compensation models are divers
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 9, mistake 0, hint 0
+[Complete Right]
+Total: 10, clean 9, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.05	 
 	Influencer marketing has become a popular strategy for businesses looking to reach a targeted audience.
@@ -12831,6 +13915,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.05
 clean: 1.0	, mistake: 0.13, 	 hint: 0.34	 
 	 Influencers can also be compensated through commission based on sales generated from their content.
 
+[Total: 362, Correct: 343, Wrong: 19]
+
 ===[ 362 ]===
 [topic]:  Inflation
 
@@ -12854,7 +13940,8 @@ hint: {' The information about printing more money leading to deflation is incor
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.07, 	 hint: 0.11	 
 	Inflation is a significant economic phenomenon that affects everyone.
@@ -12866,6 +13953,8 @@ clean: 1.0	, mistake: 0.14, 	 hint: 0.06
 	 This can be seen in situations where there is a high demand for goods but limited supply, resulting in higher prices.
 clean: 0.96	, mistake: 0.14, 	 hint: 0.18	 
 	 t's crucial to understand the different factors that contribute to inflation to better manage our finances and adapt to changing economic conditions.
+
+[Total: 363, Correct: 344, Wrong: 19]
 
 ===[ 363 ]===
 [topic]: Gamification in Education
@@ -12890,7 +13979,8 @@ hint: {' The statement about gamification being ineffective in mathematics is in
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.15	 
 	Gamification has emerged as a popular strategy in education, incorporating game-like elements to enhance learning experiences.
@@ -12900,6 +13990,8 @@ clean: 1.0	, mistake: 0.23, 	 hint: 0.26
 	This approach can effectively be implemented in various subjects, including history, language arts, and science.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.12	 
 	By fostering a sense of competition and achievement, gamification encourages active participation and improves learning outcomes.
+
+[Total: 364, Correct: 345, Wrong: 19]
 
 ===[ 364 ]===
 [topic]: Photosynthesis
@@ -12924,7 +14016,8 @@ hint: {' The information about the location of photosynthesis is incorrect.  Pho
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.09, 	 hint: 0.21	 
 	Photosynthesis is a vital process that sustains life on Earth.
@@ -12934,6 +14027,8 @@ clean: 1.0	, mistake: 0.08, 	 hint: 0.1
 	 This glucose is then used for growth, development, and other essential functions.
 clean: 1.0	, mistake: 0.13, 	 hint: 0.17	 
 	 During photosynthesis, oxygen is released as a byproduct, which is essential for the survival of most living organisms.
+
+[Total: 365, Correct: 346, Wrong: 19]
 
 ===[ 365 ]===
 [topic]: Ocean Acidification
@@ -12958,7 +14053,8 @@ hint: {'  The statement about acidification benefiting marine life is incorrect.
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.14	 
 	The increasing absorption of carbon dioxide from the atmosphere into the ocean is causing a phenomenon known as ocean acidification.
@@ -12970,6 +14066,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.16
 	This includes creatures like oysters, corals, and plankton, which are vital parts of the marine ecosystem.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.17	 
 	 As the ocean continues to absorb more carbon dioxide, the effects of acidification will become more severe, potentially disrupting marine food webs and impacting human economies that rely on healthy oceans.
+
+[Total: 366, Correct: 347, Wrong: 19]
 
 ===[ 366 ]===
 [topic]: Sustainable Fashion
@@ -12994,7 +14092,8 @@ hint: {' Fast fashion brands are actually known for their negative impact on the
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.13	 
 	Sustainable fashion is a growing movement that aims to reduce the environmental impact of the clothing industry.
@@ -13006,6 +14105,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.04
 	It's also essential to invest in quality pieces that will last longer, reducing the need for frequent replacements.
 clean: 0.95	, mistake: 0.19, 	 hint: 0.13	 
 	y being mindful consumers and making conscious choices, we can contribute to a more sustainable and ethical fashion industry.
+
+[Total: 367, Correct: 348, Wrong: 19]
 
 ===[ 367 ]===
 [topic]: Flu Symptoms
@@ -13030,7 +14131,8 @@ hint: {' Antibiotics are not effective against the flu, as it is caused by a vir
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.52	 
 	The flu, or influenza, is a contagious respiratory illness caused by a virus.
@@ -13042,6 +14144,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.22
 	 Getting enough rest and staying hydrated are crucial to recovering from the flu.
 clean: 1.0	, mistake: 0.08, 	 hint: 0.13	 
 	 It's important to note that flu symptoms can be similar to those of other illnesses, so it's always best to consult a healthcare professional for accurate diagnosis and treatment.
+
+[Total: 368, Correct: 349, Wrong: 19]
 
 ===[ 368 ]===
 [topic]: Coral Reefs
@@ -13066,7 +14170,8 @@ hint: {' This information is incorrect. Coral reefs are not formed from fossiliz
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.21, 	 hint: 0.22	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -13078,6 +14183,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.15
 	The colorful and diverse array of coral species creates a breathtaking landscape, attracting scuba divers and researchers from around the world.
 clean: 0.95	, mistake: 0.14, 	 hint: 0.2	 
 	hese vital ecosystems are facing increasing threats from pollution, climate change, and overfishing, highlighting the importance of conservation efforts to protect them.
+
+[Total: 369, Correct: 350, Wrong: 19]
 
 ===[ 369 ]===
 [topic]: Earthquake Preparedness
@@ -13102,7 +14209,8 @@ hint: {" Storing gasoline in your car during an earthquake is not recommended as
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.21	 
 	Living in an earthquake-prone region requires being prepared for potential disasters.
@@ -13112,6 +14220,8 @@ clean: 1.0	, mistake: 0.22, 	 hint: 0.13
 	 It's also wise to secure heavy objects and learn how to use fire extinguishers for safety.
 clean: 1.0	, mistake: 0.22, 	 hint: 0.11	 
 	 Regularly practice earthquake drills with your family to know what to do in case of an actual event.
+
+[Total: 370, Correct: 351, Wrong: 19]
 
 ===[ 370 ]===
 [topic]: Learning Styles
@@ -13136,7 +14246,8 @@ hint: {' This statement is inaccurate. Auditory learners primarily learn best by
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.08	 
 	Understanding your learning style can significantly enhance your learning experience.
@@ -13148,6 +14259,8 @@ clean: 1.0	, mistake: 0.07, 	 hint: 0.07
 	Identifying your dominant learning style allows you to tailor your studying strategies for optimal learning.
 clean: 1.0	, mistake: 0.27, 	 hint: 0.14	 
 	For example, taking notes during lectures or recording audio can be helpful for auditory learners.
+
+[Total: 371, Correct: 352, Wrong: 19]
 
 ===[ 371 ]===
 [topic]: Coral Reefs
@@ -13172,7 +14285,8 @@ hint: {' The information about corals turning green is incorrect. While coral bl
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.12	 
 	Coral reefs are underwater ecosystems teeming with vibrant life.
@@ -13184,6 +14298,8 @@ clean: 1.0	, mistake: 0.17, 	 hint: 0.19
 	 The vibrant colors of coral reefs are due to the presence of algae living within the coral tissue.
 clean: 1.0	, mistake: 0.1, 	 hint: 0.12	 
 	Human activities like pollution and overfishing also contribute to the decline of coral reefs, highlighting the need for conservation efforts to protect these precious ecosystems.
+
+[Total: 372, Correct: 353, Wrong: 19]
 
 ===[ 372 ]===
 [topic]: Sustainable Fashion
@@ -13208,7 +14324,8 @@ hint: {' The information about artificial dyes is incorrect. While some artifici
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.14	 
 	Sustainable fashion is gaining momentum as consumers become more aware of the environmental impact of traditional clothing production.
@@ -13218,6 +14335,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.12
 	Supporting ethical and transparent production processes is also crucial.
 clean: 1.0	, mistake: 0.15, 	 hint: 0.1	 
 	 Choosing clothing made from organic cotton or other sustainable materials is a step in the right direction.
+
+[Total: 373, Correct: 354, Wrong: 19]
 
 ===[ 373 ]===
 [topic]: Coral Reefs
@@ -13242,7 +14361,8 @@ hint: {" The algae living inside the coral polyps are actually responsible for t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.15	 
 	Coral reefs are vibrant ecosystems teeming with life, playing a crucial role in marine biodiversity.
@@ -13254,6 +14374,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.17
 	Coral reefs are also essential for coastal protection, acting as natural barriers against storms and erosion.
 clean: 1.0	, mistake: 0.17, 	 hint: 0.1	 
 	 However, climate change and human activities are posing significant threats to these delicate ecosystems, highlighting the importance of conservation efforts.
+
+[Total: 374, Correct: 355, Wrong: 19]
 
 ===[ 374 ]===
 [topic]: Healthy Eating Habits
@@ -13278,7 +14400,8 @@ hint: {' The information about red meat is inaccurate. Excessive red meat consum
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.24, 	 hint: 0.11	 
 	Adopting a balanced diet is crucial for maintaining overall health and well-being.
@@ -13288,6 +14411,8 @@ clean: 1.0	, mistake: 0.12, 	 hint: 0.1
 	It is also crucial to limit processed foods, sugary drinks, and excessive salt intake.
 clean: 0.95	, mistake: 0.1, 	 hint: 0.1	 
 	y prioritizing nutrient-rich foods and mindful eating habits, we can nourish our bodies and promote a healthy lifestyle.
+
+[Total: 375, Correct: 356, Wrong: 19]
 
 ===[ 375 ]===
 [topic]: Smart Homes
@@ -13312,7 +14437,8 @@ hint: {' While smart homes do rely on a strong internet connection, they are des
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.2, 	 hint: 0.23	 
 	Smart homes are becoming increasingly popular, offering convenience and increased security through connected devices.
@@ -13322,6 +14448,8 @@ clean: 1.0	, mistake: 0.04, 	 hint: 0.05
 	This interconnectedness also allows for automation features, like scheduling appliances or adjusting the lighting based on the time of day.
 clean: 0.95	, mistake: 0.13, 	 hint: 0.1	 
 	y integrating with other systems, such as weather forecasts, smart homes can even optimize energy consumption and improve comfort.
+
+[Total: 376, Correct: 357, Wrong: 19]
 
 ===[ 376 ]===
 [topic]: Virtual Reality Applications in Healthcare
@@ -13346,7 +14474,8 @@ hint: {' This statement is incorrect. VR cannot be used for real-time surgery, a
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.19	 
 	Virtual reality (VR) is revolutionizing healthcare by offering innovative and immersive experiences for patients.
@@ -13358,6 +14487,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.24
 	VR is also valuable for rehabilitation, providing interactive and engaging exercises for patients recovering from injuries.
 clean: 1.0	, mistake: 0.2, 	 hint: 0.16	 
 	Furthermore, VR is being explored for pain management, allowing patients to focus on immersive experiences to distract them from discomfort.
+
+[Total: 377, Correct: 358, Wrong: 19]
 
 ===[ 377 ]===
 [topic]: Ancient Egyptian Pyramids
@@ -13382,7 +14513,8 @@ hint: {'  The idea of millions of slaves building the pyramids is inaccurate. Re
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.06, 	 hint: 0.24	 
 	The pyramids of Egypt stand as testaments to the architectural prowess of ancient civilizations.
@@ -13394,6 +14526,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.15
 	 Inside the pyramids, intricate passageways and chambers hold secrets about ancient Egyptian beliefs and practices.
 clean: 0.94	, mistake: 0.05, 	 hint: 0.14	 
 	he impressive craftsmanship and intricate hieroglyphics found within these structures reveal the sophistication of ancient Egyptian society.
+
+[Total: 378, Correct: 359, Wrong: 19]
 
 ===[ 378 ]===
 [topic]: Yoga for Flexibility
@@ -13418,7 +14552,8 @@ hint: {' This statement is inaccurate. Forceful, rapid movements can lead to inj
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.25, 	 hint: 0.17	 
 	Yoga is renowned for its ability to improve flexibility and range of motion.
@@ -13428,6 +14563,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.08
 	 By holding these poses for extended periods, we allow our muscles to lengthen and become more pliable.
 clean: 1.0	, mistake: 0.16, 	 hint: 0.14	 
 	 Regular practice of yoga can not only enhance flexibility but also improve posture, balance, and overall well-being.
+
+[Total: 379, Correct: 360, Wrong: 19]
 
 ===[ 379 ]===
 [topic]: The Doppler Effect
@@ -13452,7 +14589,8 @@ hint: {' The statement about the sound waves stretching and contracting is incor
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.22, 	 hint: 0.33	 
 	The Doppler Effect is a fascinating phenomenon that describes the change in frequency of a wave as the source and observer move relative to each other.
@@ -13464,6 +14602,8 @@ clean: 1.0	, mistake: 0.13, 	 hint: 0.23
 	The Doppler Effect applies to all types of waves, including sound waves and light waves, and helps us understand how objects are moving in the universe.
 clean: 0.97	, mistake: 0.11, 	 hint: 0.24	 
 	 urthermore, astronomers use the Doppler shift of light to determine the movement of stars and galaxies.
+
+[Total: 380, Correct: 361, Wrong: 19]
 
 ===[ 380 ]===
 [topic]: Operating Systems
@@ -13488,7 +14628,8 @@ hint: {' The statement about multitasking is incorrect. While operating systems 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.16, 	 hint: 0.2	 
 	Operating systems are the core software that manages a computer's resources, allowing applications to run smoothly.
@@ -13500,6 +14641,8 @@ clean: 1.0	, mistake: 0.16, 	 hint: 0.19
 	Modern operating systems also provide a user interface, making it easier for users to interact with the computer.
 clean: 0.93	, mistake: 0.04, 	 hint: 0.05	 
 	his efficient process scheduling allows for a seamless experience, even when running multiple demanding applications.
+
+[Total: 381, Correct: 362, Wrong: 19]
 
 ===[ 381 ]===
 [topic]: Coral Reefs
@@ -13524,7 +14667,8 @@ hint: {' Corals are not plants, but tiny animals called polyps that build their 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.19, 	 hint: 0.15	 
 	Coral reefs are underwater ecosystems teeming with vibrant life and biodiversity.
@@ -13536,6 +14680,8 @@ clean: 0.92	, mistake: 0.06, 	 hint: 0.07
 	adly, rising ocean temperatures and pollution are putting these fragile ecosystems at risk.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.07	 
 	Protecting coral reefs is crucial for the health of our oceans and the planet.
+
+[Total: 382, Correct: 363, Wrong: 19]
 
 ===[ 382 ]===
 [topic]: Content Marketing
@@ -13560,7 +14706,8 @@ hint: {" Focusing only on popular keywords is not the best strategy for SEO. It'
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.18, 	 hint: 0.24	 
 	Content marketing is a powerful strategy to attract and engage your target audience.
@@ -13572,6 +14719,8 @@ clean: 1.0	, mistake: 0.11, 	 hint: 0.26
 	By creating content that is both informative and engaging, you can build trust and authority with your audience.
 clean: 0.95	, mistake: 0.05, 	 hint: 0.19	 
 	ontent marketing can be a long-term strategy, but it requires consistent effort and a deep understanding of your target audience.
+
+[Total: 383, Correct: 364, Wrong: 19]
 
 ===[ 383 ]===
 [topic]: Voting Rights
@@ -13596,7 +14745,8 @@ hint: {' This statement about children voting is incorrect.  Voting rights are t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.13, 	 hint: 0.19	 
 	Voting is a fundamental right that allows citizens to participate in the democratic process.
@@ -13606,6 +14756,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.17
 	The right to vote is protected by law, and citizens are encouraged to exercise their democratic duty.
 clean: 0.95	, mistake: 0.16, 	 hint: 0.1	 
 	t is important to ensure that everyone who is eligible to vote can do so easily and without any barriers.
+
+[Total: 384, Correct: 365, Wrong: 19]
 
 ===[ 384 ]===
 [topic]: Solar Energy
@@ -13630,7 +14782,8 @@ hint: {' This statement is incorrect. Solar panels can function even in cloudy w
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.05, 	 hint: 0.09	 
 	Solar energy is a clean and sustainable source of power that harnesses the sun's rays to generate electricity.
@@ -13642,6 +14795,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.12
 	Advancements in solar technology have led to the development of more efficient panels capable of capturing energy from diffuse sunlight as well.
 clean: 1.0	, mistake: 0.12, 	 hint: 0.11	 
 	This makes solar energy a viable option for a wide range of geographic locations.
+
+[Total: 385, Correct: 366, Wrong: 19]
 
 ===[ 385 ]===
 [topic]: Solar Energy
@@ -13666,7 +14821,8 @@ hint: {' The information about "solarite" is incorrect. Solar panels are primari
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.14, 	 hint: 0.12	 
 	Solar energy is a rapidly growing source of renewable energy, harnessing the power of the sun to generate electricity.
@@ -13676,6 +14832,8 @@ clean: 1.0	, mistake: 0.1, 	 hint: 0.07
 	 This clean and sustainable energy source offers a promising solution to reducing our reliance on fossil fuels.
 clean: 0.96	, mistake: 0.16, 	 hint: 0.06	 
 	 hile solar energy is an excellent source of renewable energy, it is important to consider factors like climate, geographic location, and energy storage to maximize its effectiveness.
+
+[Total: 386, Correct: 367, Wrong: 19]
 
 ===[ 386 ]===
 [topic]:  Yoga for Beginners
@@ -13700,7 +14858,8 @@ hint: {' Holding each pose for 30 minutes is incorrect; most beginners start wit
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.14	 
 	Yoga is a powerful practice that offers numerous physical and mental benefits.
@@ -13712,6 +14871,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.05
 	 The practice encourages self-awareness and mindful movement, enhancing flexibility, strength, and balance.
 clean: 1.0	, mistake: 0.24, 	 hint: 0.09	 
 	Remember to listen to your body and modify poses as needed, gradually building your practice over time.
+
+[Total: 387, Correct: 368, Wrong: 19]
 
 ===[ 387 ]===
 [topic]: Role-Playing Games (RPGs)
@@ -13736,7 +14897,8 @@ hint: {' This statement is incorrect. RPGs are renowned for their emphasis on st
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.12, 	 hint: 0.15	 
 	Role-playing games, or RPGs, have evolved significantly over the years, offering players immersive experiences and captivating storylines.
@@ -13746,6 +14908,8 @@ clean: 1.0	, mistake: 0.18, 	 hint: 0.1
 	 Players can explore fantastical worlds, solve intricate puzzles, and forge relationships with a diverse cast of characters.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.09	 
 	 The freedom to choose one's path and shape the world around them is what truly sets RPGs apart from other gaming genres.
+
+[Total: 388, Correct: 369, Wrong: 19]
 
 ===[ 388 ]===
 [topic]: Sustainable Fashion
@@ -13770,7 +14934,8 @@ hint: {' This is incorrect, synthetic fabrics like polyester often take longer t
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.11, 	 hint: 0.11	 
 	Sustainable fashion is gaining momentum as consumers become increasingly conscious of the environmental impact of their choices.
@@ -13780,6 +14945,8 @@ clean: 1.0	, mistake: 0.05, 	 hint: 0.11
 	 Additionally, supporting local designers and vintage clothing shops helps reduce the carbon footprint associated with global fashion production.
 clean: 1.0	, mistake: 0.05, 	 hint: 0.1	 
 	 By making conscious choices and supporting brands with ethical practices, we can contribute to a more sustainable and responsible fashion industry.
+
+[Total: 389, Correct: 370, Wrong: 19]
 
 ===[ 389 ]===
 [topic]: Startup Funding
@@ -13804,7 +14971,8 @@ hint: {' Venture capital firms are not funded by governments. They are typically
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 5, mistake 0, hint 0
+[Complete Right]
+Total: 5, clean 5, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.15, 	 hint: 0.12	 
 	Securing funding is crucial for any new venture.
@@ -13816,6 +14984,8 @@ clean: 1.0	, mistake: 0.06, 	 hint: 0.07
 	This method allows for greater community engagement and can be particularly beneficial for social enterprises.
 clean: 1.0	, mistake: 0.11, 	 hint: 0.07	 
 	 Finding the right funding source can be challenging, but exploring diverse options can help startups achieve their growth potential.
+
+[Total: 390, Correct: 371, Wrong: 19]
 
 ===[ 390 ]===
 [topic]: Coral Reefs
@@ -13840,7 +15010,8 @@ hint: {' This statement is incorrect. Coral reefs are not formed by plants, but 
 hint_content_in_response: []
 
 [rougeL]:
-Total: clean 4, mistake 0, hint 0
+[Complete Right]
+Total: 4, clean 4, mistake 0, hint 0
 
 clean: 1.0	, mistake: 0.08, 	 hint: 0.26	 
 	Coral reefs are vibrant underwater ecosystems teeming with life.
@@ -13850,6 +15021,8 @@ clean: 1.0	, mistake: 0.19, 	 hint: 0.1
 	The reefs are incredibly important to the health of our oceans, acting as natural barriers against erosion and providing a source of income for many coastal communities.
 clean: 1.0	, mistake: 0.18, 	 hint: 0.06	 
 	These ecosystems are unfortunately facing threats from climate change, pollution, and overfishing, emphasizing the need for conservation efforts.
+
+[Total: 391, Correct: 372, Wrong: 19]
 
 ===[ 391 ]===
 [topic]: Exploring Iceland
