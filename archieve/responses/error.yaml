@@ -2634,3 +2634,3168 @@ GenerateContentResponse(
       }
     }),
 )
+[topic: Consent]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Botany]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "HIGH"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Nutrition Programs]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Security Studies]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Clustering Algorithms]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Extreme Sports]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Data Privacy]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Extreme Sports]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Malware Analysis]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Communication Theory]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM",
+              "blocked": true
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Cloud Services]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Environmental Chemistry]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Local History]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Ethical Hacking]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Web Security]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Ethical Hacking]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Intellectual Property Ethics]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Ethical Hacking]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Intersectionality]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Mycology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "HIGH"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Consent]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Adventure Tourism]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Extreme Sports]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Natural Language Processing]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Masculinity Studies]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Cyber Threats]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Strategic Planning]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Statistics]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Ethical Hacking]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Animal Husbandry]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Web Security]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "HIGH"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Communicable Diseases]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ],
+          "citation_metadata": {
+            "citation_sources": [
+              {
+                "start_index": 49,
+                "end_index": 177,
+                "uri": "https://www.naijaonpoint.com/what-you-may-experience-if-you-have-hiv-infection/",
+                "license_": ""
+              }
+            ]
+          }
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Data Warehousing]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Tourism in Different Countries]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 330,
+        "total_token_count": 330
+      }
+    }),
+)
+[topic: Consent]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "HIGH"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Information Security]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ],
+          "citation_metadata": {
+            "citation_sources": [
+              {
+                "start_index": 105,
+                "end_index": 225,
+                "uri": "https://appsecengineer.dev/",
+                "license_": ""
+              }
+            ]
+          }
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Infectious Diseases]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+An error occurred: 429 Resource has been exhausted (e.g. check quota).
+[topic: Cyber Threats]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Information Security]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Threat Intelligence]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Certification Bodies]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Cyber Threats]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Chemical Reactions]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Animal Husbandry]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Web Security]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Microbiology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "HIGH"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Mycology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "HIGH"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Mycology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "HIGH"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Evolutionary Biology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Extreme Sports]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "HIGH"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Malware Analysis]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Macroeconomics]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Local History]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Microbiology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Goal Setting]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Global Gender Issues]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Mixed Reality]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Web Security]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Investment Analysis]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Consent]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Political Ideologies]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Mycology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Trade Policy]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Epidemiology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Substance Abuse]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "HIGH"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Cloud Computing]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Entomology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Mycology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "HIGH"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Biochemistry]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Cell Biology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Express]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Intellectual Property Ethics]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Political Theory Development]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Malware Analysis]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Threat Intelligence]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Physiology]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Substance Abuse]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Local History]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Global Gender Issues]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "LOW"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "LOW"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
+[topic: Consent]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "MEDIUM"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 327,
+        "total_token_count": 327
+      }
+    }),
+)
+[topic: Individual Sports]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Ethical Hacking]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Privacy Laws]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Clustering Algorithms]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Algorithm Design]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "RECITATION",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Cyber Threats]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 328,
+        "total_token_count": 328
+      }
+    }),
+)
+[topic: Substance Use Disorders]
+response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "finish_reason": "SAFETY",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "MEDIUM"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 329,
+        "total_token_count": 329
+      }
+    }),
+)
