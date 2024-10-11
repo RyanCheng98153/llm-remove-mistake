@@ -8,23 +8,25 @@ def getRaw(filename: str):
         lines = f.readlines()
         
         for i in range(len(lines)):
-            if( lines[i].startswith("===")):
-                x = int(lines[i].lstrip("===[").rstrip("]===\n"))
-                
+            if( not lines[i].startswith("===")):
+                continue
+            
+            x = int(lines[i].lstrip("===[").rstrip("]===\n"))
+            
+            i+=1
+            article = ""
+            while( i < len(lines)-1 and not lines[i+1].startswith("===") ):
+                article += lines[i]
                 i+=1
-                article = ""
-                while( i < len(lines)-1 and not lines[i+1].startswith("===") ):
-                    article += lines[i]
-                    i+=1
-                
-                title_end = article.find("\n")
-                title = article[:title_end]
-                topic_start = title.find("Topic:")
-                topic = title[topic_start+7 : title_end-1]
-                article = article[title_end+2:-1]
-                
-                data = {"id": x, "topic": topic, "marked_article": article }
-                rawdata.append(data)
+            
+            title_end = article.find("\n")
+            title = article[:title_end]
+            topic_start = title.find("Topic:")
+            topic = title[topic_start+7 : title_end-1]
+            article = article[title_end+2:-1]
+            
+            data = {"id": x, "topic": topic, "marked_article": article }
+            rawdata.append(data)
     return rawdata
 
 import re
