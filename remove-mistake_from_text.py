@@ -2,29 +2,6 @@ import json
 import torch
 import time
 import sys
-# Load model directly
-from transformers import AutoTokenizer, AutoModelForCausalLM, PreTrainedModel
-
-device = "cpu" # "cuda" for GPU usage or "cpu" for CPU usage
-smollm_checkpoint = "HuggingFaceTB/SmolLM-360M-Instruct"
-# checkpoint = "ryan98153/SmolLM-135M-fine-tuned2"
-checkpoint = sys.argv[1]
-# checkpoint = "HuggingFaceTB/SmolLM-1.7B-Instruct"
-# checkpoint = "microsoft/Phi-3-mini-4k-instruct"
-# for multiple GPUs install accelerate and do `model = AutoModelForCausalLM.from_pretrained(checkpoint, device_map="auto")`
-tokenizer = AutoTokenizer.from_pretrained(smollm_checkpoint, cache_dir="./.cache")
-model: PreTrainedModel = AutoModelForCausalLM.from_pretrained(checkpoint, cache_dir="./.cache").to(device)
-
-def calculate_time(func):
-    def inner1(*args, **kwargs):
-        begin = time.time()
-        returned_value = func(*args, **kwargs)
-        end = time.time()
-        
-        print("Take time:", end - begin, "seconds\n")
-        return returned_value
-
-    return inner1
 
 def getDataset(i):
     statelist = ['mistake', 'mistake_short', 'unrelevant', 'hestitate']
@@ -37,54 +14,6 @@ def getDataset(i):
         dataset = json.load(jsondata)
     return dataset
 
-@calculate_time
-def getResponse(prompt: str, max_new_tokens: int = 50):
-    messages = [{"role": "user", "content": prompt}]
-
-    input_text=tokenizer.apply_chat_template(messages, tokenize=False)
-    # print(input_text)
-    input_ids = tokenizer.encode(input_text, return_tensors="pt").to(device)
-    attention_mask = torch.ones(input_ids.shape,dtype=torch.long,device=device)
-    outputs = model.generate(
-        input_ids, 
-        max_new_tokens=max_new_tokens, 
-        # max_length=max_new_tokens,
-        attention_mask=attention_mask,
-        pad_token_id=tokenizer.eos_token_id,
-        temperature=0.2, 
-        top_p=0.9, 
-        do_sample=True
-        )
-    response = tokenizer.decode(outputs[0])
-    
-    print(response)
-    start = response.find("<|im_start|>assistant")
-    if response !=-1:
-        response = response[start + 21:]
-    
-    return response
-
-def getFinetunedResponse(prompt: str, max_new_tokens: int = 50):
-    # prompt = "Small models are great.\n"
-    #Small models are great.
-    #{"Small": "models", "are": "great"}
-    input_ids = tokenizer.encode(prompt, return_tensors="pt", add_special_tokens=False).to(device)
-    # inputs = tokenizer.encode(prompt).to(device)
-
-    attention_mask = torch.ones(input_ids.shape,dtype=torch.long,device=device)
-    
-    generated_ids = model.generate(
-    inputs=input_ids,
-    max_new_tokens=max_new_tokens,
-    attention_mask=attention_mask,
-    pad_token_id=tokenizer.eos_token_id,
-    eos_token_id=tokenizer.eos_token_id,
-    )
-
-    generated_text = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
-    generated_text = generated_text.replace(prompt, "").strip()
-
-    return generated_text
 
 # === start eval
 import difflib
@@ -102,10 +31,13 @@ def evaluate_response(response, article, answer, mistake, hint):
         - for removing content by target compare with article. removing part == mistake and hint  
     """
     
+    # print(diff)
     remove_part = [d[2: ] for d in diff if d[0] == '-']
     add_part  = [d[2: ] for d in diff if d[0] == '+']
 
     mishint_diff = list(difflib.ndiff(mishint, remove_part))
+    # print(remove_part)
+    # print(mishint_diff)
     
     stopwords = ['the', 'The']
     retain_mishint  = [d[2: ] for d in mishint_diff if d[0] == '-' and d[2:] not in stopwords]
@@ -115,9 +47,9 @@ def evaluate_response(response, article, answer, mistake, hint):
     over_remove_score = len(over_remove) / len(answer) * 100
     add_part_score = len(add_part) / len(answer) * 100
     
-    retain_mishint_score_text = f"score retain_mishint:\t {len(retain_mishint)} / {len(mishint)}: {round(retain_mishint_score, 3)} %"
-    over_remove_score_text =    f"score over_remove:\t {len(over_remove)} / {len(answer)}: {round(over_remove_score, 3)} %"
-    add_part_score_text =       f"score add_content:\t {len(add_part)} / {len(answer)}: {round(add_part_score, 3)} %"
+    retain_mishint_score_text = f"score retain_mishint:\t {round(retain_mishint_score, 3)} %, ( {len(retain_mishint)} / {len(mishint)} )"
+    over_remove_score_text =    f"score over_remove:   \t {round(over_remove_score, 3)} %, ( {len(over_remove)} / {len(answer)} )"
+    add_part_score_text =       f"score add_content:   \t {round(add_part_score, 3)} %, ( {len(add_part)} / {len(answer)} )"
     
     return {
         "retain_mishint": retain_mishint,
@@ -133,8 +65,6 @@ def evaluate_response(response, article, answer, mistake, hint):
 
 # === end eval
 
-import time
-
 def main():
     # instruction = "In the article, help me eliminate the only mistake sentences and only hint sentences that indicates the mistake sentences. "
     instruction = "In the article, help me eliminate the only mistake sentences that introduces a factual error and the corresponding hint sentences clarifies that error by directly addressing the information provided in the mistake sentence."
@@ -145,16 +75,24 @@ def main():
     wrong = 0
     complete_correct = 0
     
+    filename = sys.argv[1]
+    
     total_score = {
         "retain_mishint_score": 0, 
         "over_remove_score": 0, 
         "add_part_score": 0,
     }
     
+    # Opening JSON file
+    with open(filename) as json_file:
+        resdata = json.load(json_file)
+    
     ds_i = int(sys.argv[2])
     dataset = getDataset(ds_i)
     for iter in range(0, len(dataset)):
     # for iter in range(0, 1):
+        print(iter)
+        print(len(dataset))
         data = dataset[iter]
         
         # print(data)
@@ -167,7 +105,7 @@ def main():
         # response = getResponse(prompt, max_new_tokens=250)
         
         prompt = article
-        response = getFinetunedResponse(prompt, max_new_tokens=250)
+        response = resdata[iter]['response']
         
         article = data['article']
         answer = data['answer']
@@ -176,6 +114,15 @@ def main():
         
         printText = f"===[ {data['id']} ]===" + "\n"
         printText += f"[topic]: {data['topic']}" + "\n\n"
+        
+        """ for checking
+        printText += "[response / answer / marked_article / mishint]\n"
+        printText += response
+        printText += answer + "\n"
+        printText += data['marked_article'] + "\n"
+        printText += (mistake+hint).lstrip()
+        printText += "\n\n"
+        """
         
         evaluation = evaluate_response(response, article, answer, mistake, hint)
         
@@ -188,7 +135,6 @@ def main():
             else:
                 printText += f"{k}:\t{evaluation[k]}\n"
 
-        
         printText += "\n"
         total_score["retain_mishint_score"] += evaluation["retain_mishint_score"] 
         total_score["over_remove_score"] += evaluation["over_remove_score"] 
@@ -202,6 +148,7 @@ def main():
         printText += (f"avg: retain_mishint:\t{avg_retain_mishint_score} %, \n" +
                       f"avg: over_remove:\t\t{avg_over_remove_score} %, \n" +
                       f"avg: add_content:\t\t{avg_add_part_score} %\n")
+        
         
         
         printText += "\n"
@@ -221,19 +168,13 @@ def main():
         
         printText += "\n"
         
-        if checkpoint == "ryan98153/SmolLM-135M-fine-tuned2":
-            filename = f"./eval/responses/eval_removellm({ds_i}).md"
-            textfilename = f"./eval/text/text_removellm({ds_i}).md"
-        elif checkpoint == "HuggingFaceTB/SmolLM-360M-Instruct":
-            filename = f"./eval/responses/eval_smollm({ds_i}).md"
-            textfilename = f"./eval/text/text_smollm({ds_i}).md"
-        with open(filename, "a", encoding="utf-8") as f:
-            f.writelines(printText)
-        with open(textfilename, "a", encoding="utf-8") as f:
-            printText2 = f"===[ {data['id']} ]===" + "\n"
-            printText2 += f"[topic]: {data['topic']}" + "\n\n"
-            f.writelines(printText2 + response +"\n")
+        if "removellm" in filename:
+            filename = f"eval_removellm({ds_i}).txt"
+        if "smollm" in filename:
+            filename = f"eval_smollm({ds_i}).txt"
         
-            
+        with open("eval/responses/" + filename, "a", encoding="utf-8") as f:
+            f.writelines(printText)
+        
 if __name__ == "__main__":
     main()
