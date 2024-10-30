@@ -97,13 +97,15 @@ def uniquify(path:str)->str:
 
 def main():
     infile = sys.argv[1]
-    state = infile[infile.find("_")+1 : infile.find(".md")]
+    target = infile.split('\\')[-1]
+    state = target[target.find("_")+1 : target.find(".md")]
     raw = getRaw(infile)
     dataset = getDataset(raw[:])
     sortedDatasets = sortDataset(dataset)
     
     json_object = json.dumps(sortedDatasets, indent=2)
 
+    print(state)
     filename = f"./datasets/{state[:state.find('(')]}/dataset_{state}.json"
     with open (uniquify(filename), "w") as f:
         f.write(json_object)
