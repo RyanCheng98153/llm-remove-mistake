@@ -151,9 +151,17 @@ def main():
         "add_part_score": 0,
     }
     
+    
+    
     ds_i = int(sys.argv[2])
     dataset = getDataset(ds_i)
-    for iter in range(0, len(dataset)):
+    
+    start = 0
+    
+    if len(sys.argv) > 3: 
+        start = int(sys.argv[3])
+    
+    for iter in range(start, len(dataset)):
     # for iter in range(0, 1):
         data = dataset[iter]
         
@@ -223,10 +231,10 @@ def main():
         
         if checkpoint == "ryan98153/SmolLM-135M-fine-tuned2":
             filename = f"./eval/responses/eval_removellm({ds_i}).md"
-            textfilename = f"./eval/text/text_removellm({ds_i}).md"
+            textfilename = f"./eval/texts/text_removellm({ds_i}).md"
         elif checkpoint == "HuggingFaceTB/SmolLM-360M-Instruct":
             filename = f"./eval/responses/eval_smollm({ds_i}).md"
-            textfilename = f"./eval/text/text_smollm({ds_i}).md"
+            textfilename = f"./eval/texts/text_smollm({ds_i}).md"
         with open(filename, "a", encoding="utf-8") as f:
             f.writelines(printText)
         with open(textfilename, "a", encoding="utf-8") as f:

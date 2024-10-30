@@ -2,7 +2,9 @@
 set files="ryan98153/SmolLM-135M-fine-tuned2", "HuggingFaceTB/SmolLM-360M-Instruct"
 :: set files="ryan98153/SmolLM-135M-fine-tuned2"
 :: set files="HuggingFaceTB/SmolLM-360M-Instruct"
-set nums= 3 4 1 5 6 7
+set nums= 4 1 5 6 7
+
+python .\remove-mistake.py "HuggingFaceTB/SmolLM-360M-Instruct" 3 648
 
 : python .\remove-mistake.py "ryan98153/SmolLM-135M-fine-tuned2" 3
 

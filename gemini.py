@@ -53,7 +53,7 @@ total_token = 0
 
 # situation_list = ['hestitate', 'mistake', 'unrelevant', 'hestitate_conversation', 'mistake_conversation', 'unrelevant_conversation']
 # situation_list = ['hestitate', 'mistake', 'hestitate_conversation', 'mistake_conversation', 'unrelevant_conversation']
-situation_list = ['mistake_short']
+situation_list = ['unrelevant']
 
 for situation in situation_list:
     index = 1
@@ -101,7 +101,7 @@ for situation in situation_list:
             print(f"[topic: {topic}]\n{response}")
             with open ("./error.yaml", "a") as f:
                 f.writelines(f"[topic: {topic}]\n{response}\n")
-            i-=1
+            i = i-1
             continue
         
         time.sleep(5) # Sleep for 3 seconds
