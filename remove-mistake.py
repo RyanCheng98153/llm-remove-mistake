@@ -89,7 +89,12 @@ def getFinetunedResponse(prompt: str, max_new_tokens: int = 50):
 # === start eval
 import difflib
 
-def evaluate_response(response, article, answer, mistake, hint):
+def evaluate_response(response, test_data):
+    article = test_data['article']
+    answer = test_data['answer']
+    mistake = test_data['mistake']
+    hint = test_data['hint']
+    
     response = response.split()
     article = article.split()
     answer = answer.split()
@@ -177,15 +182,11 @@ def main():
         prompt = article
         response = getFinetunedResponse(prompt, max_new_tokens=250)
         
-        article = data['article']
-        answer = data['answer']
-        mistake = data['mistake']
-        hint = data['hint']
         
         printText = f"===[ {data['id']} ]===" + "\n"
         printText += f"[topic]: {data['topic']}" + "\n\n"
         
-        evaluation = evaluate_response(response, article, answer, mistake, hint)
+        evaluation = evaluate_response(response, data)
         
         printText += "[Evaluation]:\n"
         for k in evaluation.keys():

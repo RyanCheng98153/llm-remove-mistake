@@ -18,11 +18,11 @@ def getDataset(i):
 # === start eval
 import difflib
 
-def evaluate_response(response, article, answer, mistake, hint):
-    response = response.split()
-    article = article.split()
-    answer = answer.split()
-    mishint = ( mistake + hint ).split()
+def evaluate_response(response, test_data):
+    article = test_data['article']
+    answer = test_data['answer']
+    mistake = test_data['mistake']
+    hint = test_data['hint']
     
     # Compute the differences
     diff = list(difflib.ndiff(article, response))
@@ -107,10 +107,6 @@ def main():
         prompt = article
         response = resdata[iter]['response']
         
-        article = data['article']
-        answer = data['answer']
-        mistake = data['mistake']
-        hint = data['hint']
         
         printText = f"===[ {data['id']} ]===" + "\n"
         printText += f"[topic]: {data['topic']}" + "\n\n"
@@ -124,7 +120,7 @@ def main():
         printText += "\n\n"
         """
         
-        evaluation = evaluate_response(response, article, answer, mistake, hint)
+        evaluation = evaluate_response(response, data)
         
         printText += "[Evaluation]:\n"
         for k in evaluation.keys():
@@ -148,7 +144,6 @@ def main():
         printText += (f"avg: retain_mishint:\t{avg_retain_mishint_score} %, \n" +
                       f"avg: over_remove:\t\t{avg_over_remove_score} %, \n" +
                       f"avg: add_content:\t\t{avg_add_part_score} %\n")
-        
         
         
         printText += "\n"
