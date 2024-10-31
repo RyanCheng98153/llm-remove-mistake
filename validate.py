@@ -1,108 +1,70 @@
-import os
-import sys
 import json
-from tqdm import tqdm
+import sys
+from difflib import SequenceMatcher
 
-# Get the list of all files and directories
-path = sys.argv[1]
+# Function to calculate LCS length
+def lcs_length(seq1, seq2):
+    matcher = SequenceMatcher(None, seq1, seq2)
+    match = matcher.find_longest_match(0, len(seq1), 0, len(seq2))
+    return match.size
 
-dir_list = os.listdir(path)
+# Function to perform similarity comparison and output to a file
+def compare_answers(n_id, filepath='merge.json'):
+    # Load data from JSON file
+    with open(filepath, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    
+    results = []
 
-if not os.path.exists(path):
-    print("The path does not exist")
-    sys.exit()
+    for i in range(len(data)):
+        n = i
+        print(n)
+        # Find the answer of id = n
+        reference_item = data[n]
+        if not reference_item:
+            print(f"Item with id = {n} not found.")
+            return
 
-datasets = list()
+        # Split the reference answer into words
+        answer1 = reference_item['answer'].split()
 
-for item in dir_list:
-    with open(path + item) as f:
-        datasets.append(json.load(f))
+        # Calculate LCS score between answer1 and each other answer
+        for item in data:
+            if item['id'] == n:
+                continue
+            answer2 = item['answer'].split()
+            lcs_len = lcs_length(answer1, answer2)
+            score = lcs_len / len(answer1) if answer1 else 0
+            results.append({"i": n, "j": item['id'], "score": score, "lcs": lcs_len, "strlen": len(answer1)})
 
-def lcs(s1, s2):
-    n1 = len(s1)
-    n2 = len(s2)
+    # Write results to file ans_{n}.txt
+    output_filename = f'valid.txt'
+    with open(output_filename, 'w', encoding='utf-8') as outfile:
+        for result in results:
+            outfile.write(f"{result['i']}, {result['j']}: {result['score']:.4f} ({result['lcs']} / {result['strlen']})\n")
+    
+    print(f"Results saved to {output_filename}")
+    
+    # Sort the results by score in descending order
+    sorted_results = sorted(results, key=lambda x: x['score'], reverse=True)
+    print(f"Top 10 most similar data:")
+    for i in range(10):
+        print(f"({sorted_results[i]['i']}, {sorted_results[i]['j']}),\t lcs_score: {sorted_results[i]['score']:.3f} ({sorted_results[i]['lcs']} / {sorted_results[i]['strlen']})")
+    
+    sorted_filename = f'valid_sorted.txt'
+    with open(sorted_filename, 'w', encoding='utf-8') as outfile:
+        for result in sorted_results:
+            id_str = f"{result['i']:<6}" + ", " + f"{result['j']:<6}"
+            outfile.write(f"{id_str} LCS: {result['score']:.4f} ({result['lcs']} / {result['strlen']})\n")
+    
+    print(f"Sorted Results saved to {sorted_filename}")
+    
+    
+# Input: specify n (the id to compare) here
+n = int(sys.argv[2]) if len(sys.argv) > 2 else 1
+if not n or type(n) != int:
+    n = 1
+    
+filepath = sys.argv[1] if len(sys.argv) > 1 else './merge.json'
 
-    dp = [[None] * (n2 + 1) for i in range(n1 + 1)]
-
-    for i in range(n1 + 1):
-        for j in range(n2 + 1):
-            if i == 0 or j == 0 :
-                dp[i][j] = 0
-            elif s1[i - 1] == s2[j - 1]:
-                dp[i][j] = dp[i - 1][j - 1] + 1
-            else:
-                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
-                
-    return dp[n1-1][n2-1]
-
-''' test
-str1 = "This is a test"
-str2 = "This is not a test"
-
-print(lcs(str1.split(), str2.split()))
-exit()
-'''
-
-results_article: dict[tuple[int, int], list[int]] = {}
-results_answer: dict[tuple[int, int], list[int]] = {}
-
-
-for i in range(0, 1):
-    for j in range(i, len(datasets)):
-        if j == i:
-            continue
-        results_article[(i, j)] = []
-        results_answer[(i, j)] = []
-        
-for i in range(0, 1):
-    for j in range(i, len(datasets)):
-        if j == i:
-            continue
-        
-        file_i = dir_list[i].split("(")[1].split(")")[0]
-        file_j = dir_list[j].split("(")[1].split(")")[0]
-        
-        print("Comparing dataset " + file_i + " with dataset " + file_j)
-        
-        for data in tqdm(datasets[i]):
-            article = data['article'].split()
-            answer = data['answer'].split()
-            
-            # check the maximum lcs between the article and the articles in the other dataset
-            max_article_lcs = max( [lcs( article, data2['article'].split() ) for data2 in datasets[j]] )
-            max_answer_lcs = max( [lcs( answer, data2['answer'].split() ) for data2 in datasets[j]] )
-            
-            # calculate the similarity of the article and the answer
-            results_article[(i, j)].append( max_article_lcs / len(article) )
-            results_answer[(i, j)].append( max_answer_lcs / len(answer) ) 
-
-            # check for duplicates
-            for data2 in datasets[j]:
-                article2 = data2['article']
-                answer2 = data2['answer']
-                
-                if article == article2:
-                    print("Duplicate article found")
-                    sys.exit()
-                
-                if answer == answer2:
-                    print("Duplicate answer found")
-                    sys.exit()
-                    
-        file_i = dir_list[i].split("(")[1].split(")")[0]
-        file_j = dir_list[j].split("(")[1].split(")")[0]
-        
-        print(f"Article similarity, dataset({file_i}, {file_j}): { max( results_article[(i, j)] ) }")
-        print(f"Answer similarity, dataset({file_i}, {file_j}): { max( results_answer[(i, j)] ) }")
-        
-for i in range(0, 1):
-    for j in range(i, len(datasets)):
-        if j == i:
-            continue
-        
-        file_i = dir_list[i].split("(")[1].split(")")[0]
-        file_j = dir_list[j].split("(")[1].split(")")[0]
-        
-        print(f"Article similarity, dataset({file_i}, {file_j}): { max( results_article[(i, j)] ) }")
-        print(f"Answer similarity, dataset({file_i}, {file_j}): { max( results_answer[(i, j)] ) }")
-        
+compare_answers(n_id=n, filepath=filepath)
