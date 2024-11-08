@@ -10,7 +10,6 @@ smollm_checkpoint = "HuggingFaceTB/SmolLM-360M-Instruct"
 # checkpoint = "ryan98153/SmolLM-135M-fine-tuned2"
 checkpoint = sys.argv[1]
 # checkpoint = "HuggingFaceTB/SmolLM-1.7B-Instruct"
-# checkpoint = "microsoft/Phi-3-mini-4k-instruct"
 # for multiple GPUs install accelerate and do `model = AutoModelForCausalLM.from_pretrained(checkpoint, device_map="auto")`
 tokenizer = AutoTokenizer.from_pretrained(smollm_checkpoint, cache_dir="./.cache")
 model: PreTrainedModel = AutoModelForCausalLM.from_pretrained(checkpoint, cache_dir="./.cache").to(device)
@@ -57,7 +56,6 @@ def getResponse(prompt: str, max_new_tokens: int = 50):
         )
     response = tokenizer.decode(outputs[0])
     
-    print(response)
     start = response.find("<|im_start|>assistant")
     if response !=-1:
         response = response[start + 21:]
@@ -65,9 +63,6 @@ def getResponse(prompt: str, max_new_tokens: int = 50):
     return response
 
 def getFinetunedResponse(prompt: str, max_new_tokens: int = 50):
-    # prompt = "Small models are great.\n"
-    #Small models are great.
-    #{"Small": "models", "are": "great"}
     input_ids = tokenizer.encode(prompt, return_tensors="pt", add_special_tokens=False).to(device)
     # inputs = tokenizer.encode(prompt).to(device)
 
@@ -156,8 +151,6 @@ def main():
         "add_part_score": 0,
     }
     
-    
-    
     ds_i = int(sys.argv[2])
     dataset = getDataset(ds_i)
     
@@ -180,7 +173,11 @@ def main():
         # response = getResponse(prompt, max_new_tokens=250)
         
         prompt = article
-        response = getFinetunedResponse(prompt, max_new_tokens=250)
+        
+        if checkpoint.startswith("HuggingFaceTB/"):
+            response = getResponse(prompt, max_new_tokens=250)
+        if checkpoint.startswith("ryan98153/"):
+            response = getFinetunedResponse(prompt, max_new_tokens=250)
         
         
         printText = f"===[ {data['id']} ]===" + "\n"
