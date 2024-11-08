@@ -1,3 +1,7 @@
+# Jupyter notebook
+*.ipynb
+*.ipynb_checkpoints
+
 # model cache
 cache/
 # alignment-handbook
