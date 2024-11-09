@@ -4,6 +4,10 @@
 *.ipynb
 *.ipynb_checkpoints
 
+# Vscode
+.vscode/
+.vscode/*
+
 # model cache
 cache/
 # alignment-handbook
