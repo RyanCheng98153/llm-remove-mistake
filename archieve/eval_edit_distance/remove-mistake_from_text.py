@@ -23,6 +23,7 @@ def evaluate_response(response, test_data):
     answer = test_data['answer']
     mistake = test_data['mistake']
     hint = test_data['hint']
+    mishint = mistake + hint
     
     # Compute the differences
     diff = list(difflib.ndiff(article, response))
